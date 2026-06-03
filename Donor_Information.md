@@ -2,6 +2,5 @@
 
 | Parameter | Value |
 |-----------|-------|
-| Species | Goat |
-| Gender | Male |
+| Species | Pig |
 | Weight | 12 kg |
