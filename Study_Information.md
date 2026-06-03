@@ -2,12 +2,7 @@
 
 | Parameter | Value |
 |-----------|-------|
-| Study ID | |
-| Date | |
-| Study Lead | |
-| Study Overseer | |
-| Objective | |
-
-## Notes
-
--
+| Study ID | TEST001 |
+| Date | 03-Jun-2026 |
+| Study Lead | Nihal |
+| Objective | Testing GitHub Markdown |
