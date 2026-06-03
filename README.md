@@ -12,3 +12,14 @@ This repository contains data and documentation for an organ perfusion experimen
 * Histology
 * Final Observations
 
+# BTB Experiment Data
+
+## Coding Reference
+
+### Species
+- 0 = Goat
+- 1 = Pig
+
+### Gender
+- 0 = Female
+- 1 = Male
