@@ -1,13 +1,7 @@
 # Donor Information
 
 | Parameter | Value |
-| --------- | ----- |
-| Organ ID  |       |
-| Species   |       |
-| Gender    |       |
-| Age       |       |
-| Weight    |       |
-
-## Notes
-
-*
+|-----------|-------|
+| Species | Goat |
+| Gender | Male |
+| Weight | 12 kg |
