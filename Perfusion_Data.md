@@ -1,7 +1,5717 @@
-# Perfusion Data
+# Organ Maintenance Perfusion
 
-| Time | Temperature | Lactate |
-|-------|------------|---------|
-| 0 min | 36.5 | 1.2 |
-| 30 min | 36.8 | 1.4 |
-| 60 min | 37.0 | 1.5 |
+## Entry 1
+
+- **pH**: 7.436
+- **Start Time **: Sat Dec 30 1899 21:31:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 35.4
+- **Mode (LM/WM)**: LM
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:32:10 GMT+0521 (India Standard Time)
+- **Thermal imaging Yes/No**: 1
+- **Fluke camera  Ti400/TC01B**: TC01B
+- **Recording number**: 1
+- **Recording duration**: 900
+- **Clock time**: Sat Dec 30 1899 21:25:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T0
+- **Recording number**: 2
+- **Recording duration**: 20
+- **Clock time**: Sat Dec 30 1899 21:52:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T27
+- **Recording number**: 3
+- **Recording duration**: 32
+- **Clock time**: Sat Dec 30 1899 22:00:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T35
+- **Recording number**: 4
+- **Recording duration**: 31
+- **Clock time**: Sat Dec 30 1899 22:28:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T63
+- **Recording number**: 5
+- **Recording duration**: 31
+- **Clock time**: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T106
+- **Recording number**: 6
+- **Recording duration**: 76
+- **Clock time**: Sun Dec 31 1899 01:09:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T224
+- **Recording number**: 7
+- **Recording duration**: 41
+- **Clock time**: Sun Dec 31 1899 01:32:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T247
+- **Recording number**: 8
+- **Recording duration**: 30
+- **Clock time**: Sun Dec 31 1899 02:08:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T238
+- **Recording number**: 9
+- **Recording duration**: 35
+- **Clock time**: Sun Dec 31 1899 02:19:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T294
+- **Recording number**: 10
+- **Recording duration**: 39
+- **Clock time**: Sat Dec 30 1899 15:31:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: T366
+- **Pacing (Yes/No)**: -
+- **Lead (RA/RV)**: RA
+- **Initiation Time **: Sat Dec 30 1899 21:33:10 GMT+0521 (India Standard Time)
+- **Heart Rate (BPM)**: 64
+- **Initial Output Voltage (V)**: 5
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:32:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:34:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 21:36:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 21:37:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 21:51:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 21:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:14:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 19:59:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB_02_AFT_MCLOTH
+- **pH**: 7.443
+- **pCO2 (mmHg)**: 23.4
+- **pO2 (mmHg)**: 30.4
+- **K+ (mmol/L)**: 6.3
+- **Ca2+ (mmol/L)**: 1.22
+- **Glu (mg/dL)**: 53
+- **Lac (mmol/L)**: 3.43
+- **Urea (mmol/L)**: 3.1
+- **Cre (mg/dL)**: 1.23
+- **HCO3- (mmol/L)**: 16
+- **Time **: Sat Dec 30 1899 19:46:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB-01-BEF-MCLOTH
+- **pH**: 7.298
+- **pCO2 (mmHg)**: 41
+- **pO2 (mmHg)**: 25.9
+- **K+ (mmol/L)**: 6.8
+- **Ca2+ (mmol/L)**: 1.07
+- **Glu (mg/dL)**: 50
+- **Lac (mmol/L)**: 4.5
+- **Urea (mmol/L)**: 4.2
+- **Cre (mg/dL)**: 1.12
+- **HCO3- (mmol/L)**: 20.1
+- **Time **: Sat Dec 30 1899 20:37:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB51-BO
+- **pH**: 7.281
+- **pCO2 (mmHg)**: 55.6
+- **pO2 (mmHg)**: 38.5
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 2.21
+- **Glu (mg/dL)**: 88
+- **Lac (mmol/L)**: 1.39
+- **Urea (mmol/L)**: 1.4
+- **Cre (mg/dL)**: 0.35
+- **HCO3- (mmol/L)**: 26.2
+- **Time **: Sat Dec 30 1899 20:58:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB051_AO
+- **pH**: 7.39
+- **pCO2 (mmHg)**: 35.3
+- **pO2 (mmHg)**: 100.2
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 1.33
+- **Glu (mg/dL)**: 88
+- **Lac (mmol/L)**: 1.42
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.31
+- **HCO3- (mmol/L)**: 21.4
+- **Time **: Sat Dec 30 1899 21:16:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB051_A0_BEF_mount
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.473
+- **pCO2 (mmHg)**: 26.6
+- **pO2 (mmHg)**: 105.7
+- **K+ (mmol/L)**: 4.1
+- **Ca2+ (mmol/L)**: 1.25
+- **Glu (mg/dL)**: IQC
+- **Lac (mmol/L)**: 1.7
+- **Urea (mmol/L)**: 1.3
+- **Cre (mg/dL)**: 0.47
+- **HCO3- (mmol/L)**: 19.5
+- **Time **: Sat Dec 30 1899 21:34:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB051_AO_S1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.436
+- **pCO2 (mmHg)**: 36.3
+- **pO2 (mmHg)**: 83.4
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 1.17
+- **Glu (mg/dL)**: 78
+- **Lac (mmol/L)**: 2.47
+- **Urea (mmol/L)**: 1.3
+- **Cre (mg/dL)**: 0.6
+- **HCO3- (mmol/L)**: 24.4
+- **Time **: Sat Dec 30 1899 21:44:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB051_PA_S1
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.367
+- **pCO2 (mmHg)**: 43.2
+- **pO2 (mmHg)**: 47.5
+- **K+ (mmol/L)**: 3.6
+- **Ca2+ (mmol/L)**: 1.22
+- **Glu (mg/dL)**: 71
+- **Lac (mmol/L)**: 3.85
+- **Urea (mmol/L)**: 1.3
+- **Cre (mg/dL)**: 0.56
+- **HCO3- (mmol/L)**: 24.8
+- **Time **: Sat Dec 30 1899 21:55:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB051_AO_S2
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.417
+- **pCO2 (mmHg)**: 38.6
+- **pO2 (mmHg)**: 109.8
+- **K+ (mmol/L)**: 3.8
+- **Ca2+ (mmol/L)**: 1.19
+- **Glu (mg/dL)**: 77
+- **Lac (mmol/L)**: 3.11
+- **Urea (mmol/L)**: 1.3
+- **Cre (mg/dL)**: 0.45
+- **HCO3- (mmol/L)**: 24.8
+- **Time **: Sat Dec 30 1899 22:05:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT051_PA_S2
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.326
+- **pCO2 (mmHg)**: 47.7
+- **pO2 (mmHg)**: 47.9
+- **K+ (mmol/L)**: 2.8
+- **Ca2+ (mmol/L)**: 1.2
+- **Glu (mg/dL)**: 85
+- **Lac (mmol/L)**: 3.79
+- **Urea (mmol/L)**: 1.3
+- **Cre (mg/dL)**: 0.67
+- **HCO3- (mmol/L)**: 24.9
+- **Time **: Sat Dec 30 1899 22:27:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB051_AO_S3_BW_DIA
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.369
+- **pCO2 (mmHg)**: 41.6
+- **pO2 (mmHg)**: 83.9
+- **K+ (mmol/L)**: 3.8
+- **Ca2+ (mmol/L)**: 1.02
+- **Glu (mg/dL)**: 74
+- **Lac (mmol/L)**: 2.8
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.41
+- **HCO3- (mmol/L)**: 24
+- **Time **: Sat Dec 30 1899 22:34:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB051_PA_S3
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.337
+- **pCO2 (mmHg)**: 46
+- **pO2 (mmHg)**: 40.4
+- **K+ (mmol/L)**: 3.8
+- **Ca2+ (mmol/L)**: 1.04
+- **Glu (mg/dL)**: 68
+- **Lac (mmol/L)**: 3.04
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 24.6
+- **Time **: Sat Dec 30 1899 22:57:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB051_AO_S4
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.35
+- **pCO2 (mmHg)**: 42.9
+- **pO2 (mmHg)**: 76
+- **K+ (mmol/L)**: 1.09
+- **Ca2+ (mmol/L)**: 81
+- **Glu (mg/dL)**: 3.23
+- **Lac (mmol/L)**: <1.1
+- **Urea (mmol/L)**: 0.4
+- **Cre (mg/dL)**: 0.44
+- **HCO3- (mmol/L)**: 23.7
+- **Time **: Sat Dec 30 1899 23:03:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB051_PA_S4
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.296
+- **pCO2 (mmHg)**: 48.8
+- **pO2 (mmHg)**: 35.5
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.15
+- **Glu (mg/dL)**: 82
+- **Lac (mmol/L)**: 3.43
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.53
+- **HCO3- (mmol/L)**: 23.8
+- **Time **: Sat Dec 30 1899 23:34:10 GMT+0521 (India Standard Time)
+- **pH**: 7.44
+- **Initial Temp**: 37
+- **Dialysate Replacement Time**: Sat Dec 30 1899 22:13:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+- **Temperature**: 37
+- **Dialysate Replacement Time**: Sun Dec 31 1899 00:36:10 GMT+0521 (India Standard Time)
+- **Remarks**: USED SOME DIALYSATE
+- **Dialysate Replacement Time**: Sun Dec 31 1899 01:16:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+- **Temperature**: 38
+
+## Entry 2
+
+- **pH**: 7.405
+- **Start Time **: Sat Dec 30 1899 23:27:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 33.8
+- **Mode (LM/WM)**: 0
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 23:28:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: RA
+- **Initiation Time **: Sat Dec 30 1899 23:26:10 GMT+0521 (India Standard Time)
+- **Heart Rate (BPM)**: 64
+- **Initial Output Voltage (V)**: 5
+- **Remarks**: HEART RATE : 78 BEATS PER MIN AT 10:43 AM
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:30:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 23:31:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 23:32:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 23:32:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 23:39:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 20:42:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_MUS_CLOTH
+- **Sample collected at AO/PA**: MUS CLOTH
+- **pH**: 7.36
+- **pCO2 (mmHg)**: 33.5
+- **pO2 (mmHg)**: 30.5
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 1.16
+- **Glu (mg/dL)**: 63
+- **Lac (mmol/L)**: 3.88
+- **Urea (mmol/L)**: 3.3
+- **Cre (mg/dL)**: 1.02
+- **HCO3- (mmol/L)**: 19.1
+- **Time **: Sat Dec 30 1899 20:53:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_AFT_MUS_CLO
+- **Sample collected at AO/PA/Buffer**: MUS CLOTH
+- **pH**: 7.53
+- **pCO2 (mmHg)**: 15
+- **pO2 (mmHg)**: 37.1
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 1.11
+- **Glu (mg/dL)**: 65
+- **Lac (mmol/L)**: 4.83
+- **Urea (mmol/L)**: 3
+- **Cre (mg/dL)**: 0.81
+- **HCO3- (mmol/L)**: 12.5
+- **Time **: Sat Dec 30 1899 21:13:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_AFT_BID_FIL
+- **Sample collected at AO/PA/Buffer**: BLOOD FIL
+- **pH**: 7.3
+- **pCO2 (mmHg)**: 31.1
+- **pO2 (mmHg)**: 34
+- **K+ (mmol/L)**: 5.9
+- **Ca2+ (mmol/L)**: 1.19
+- **Glu (mg/dL)**: 67
+- **Lac (mmol/L)**: 4.89
+- **Urea (mmol/L)**: 3.4
+- **Cre (mg/dL)**: 0.91
+- **HCO3- (mmol/L)**: 15.6
+- **Time **: Sat Dec 30 1899 21:23:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT050_AFT_BLD_FIL2
+- **Sample collected at AO/PA/Buffer**: BLOOD FIL
+- **pH**: 7.26
+- **pCO2 (mmHg)**: 27.9
+- **pO2 (mmHg)**: 32.6
+- **K+ (mmol/L)**: 5.8
+- **Ca2+ (mmol/L)**: 1.18
+- **Glu (mg/dL)**: 60
+- **Lac (mmol/L)**: 4.87
+- **Urea (mmol/L)**: 3.1
+- **Cre (mg/dL)**: 0.93
+- **HCO3- (mmol/L)**: 16
+- **Time **: Sat Dec 30 1899 21:33:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H1_BO
+- **Sample collected at AO/PA/Buffer**: BO
+- **pH**: 7.2
+- **pCO2 (mmHg)**: 43.2
+- **pO2 (mmHg)**: 39.4
+- **K+ (mmol/L)**: 3.6
+- **Ca2+ (mmol/L)**: 1.28
+- **Glu (mg/dL)**: 68
+- **Lac (mmol/L)**: 1.78
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.45
+- **HCO3- (mmol/L)**: 17
+- **Time **: Sat Dec 30 1899 21:43:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_BO2
+- **Sample collected at AO/PA/Buffer**: BO
+- **pH**: 7.34
+- **pCO2 (mmHg)**: 66.3
+- **pO2 (mmHg)**: 35.8
+- **K+ (mmol/L)**: 3.4
+- **Ca2+ (mmol/L)**: 1.04
+- **Glu (mg/dL)**: 82
+- **Lac (mmol/L)**: 1.78
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.52
+- **HCO3- (mmol/L)**: 35.9
+- **Time **: Sat Dec 30 1899 22:08:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_AFT_PRIMIMG
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.46
+- **pCO2 (mmHg)**: 34.2
+- **pO2 (mmHg)**: 98.1
+- **K+ (mmol/L)**: 2.8
+- **Ca2+ (mmol/L)**: 0.97
+- **Glu (mg/dL)**: 54
+- **Lac (mmol/L)**: 1.19
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.33
+- **HCO3- (mmol/L)**: 24.6
+- **Time **: Sat Dec 30 1899 22:29:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4_AFT_OXY
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.56
+- **pCO2 (mmHg)**: 21.7
+- **pO2 (mmHg)**: 114.8
+- **K+ (mmol/L)**: 2.8
+- **Ca2+ (mmol/L)**: 0.96
+- **Glu (mg/dL)**: 53
+- **Lac (mmol/L)**: 1.71
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.39
+- **HCO3- (mmol/L)**: 19.7
+- **Time **: Sat Dec 30 1899 22:42:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H1_BEF_MOUNT
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.52
+- **pCO2 (mmHg)**: 40.9
+- **pO2 (mmHg)**: 134.2
+- **K+ (mmol/L)**: 2.9
+- **Ca2+ (mmol/L)**: 0.87
+- **Glu (mg/dL)**: 54
+- **Lac (mmol/L)**: 1.65
+- **Urea (mmol/L)**: 1.3
+- **Cre (mg/dL)**: 0.67
+- **HCO3- (mmol/L)**: 33.7
+- **Time **: Sat Dec 30 1899 23:02:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_EIH4_BEFOREKOUNT
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.44
+- **pCO2 (mmHg)**: 43.2
+- **pO2 (mmHg)**: 140.3
+- **K+ (mmol/L)**: 3.8
+- **Ca2+ (mmol/L)**: 0.89
+- **Glu (mg/dL)**: 49
+- **Lac (mmol/L)**: 1.64
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.48
+- **HCO3- (mmol/L)**: 29.9
+- **Time **: Sat Dec 30 1899 23:24:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_AO_E1H4_S1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.4
+- **pCO2 (mmHg)**: 47.4
+- **pO2 (mmHg)**: 134
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 0.95
+- **Glu (mg/dL)**: 82
+- **Lac (mmol/L)**: 1.81
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.66
+- **HCO3- (mmol/L)**: 29.7
+- **Time **: Sat Dec 30 1899 23:33:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4_PA_S1
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.26
+- **pCO2 (mmHg)**: 58.4
+- **pO2 (mmHg)**: IQC
+- **K+ (mmol/L)**: 3.4
+- **Ca2+ (mmol/L)**: 1.01
+- **Glu (mg/dL)**: 71
+- **Lac (mmol/L)**: CNC
+- **Urea (mmol/L)**: 1.5
+- **Cre (mg/dL)**: CNC
+- **HCO3- (mmol/L)**: 26.7
+- **Time **: Sat Dec 30 1899 23:43:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4_ACR_OXY
+- **Sample collected at AO/PA/Buffer**: AC
+- **pH**: 7.38
+- **pCO2 (mmHg)**: 48.7
+- **pO2 (mmHg)**: 140.1
+- **K+ (mmol/L)**: 3.5
+- **Ca2+ (mmol/L)**: 0.93
+- **Glu (mg/dL)**: 67
+- **Lac (mmol/L)**: 2.46
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.74
+- **HCO3- (mmol/L)**: 29
+- **Time **: Sun Dec 31 1899 00:02:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H1_AO_S2
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.33
+- **pCO2 (mmHg)**: 47.4
+- **pO2 (mmHg)**: 68.8
+- **K+ (mmol/L)**: 3.8
+- **Ca2+ (mmol/L)**: 0.88
+- **Glu (mg/dL)**: 101
+- **Lac (mmol/L)**: 2.9
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.65
+- **HCO3- (mmol/L)**: 25.4
+- **Time **: Sun Dec 31 1899 00:12:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4_ACR_OXY2
+- **Sample collected at AO/PA/Buffer**: ACR OXY
+- **pH**: 7.35
+- **pCO2 (mmHg)**: 48.7
+- **pO2 (mmHg)**: 130.8
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 0.88
+- **Glu (mg/dL)**: 106
+- **Lac (mmol/L)**: 2.99
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.62
+- **HCO3- (mmol/L)**: 26.9
+- **Time **: Sun Dec 31 1899 00:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4AOS3
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.46
+- **pCO2 (mmHg)**: 35.2
+- **pO2 (mmHg)**: 86.1
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 0.84
+- **Glu (mg/dL)**: 105
+- **Lac (mmol/L)**: 2.97
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.62
+- **HCO3- (mmol/L)**: 25.2
+- **Time **: Sun Dec 31 1899 00:46:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4_AO_S4
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.5
+- **pCO2 (mmHg)**: 30.5
+- **pO2 (mmHg)**: 89.9
+- **K+ (mmol/L)**: 4.2
+- **Ca2+ (mmol/L)**: 0.84
+- **Glu (mg/dL)**: 108
+- **Lac (mmol/L)**: 3.28
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.69
+- **HCO3- (mmol/L)**: 24
+- **Time **: Sun Dec 31 1899 01:02:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4_PA_S2
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.4
+- **pCO2 (mmHg)**: 41.4
+- **pO2 (mmHg)**: 40.1
+- **K+ (mmol/L)**: 4.2
+- **Ca2+ (mmol/L)**: 0.86
+- **Glu (mg/dL)**: 105
+- **Lac (mmol/L)**: 3.74
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.67
+- **HCO3- (mmol/L)**: 25.8
+- **Time **: Sun Dec 31 1899 01:15:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT050_E1H4_AO_S5
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.42
+- **pCO2 (mmHg)**: 41.9
+- **pO2 (mmHg)**: 87.4
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 0.86
+- **Glu (mg/dL)**: 112
+- **Lac (mmol/L)**: 3.47
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.8
+- **HCO3- (mmol/L)**: 27.3
+- **Time **: Sun Dec 31 1899 01:44:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4_AO_S6
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.43
+- **pCO2 (mmHg)**: 36.6
+- **pO2 (mmHg)**: 101.9
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 0.91
+- **Glu (mg/dL)**: 109
+- **Lac (mmol/L)**: 3.57
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.74
+- **HCO3- (mmol/L)**: 24.8
+- **Time **: Sun Dec 31 1899 02:15:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4_AO_S7
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.35
+- **pCO2 (mmHg)**: 45.8
+- **pO2 (mmHg)**: 82.1
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 1.13
+- **Glu (mg/dL)**: 105
+- **Lac (mmol/L)**: 3.6
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.72
+- **HCO3- (mmol/L)**: 25.7
+- **Time **: Sun Dec 31 1899 02:23:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB050_E1H4_AO_END
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.39
+- **pCO2 (mmHg)**: 41.7
+- **pO2 (mmHg)**: 92.8
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 1.11
+- **Glu (mg/dL)**: 98
+- **Lac (mmol/L)**: 3.62
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.75
+- **HCO3- (mmol/L)**: 25.2
+- **Time **: Sun Dec 31 1899 02:28:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT050_E1H4_PA_END
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.64
+- **pCO2 (mmHg)**: 18.1
+- **pO2 (mmHg)**: 77.1
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 1.04
+- **Glu (mg/dL)**: 98
+- **Lac (mmol/L)**: 3.69
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.95
+- **HCO3- (mmol/L)**: 19.7
+- **Chemical**: Lignocaine
+- **Time**: Sat Dec 30 1899 23:39:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.2
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 23:44:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1 ml
+- **Chemical**: Dobutamine
+- **Time**: Sat Dec 30 1899 23:46:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 23:52:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1
+- **Chemical**: cacl2
+- **Time**: Sun Dec 31 1899 01:26:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+- **Chemical**: cacl2
+- **Time**: Sun Dec 31 1899 01:58:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+- **Chemical**: blood to reservior
+- **Time**: Sun Dec 31 1899 00:19:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 100
+- **perfusate modification remarks**: 15 ml bicarbonate added to blood at 9:19 am,1 ml kcl added (kcl stock-0.36g in 3ml ),1 ml of glucose was added,gas turned on by 9:07 am at a rate of 0.12LPM and increased to 0.5LPM by 9:20 am and again reduced to 0.12 LPM by 10:51 and increased to 0.5 LPM by 11:35 am.
+- **Start Time**: Sat Dec 30 1899 23:43:10 GMT+0521 (India Standard Time)
+- **pH**: 7.4
+- **Initial Temp**: 37
+- **Dialysis off time **: Sat Dec 30 1899 23:51:10 GMT+0521 (India Standard Time)
+
+## Entry 4
+
+- **pH**: 7.61
+- **AO Pressure (mmHg)**: 40
+- **Start Time **: Sat Dec 30 1899 22:31:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 35
+- **Mode (LM/WM)**: 0
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 22:38:10 GMT+0521 (India Standard Time)
+- **Thermal imaging Yes/No**: 1
+- **Fluke camera  Ti400/TC01B**: TC01B
+- **Recording number**: 1
+- **Recording duration**: 21:53sec
+- **Clock time**: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: t0
+- **Recording number**: 2
+- **Recording duration**: 6:26min
+- **Clock time**: Sat Dec 30 1899 22:48:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: t22
+- **Recording number**: 3
+- **Recording duration**: 0.18min
+- **Clock time**: Sat Dec 30 1899 23:15:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: t49
+- **Recording number**: 4
+- **Recording duration**: 3.07min
+- **Clock time**: Sat Dec 30 1899 23:16:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: t50
+- **Recording number**: 5
+- **Recording duration**: 0.30min
+- **Clock time**: Sat Dec 30 1899 23:34:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: t68
+- **Recording number**: 6
+- **Recording duration**: 0.30min
+- **Clock time**: Sun Dec 31 1899 01:29:10 GMT+0521 (India Standard Time)
+- ** Labchart Time**: t183
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 5
+- **Initiation Time **: Sat Dec 30 1899 22:32:10 GMT+0521 (India Standard Time)
+- **Heart Rate (BPM)**: 62
+- **Initial Output Voltage (V)**: 5V
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:33:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 22:33:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 22:35:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 23:16:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 22:37:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 22:38:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 22:39:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 23:16:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 21:05:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_RAWBLOOD
+- **pH**: 7.38
+- **pCO2 (mmHg)**: 34.1
+- **pO2 (mmHg)**: 25.7
+- **K+ (mmol/L)**: 6.4
+- **Ca2+ (mmol/L)**: 1.15
+- **Glu (mg/dL)**: 44
+- **Lac (mmol/L)**: 4.02
+- **Urea (mmol/L)**: IQC
+- **Cre (mg/dL)**: IQC
+- **HCO3- (mmol/L)**: 20.5
+- **Time **: Sat Dec 30 1899 21:15:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_PMS_BO
+- **Sample collected at AO/PA/Buffer**: BO
+- **pH**: 7.36
+- **pCO2 (mmHg)**: 47.5
+- **pO2 (mmHg)**: 36.1
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.38
+- **Glu (mg/dL)**: 37
+- **Lac (mmol/L)**: 1.4
+- **Urea (mmol/L)**: 1.2
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 27.1
+- **Time **: Sat Dec 30 1899 21:43:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_PRIMINGB
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.46
+- **pCO2 (mmHg)**: 31.5
+- **pO2 (mmHg)**: 66.4
+- **K+ (mmol/L)**: 3.7
+- **Ca2+ (mmol/L)**: 1.26
+- **Glu (mg/dL)**: 87
+- **Lac (mmol/L)**: 1.2
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 22.8
+- **Time **: Sat Dec 30 1899 21:54:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.61
+- **pCO2 (mmHg)**: 24.6
+- **pO2 (mmHg)**: 113.5
+- **K+ (mmol/L)**: 3.7
+- **Ca2+ (mmol/L)**: 1.17
+- **Glu (mg/dL)**: 111
+- **Lac (mmol/L)**: 1.14
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 25.2
+- **Time **: Sat Dec 30 1899 22:04:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_AO1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.66
+- **pCO2 (mmHg)**: 19.8
+- **pO2 (mmHg)**: 107.8
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.16
+- **Glu (mg/dL)**: 105
+- **Lac (mmol/L)**: 1.64
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 22.5
+- **Time **: Sat Dec 30 1899 22:15:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_AO_BEFMOUNT
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.65
+- **pCO2 (mmHg)**: 20.1
+- **pO2 (mmHg)**: 109.1
+- **K+ (mmol/L)**: 4.1
+- **Ca2+ (mmol/L)**: 1.14
+- **Glu (mg/dL)**: 101
+- **Lac (mmol/L)**: 1.7
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 22.4
+- **Time **: Sun Dec 31 1899 00:33:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_AFTERDEFIB
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.73
+- **pCO2 (mmHg)**: 13.5
+- **pO2 (mmHg)**: 87
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.09
+- **Glu (mg/dL)**: 95
+- **Lac (mmol/L)**: 2.19
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 18.2
+- **Time **: Sat Dec 30 1899 22:40:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_PA
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.38
+- **pCO2 (mmHg)**: 36.3
+- **pO2 (mmHg)**: 28.4
+- **K+ (mmol/L)**: 6.1
+- **Ca2+ (mmol/L)**: 0.8
+- **Glu (mg/dL)**: 88
+- **Lac (mmol/L)**: 6.5
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 1.2
+- **HCO3- (mmol/L)**: 21.7
+- **Time **: Sat Dec 30 1899 23:19:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_AO_E1H1_DIA
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.6
+- **pCO2 (mmHg)**: 22.1
+- **pO2 (mmHg)**: 112.2
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 0.9
+- **Glu (mg/dL)**: 68
+- **Lac (mmol/L)**: 2.74
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 22.1
+- **Time **: Sat Dec 30 1899 23:27:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_PA
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.61
+- **pCO2 (mmHg)**: 22.3
+- **pO2 (mmHg)**: 39.5
+- **K+ (mmol/L)**: 4.7
+- **Ca2+ (mmol/L)**: 0.9
+- **Glu (mg/dL)**: 63
+- **Lac (mmol/L)**: 3.4
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.8
+- **HCO3- (mmol/L)**: 22.8
+- **Time **: Sat Dec 30 1899 23:34:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_BEF_OXY
+- **Sample collected at AO/PA/Buffer**: AC OXY
+- **pH**: 7.62
+- **pCO2 (mmHg)**: 17
+- **pO2 (mmHg)**: 133.6
+- **K+ (mmol/L)**: 4.2
+- **Ca2+ (mmol/L)**: 0.9
+- **Glu (mg/dL)**: 71
+- **Lac (mmol/L)**: 2.3
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 17.5
+- **Time **: Sat Dec 30 1899 23:40:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_AFTER_OXY
+- **Sample collected at AO/PA/Buffer**: AC OXY
+- **pH**: 7.5
+- **pCO2 (mmHg)**: 25.5
+- **pO2 (mmHg)**: 180.9
+- **K+ (mmol/L)**: 4.2
+- **Ca2+ (mmol/L)**: 1.03
+- **Glu (mg/dL)**: 75
+- **Lac (mmol/L)**: 2.1
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 20.3
+- **Time **: Sun Dec 31 1899 00:03:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_AO_S3
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.63
+- **pCO2 (mmHg)**: 20.1
+- **pO2 (mmHg)**: 108.2
+- **K+ (mmol/L)**: 4.7
+- **Ca2+ (mmol/L)**: 1.06
+- **Glu (mg/dL)**: 74
+- **Lac (mmol/L)**: 3.11
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.7
+- **HCO3- (mmol/L)**: 21.2
+- **Time **: Sun Dec 31 1899 00:13:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_PA_S3
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.63
+- **pCO2 (mmHg)**: 20.9
+- **pO2 (mmHg)**: 62.5
+- **K+ (mmol/L)**: 4.9
+- **Ca2+ (mmol/L)**: 1.01
+- **Glu (mg/dL)**: 67
+- **Lac (mmol/L)**: 3.48
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.7
+- **HCO3- (mmol/L)**: 22.4
+- **Time **: Sun Dec 31 1899 00:54:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_AO_S4
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.62
+- **pCO2 (mmHg)**: 23.6
+- **pO2 (mmHg)**: 109.9
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 0.9
+- **Glu (mg/dL)**: 69
+- **Lac (mmol/L)**: 2.4
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 23.6
+- **Time **: Sun Dec 31 1899 01:00:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_PA_S4
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: Sat Dec 30 1899 21:17:10 GMT+0521 (India Standard Time)
+- **pCO2 (mmHg)**: 26.5
+- **pO2 (mmHg)**: 61.8
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 0.95
+- **Glu (mg/dL)**: 66
+- **Lac (mmol/L)**: 2.6
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.6
+- **HCO3- (mmol/L)**: 24.1
+- **Time **: Sun Dec 31 1899 01:06:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_BEF_OXY2
+- **Sample collected at AO/PA/Buffer**: AC OXY
+- **pH**: 7.49
+- **pCO2 (mmHg)**: 34.7
+- **pO2 (mmHg)**: 155.7
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 1
+- **Glu (mg/dL)**: 71
+- **Lac (mmol/L)**: 2.5
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 27
+- **Time **: Sun Dec 31 1899 01:12:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_AFT_OXY2
+- **Sample collected at AO/PA/Buffer**: AC OXY
+- **pH**: 7.58
+- **pCO2 (mmHg)**: 27.1
+- **pO2 (mmHg)**: 147
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 0.9
+- **Glu (mg/dL)**: 68
+- **Lac (mmol/L)**: 2.6
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 25.5
+- **Time **: Sun Dec 31 1899 01:30:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_END_AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.57
+- **pCO2 (mmHg)**: 31.2
+- **pO2 (mmHg)**: 119.5
+- **K+ (mmol/L)**: 4.7
+- **Ca2+ (mmol/L)**: 0.9
+- **Glu (mg/dL)**: 79
+- **Lac (mmol/L)**: 2.7
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.6
+- **HCO3- (mmol/L)**: 28.8
+- **Time **: Sun Dec 31 1899 01:35:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB049_E1H1_END_PA
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.53
+- **pCO2 (mmHg)**: 32.1
+- **pO2 (mmHg)**: 63.9
+- **K+ (mmol/L)**: 4.7
+- **Ca2+ (mmol/L)**: 0.9
+- **Glu (mg/dL)**: 70
+- **Lac (mmol/L)**: 2.4
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 6
+- **HCO3- (mmol/L)**: 27
+- **Chemical**: Bicarbonate
+- **Time**: Sat Dec 30 1899 22:43:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5
+- **Chemical**: Adenosine
+- **Time**: Sat Dec 30 1899 23:08:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1ml added through AO
+- **Remarks**: 50UL-> Diluted in 25ul
+- **Chemical**: CaCl2
+- **Time**: Sat Dec 30 1899 23:17:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 300ul
+- **Chemical**: Adenosine
+- **Time**: Sat Dec 30 1899 23:18:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 500ul
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 23:18:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+- **Chemical**: Anti-inflammatory
+- **Time**: Sat Dec 30 1899 23:28:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+- **Chemical**: Insulin
+- **Time**: Sat Dec 30 1899 23:29:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+- **Chemical**: CaCl2
+- **Time**: Sat Dec 30 1899 23:46:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 23:49:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+- **Chemical**: Glucose
+- **Time**: Sun Dec 31 1899 00:18:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 300ul
+- **Chemical**: Anti-inflammatory
+- **Time**: Sat Dec 30 1899 23:43:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.4ml
+- **Chemical**: Glucose
+- **Time**: Sun Dec 31 1899 00:44:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400ul
+- **Chemical**: GSH
+- **Time**: Sun Dec 31 1899 00:45:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.25ml
+- **Chemical**: HCo3
+- **Time**: Sun Dec 31 1899 00:45:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 4ml
+- **Chemical**: Glucose
+- **Time**: Sun Dec 31 1899 01:07:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 500ul
+- **Chemical**: CaCl2
+- **Time**: Sun Dec 31 1899 01:18:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 100ul
+- **Chemical**: HCo3
+- **Time**: Sun Dec 31 1899 01:25:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5
+- **perfusate modification remarks**: Initial oxygenation-0.12 at 9:22AM by 11:22AM oxygenation increased to 0.5,oxygenation increased to 1 at 12:04pm
+- **Start Time**: Sat Dec 30 1899 22:48:10 GMT+0521 (India Standard Time)
+- **pH**: 7.43
+- **Dialysate Replacement Time**: Sat Dec 30 1899 22:48:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+- **Dialysate Replacement Time**: Sun Dec 31 1899 00:24:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+
+## Entry 5
+
+- **Solution Code **: PMS010
+- **pH**: 7.76
+- **Flow Rate (mL/min)**: 80ml/min
+- **AO Pressure (mmHg)**: 32
+- **Start Time **: Sat Dec 30 1899 22:58:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 37
+- **LA Pressure (mmHg)**: 12
+- **Mode (LM/WM)**: 0
+- **Onset Time of Evident and Discontinuous Beat**: Sat Dec 30 1899 23:02:10 GMT+0521 (India Standard Time)
+- **Thermal imaging Yes/No**: 1
+- **Fluke camera  Ti400/TC01B**: TC01B
+- **Recording number**: 1
+- **Recording duration**: 1:00 min30sec
+- **Clock time**: Sat Dec 30 1899 20:37:10 GMT+0521 (India Standard Time)
+- **Recording number**: 2
+- **Recording duration**: 14Sec
+- **Clock time**: Sat Dec 30 1899 20:43:10 GMT+0521 (India Standard Time)
+- **Recording number**: 3
+- **Recording duration**: 10Sec
+- **Clock time**: Sat Dec 30 1899 20:50:10 GMT+0521 (India Standard Time)
+- **Recording number**: 4
+- **Recording duration**: 10Sec
+- **Clock time**: Sat Dec 30 1899 20:50:10 GMT+0521 (India Standard Time)
+- **Recording number**: 5
+- **Recording duration**: 6.21Sec
+- **Clock time**: Sat Dec 30 1899 22:58:10 GMT+0521 (India Standard Time)
+- **Recording number**: 6
+- **Recording duration**: 35sec
+- **Clock time**: Sat Dec 30 1899 23:05:10 GMT+0521 (India Standard Time)
+- **Recording number**: 7
+- **Recording duration**: 32sec
+- **Clock time**: Sun Dec 31 1899 02:03:10 GMT+0521 (India Standard Time)
+- **Recording number**: 8
+- **Recording duration**: 32sec
+- **Clock time**: Sun Dec 31 1899 02:04:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Heart Rate (BPM)**: 62
+- **Initial Output Voltage (V)**: 12V
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:00:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 23:00:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 23:01:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 23:01:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 23:02:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:03:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:05:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:05:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:09:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:10:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30J
+- **Time **: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30J
+- **Time **: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30J
+- **Time **: Sat Dec 30 1899 23:12:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30J
+- **Time **: Sat Dec 30 1899 23:13:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30J
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:01:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 23:02:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:19:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30J
+- **Time **: Sat Dec 30 1899 22:17:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_AO
+- **Sample collected at AO/PA**: AO
+- **pH**: 7.64
+- **pCO2 (mmHg)**: 26.1
+- **pO2 (mmHg)**: 95.1
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 0.94
+- **Glu (mg/dL)**: 290
+- **Lac (mmol/L)**: 1.75
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.45
+- **HCO3- (mmol/L)**: 28.5
+- **Time **: Sat Dec 30 1899 22:40:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_AO1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.77
+- **pCO2 (mmHg)**: 15.2
+- **pO2 (mmHg)**: 106.8
+- **K+ (mmol/L)**: 5.8
+- **Ca2+ (mmol/L)**: 0.89
+- **Glu (mg/dL)**: 299
+- **Lac (mmol/L)**: 2.08
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.45
+- **HCO3- (mmol/L)**: 22.4
+- **Time **: Sat Dec 30 1899 23:17:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_AO_S2
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.52
+- **pCO2 (mmHg)**: 25.7
+- **pO2 (mmHg)**: 106.2
+- **K+ (mmol/L)**: 4.7
+- **Ca2+ (mmol/L)**: 0.66
+- **Glu (mg/dL)**: 165
+- **Lac (mmol/L)**: 2.7
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.41
+- **HCO3- (mmol/L)**: 21.2
+- **Time **: Sat Dec 30 1899 23:39:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_S3_afterdia
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.59
+- **pCO2 (mmHg)**: 21
+- **pO2 (mmHg)**: 98.8
+- **K+ (mmol/L)**: 6
+- **Ca2+ (mmol/L)**: 0.86
+- **Glu (mg/dL)**: 165
+- **Lac (mmol/L)**: 2.94
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 20.3
+- **Time **: Sat Dec 30 1899 23:46:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_S3_PA_afterdia
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.57
+- **pCO2 (mmHg)**: 22.3
+- **pO2 (mmHg)**: 36.2
+- **K+ (mmol/L)**: 5.9
+- **Ca2+ (mmol/L)**: 0.82
+- **Glu (mg/dL)**: 164
+- **Lac (mmol/L)**: 3.18
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.52
+- **HCO3- (mmol/L)**: 20.6
+- **Time **: Sun Dec 31 1899 00:11:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_S4_AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.61
+- **pCO2 (mmHg)**: 19.1
+- **pO2 (mmHg)**: 118.4
+- **K+ (mmol/L)**: 5.9
+- **Ca2+ (mmol/L)**: 0.82
+- **Glu (mg/dL)**: 164
+- **Lac (mmol/L)**: 3.22
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.48
+- **HCO3- (mmol/L)**: 19.6
+- **Time **: Sun Dec 31 1899 00:17:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_S4_PA
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.62
+- **pCO2 (mmHg)**: 20.4
+- **pO2 (mmHg)**: 33.6
+- **K+ (mmol/L)**: 6
+- **Ca2+ (mmol/L)**: 0.81
+- **Glu (mg/dL)**: 156
+- **Lac (mmol/L)**: 3.66
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.53
+- **HCO3- (mmol/L)**: 20.9
+- **Time **: Sun Dec 31 1899 00:50:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_afterdia_AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.61
+- **pCO2 (mmHg)**: 23
+- **pO2 (mmHg)**: 137.3
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 0.88
+- **Glu (mg/dL)**: 135
+- **Lac (mmol/L)**: 2.7
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.44
+- **HCO3- (mmol/L)**: 23.1
+- **Time **: Sun Dec 31 1899 00:56:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_PA_D ON
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.59
+- **pCO2 (mmHg)**: 24.7
+- **pO2 (mmHg)**: 35
+- **K+ (mmol/L)**: 5.7
+- **Ca2+ (mmol/L)**: 0.92
+- **Glu (mg/dL)**: 121
+- **Lac (mmol/L)**: 3.09
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.38
+- **HCO3- (mmol/L)**: 24
+- **Time **: Sun Dec 31 1899 01:19:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_S6_afterdia
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.69
+- **pCO2 (mmHg)**: 18.4
+- **pO2 (mmHg)**: 112.6
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 1.07
+- **Glu (mg/dL)**: 129
+- **Lac (mmol/L)**: 2.74
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.47
+- **HCO3- (mmol/L)**: 22.4
+- **Time **: Sun Dec 31 1899 01:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_S6
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.66
+- **pCO2 (mmHg)**: 18.7
+- **pO2 (mmHg)**: 35.7
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 1.06
+- **Glu (mg/dL)**: 129
+- **Lac (mmol/L)**: 3.44
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.44
+- **HCO3- (mmol/L)**: 21.2
+- **Time **: Sun Dec 31 1899 02:01:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_AO_END
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.69
+- **pCO2 (mmHg)**: 17.5
+- **pO2 (mmHg)**: 131.4
+- **K+ (mmol/L)**: 5.9
+- **Ca2+ (mmol/L)**: 1.05
+- **Glu (mg/dL)**: 128
+- **Lac (mmol/L)**: 3.09
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.47
+- **HCO3- (mmol/L)**: 21.2
+- **Time **: Sun Dec 31 1899 02:17:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H2_PA_END
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.65
+- **pCO2 (mmHg)**: 17.8
+- **pO2 (mmHg)**: 29.1
+- **K+ (mmol/L)**: 5.8
+- **Ca2+ (mmol/L)**: 1.03
+- **Glu (mg/dL)**: 126
+- **Lac (mmol/L)**: 3.65
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.45
+- **HCO3- (mmol/L)**: 20
+- **Chemical**: Lignocaine
+- **Time**: Sat Dec 30 1899 23:07:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+- **Remarks**: 200ul mixed upto to 5ml throughly.
+- **Chemical**: dobutamine
+- **Time**: Sat Dec 30 1899 23:12:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 300ul
+- **Chemical**: nitroglycerin
+- **Time**: Sat Dec 30 1899 23:12:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 300ul
+- **Chemical**: Insulin
+- **Time**: Sat Dec 30 1899 23:13:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 30units
+- **Chemical**: CaCl2
+- **Time**: Sat Dec 30 1899 23:19:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5ml
+- **Chemical**: Dobutamine
+- **Time**: Sat Dec 30 1899 23:24:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5ml
+- **Chemical**: CaCl2
+- **Time**: Sat Dec 30 1899 23:27:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5ml
+- **Chemical**: CaCl2
+- **Time**: Sun Dec 31 1899 00:36:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5ml
+- **Chemical**: HCo3
+- **Time**: Sun Dec 31 1899 00:38:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 6ml
+- **Chemical**: Anti-inflammatory
+- **Time**: Sun Dec 31 1899 00:41:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.4ml
+- **Chemical**: CaCl2
+- **Time**: Sun Dec 31 1899 01:08:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5ml
+- **Chemical**: Methylpredisalone
+- **Time**: Sun Dec 31 1899 01:38:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.4ml
+- **Start Time**: Sat Dec 30 1899 23:10:10 GMT+0521 (India Standard Time)
+- **Dialysate Replacement Time**: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+- **Temperature**: 37
+- **Remarks**: CaCl2-500 ul in 500ml at 9:49 am. CaCl2-0.25ml at 9:59 am. CaCl2 -0.5ml(11:47am)
+- **Dialysate Replacement Time**: 11.23
+- **Volume(ml)**: 500
+- **Temperature**: 37
+
+## Entry 6
+
+- **Solution Code **: PMS010
+- **pH**: 7.51
+- **AO Pressure (mmHg)**: 26
+- **Start Time **: Sat Dec 30 1899 22:23:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 37
+- **Mode (LM/WM)**: 0
+- **Thermal imaging Yes/No**: 1
+- **Fluke camera  Ti400/TC01B**: TC01B
+- **Recording number**: 1
+- **Recording duration**: 242 min
+- **Clock time**: Sat Dec 30 1899 20:00:10 GMT+0521 (India Standard Time)
+- **Recording duration**: 30 Sec
+- **Clock time**: Sat Dec 30 1899 20:05:10 GMT+0521 (India Standard Time)
+- **Recording number**: 3
+- **Recording duration**: 10 Sec
+- **Clock time**: Sat Dec 30 1899 20:13:10 GMT+0521 (India Standard Time)
+- **Recording number**: 4
+- **Recording duration**: 10 Sec
+- **Clock time**: Sat Dec 30 1899 20:14:10 GMT+0521 (India Standard Time)
+- **Recording number**: 5
+- **Recording duration**: 131 min
+- **Clock time**: Sat Dec 30 1899 22:17:10 GMT+0521 (India Standard Time)
+- **Recording number**: 6
+- **Recording duration**: 1 min 30 sec 
+- **Clock time**: Sat Dec 30 1899 22:15:10 GMT+0521 (India Standard Time)
+- **Recording number**: 7
+- **Recording duration**: 4 min  45 sec
+- **Clock time**: Sat Dec 30 1899 22:27:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: Apex
+- **Initiation Time **: Sat Dec 30 1899 22:23:10 GMT+0521 (India Standard Time)
+- **Heart Rate (BPM)**: 62
+- **Initial Output Voltage (V)**: 6.5
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:25:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:25:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 22:27:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:27:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:28:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:28:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Duration (hr:mm)**: 0
+- **Time **: Sat Dec 30 1899 21:32:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_S1H1_BO
+- **Sample collected at AO/PA**: BO
+- **pH**: 7.38
+- **pCO2 (mmHg)**: 64.8
+- **pO2 (mmHg)**: 38
+- **K+ (mmol/L)**: 4.2
+- **Ca2+ (mmol/L)**: 1.15
+- **Glu (mg/dL)**: 303
+- **Lac (mmol/L)**: 1.4
+- **Urea (mmol/L)**: 1.3
+- **Cre (mg/dL)**: 0.47
+- **HCO3- (mmol/L)**: 39
+- **Time **: Sat Dec 30 1899 21:53:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H1_AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.511
+- **pCO2 (mmHg)**: 28.2
+- **pO2 (mmHg)**: 75.7
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 0.73
+- **Glu (mg/dL)**: 219
+- **Lac (mmol/L)**: 1.02
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.38
+- **HCO3- (mmol/L)**: 22.5
+- **Time **: Sat Dec 30 1899 22:10:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H1_AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.51
+- **pCO2 (mmHg)**: 27
+- **pO2 (mmHg)**: 131.1
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 0.76
+- **Glu (mg/dL)**: 217
+- **Lac (mmol/L)**: 1.4
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.37
+- **HCO3- (mmol/L)**: 21.9
+- **Time **: Sat Dec 30 1899 22:25:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB048_E1H1_S1_Afterdef
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.5
+- **pCO2 (mmHg)**: 32.5
+- **pO2 (mmHg)**: 139.6
+- **K+ (mmol/L)**: 4.8
+- **Ca2+ (mmol/L)**: 0.76
+- **Glu (mg/dL)**: 216
+- **Lac (mmol/L)**: 1.3
+- **Urea (mmol/L)**: 1.8
+- **Cre (mg/dL)**: 0.36
+- **HCO3- (mmol/L)**: 25.7
+- **Time **: Sat Dec 30 1899 22:33:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT048_E1H1_S1_PA
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.39
+- **pCO2 (mmHg)**: 36.7
+- **pO2 (mmHg)**: 47.1
+- **K+ (mmol/L)**: 4.9
+- **Ca2+ (mmol/L)**: 0.76
+- **Glu (mg/dL)**: 183
+- **Lac (mmol/L)**: 4.21
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.54
+- **HCO3- (mmol/L)**: 22.3
+- **Time **: Sat Dec 30 1899 22:48:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT048_E1H1_ENDH1
+- **Sample collected at AO/PA/Buffer**: Ao
+- **pH**: 7.47
+- **pCO2 (mmHg)**: 29.8
+- **pO2 (mmHg)**: 133.6
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 0.77
+- **Glu (mg/dL)**: 210
+- **Lac (mmol/L)**: 2.35
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.43
+- **HCO3- (mmol/L)**: 22.1
+
+## Entry 7
+
+- **pH**: 7.49
+- **Flow Rate (mL/min)**: 75(initially)
+- **Start Time **: Sun Dec 31 1899 00:12:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36
+- **LA Pressure (mmHg)**: 80--100
+- **Mode (LM/WM)**: 0
+- **Onset Time of Evident and Continuous Beat**: Sun Dec 31 1899 00:16:10 GMT+0521 (India Standard Time)
+- **Thermal imaging Yes/No**: 1
+- **Go Pro recording Yes/No**: 0
+- **Recording number**: 1
+- **Recording duration**: 10:29sec
+- **Clock time**: Sun Dec 31 1899 00:11:10 GMT+0521 (India Standard Time)
+- **Recording number**: 2
+- **Recording duration**: 5:32sec
+- **Clock time**: Sun Dec 31 1899 00:40:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 12V
+- **Threshold Voltage (V)**: 12V
+- **Remarks**: Labchart time after 1 hr 26 mins-heart swapped
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sun Dec 31 1899 00:16:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 00:16:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 00:17:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sun Dec 31 1899 00:14:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sun Dec 31 1899 00:16:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 00:16:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 00:17:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 00:18:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 00:18:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 01:34:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 01:34:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 01:35:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:17:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1_afterdefib
+- **Sample collected at AO/PA**: AO
+- **pH**: 7.47
+- **pCO2 (mmHg)**: 31
+- **pO2 (mmHg)**: 66.3
+- **K+ (mmol/L)**: 3.5
+- **Ca2+ (mmol/L)**: 1.11
+- **Glu (mg/dL)**: 145
+- **Lac (mmol/L)**: 4.84
+- **Urea (mmol/L)**: 2.6
+- **Cre (mg/dL)**: 0.77
+- **HCO3- (mmol/L)**: 23
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:26:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:24:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1_perfadd
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.46
+- **pCO2 (mmHg)**: 30.4
+- **pO2 (mmHg)**: 61.1
+- **K+ (mmol/L)**: 3.5
+- **Ca2+ (mmol/L)**: 0.93
+- **Glu (mg/dL)**: 111
+- **Lac (mmol/L)**: 4.46
+- **Urea (mmol/L)**: 2
+- **Cre (mg/dL)**: 0.73
+- **HCO3- (mmol/L)**: 21.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:41:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:40:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1_AO_S1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.49
+- **pCO2 (mmHg)**: 27
+- **pO2 (mmHg)**: 78.6
+- **K+ (mmol/L)**: 3.6
+- **Ca2+ (mmol/L)**: 1.1
+- **Glu (mg/dL)**: 97
+- **Lac (mmol/L)**: 3.98
+- **Urea (mmol/L)**: 1.8
+- **Cre (mg/dL)**: 0.73
+- **HCO3- (mmol/L)**: 20.8
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 13:56:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:47:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1_PA_S1
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.5
+- **pCO2 (mmHg)**: 24.3
+- **pO2 (mmHg)**: 52.4
+- **K+ (mmol/L)**: 3.8
+- **Ca2+ (mmol/L)**: 1.1
+- **Glu (mg/dL)**: 93
+- **Lac (mmol/L)**: 4.31
+- **Urea (mmol/L)**: 1.6
+- **Cre (mg/dL)**: 0.63
+- **HCO3- (mmol/L)**: 21.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:11:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:56:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1_AO_afterdia
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.53
+- **pCO2 (mmHg)**: 24
+- **pO2 (mmHg)**: 70.3
+- **K+ (mmol/L)**: 3.8
+- **Ca2+ (mmol/L)**: 1.06
+- **Glu (mg/dL)**: 95
+- **Lac (mmol/L)**: 4.37
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.76
+- **HCO3- (mmol/L)**: 20.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:03:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1_PA_S2
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.58
+- **pCO2 (mmHg)**: 20.5
+- **pO2 (mmHg)**: 47.1
+- **K+ (mmol/L)**: 3.8
+- **Ca2+ (mmol/L)**: 1.03
+- **Glu (mg/dL)**: 94
+- **Lac (mmol/L)**: 4.49
+- **Urea (mmol/L)**: 1.6
+- **Cre (mg/dL)**: 0.73
+- **HCO3- (mmol/L)**: 19.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:32:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1__AO_S3
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.57
+- **pCO2 (mmHg)**: 24.7
+- **pO2 (mmHg)**: 82.2
+- **K+ (mmol/L)**: 5
+- **Ca2+ (mmol/L)**: 1.01
+- **Glu (mg/dL)**: 116
+- **Lac (mmol/L)**: 3.76
+- **Urea (mmol/L)**: 2.6
+- **Cre (mg/dL)**: 0.7
+- **HCO3- (mmol/L)**: 22.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:46:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:44:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1_PA_S3
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.57
+- **pCO2 (mmHg)**: 25.4
+- **pO2 (mmHg)**: 54.6
+- **K+ (mmol/L)**: 4.1
+- **Ca2+ (mmol/L)**: 1.04
+- **Glu (mg/dL)**: 101
+- **Lac (mmol/L)**: 4.28
+- **Urea (mmol/L)**: 2.3
+- **Cre (mg/dL)**: 0.7
+- **HCO3- (mmol/L)**: 23.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:16:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 02:08:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1_AO_S3
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.5
+- **pCO2 (mmHg)**: 30.2
+- **pO2 (mmHg)**: 136.1
+- **K+ (mmol/L)**: 5.7
+- **Ca2+ (mmol/L)**: 0.98
+- **Glu (mg/dL)**: 109
+- **Lac (mmol/L)**: 4.6
+- **Urea (mmol/L)**: 2.8
+- **Cre (mg/dL)**: 0.61
+- **HCO3- (mmol/L)**: 23.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:41:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 02:22:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_E1H1_PA_S4_END
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.5
+- **pCO2 (mmHg)**: 29.2
+- **pO2 (mmHg)**: 73.2
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 1.01
+- **Glu (mg/dL)**: 102
+- **Lac (mmol/L)**: 4.82
+- **Urea (mmol/L)**: 2.6
+- **Cre (mg/dL)**: 0.64
+- **HCO3- (mmol/L)**: 23.2
+- **Chemical**: Lignocaine
+- **Time**: Sun Dec 31 1899 00:22:10 GMT+0521 (India Standard Time)
+- **Remarks**: directly mixed in heartbox
+- **Chemical**: Methylpredisalone
+- **Time**: Sun Dec 31 1899 00:58:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5ml
+- **Chemical**: Nahco3
+- **Time**: Sun Dec 31 1899 01:03:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5ml
+- **Chemical**: Dobutamine
+- **Time**: Sun Dec 31 1899 01:30:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 40ul
+- **Chemical**: Glucose
+- **Time**: Sun Dec 31 1899 01:31:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5ml
+- **Chemical**: Insulin
+- **Time**: Sun Dec 31 1899 01:31:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10units
+- **Chemical**: Dobutamine
+- **Quantity (mL)**: 0.1ml
+- **Remarks**: Directly to AO
+- **Chemical**: Dobutamine
+- **Time**: Sun Dec 31 1899 01:38:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 40ul
+- **Remarks**: Directly to AO along with nitroglycerine
+- **Start Time**: Sun Dec 31 1899 00:25:10 GMT+0521 (India Standard Time)
+- **pH**: 7.44
+- **Initial Temp**: 30
+- **Dialysate Replacement Time**: Sun Dec 31 1899 00:25:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+- **Temperature**: 30
+- **Glucose**: 9.7mg/dl
+- **Lactate**: 6.1
+- **Remarks**: 1ml of Cacl2 @ 11:12AM
+- **Dialysate Replacement Time**: Sun Dec 31 1899 01:55:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+- **Temperature**: 30
+
+## Entry 8
+
+- **pH**: 7.56
+- **Flow Rate (mL/min)**: 60-100
+- **Start Time **: Sat Dec 30 1899 23:31:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 37
+- **Mode (LM/WM)**: 0
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 23:32:10 GMT+0521 (India Standard Time)
+- **Thermal imaging Yes/No**: 1
+- **Go Pro recording Yes/No**: 0
+- **Recording number**: 1
+- **Recording duration**: 8:27sec
+- **Clock time**: Sat Dec 30 1899 23:31:10 GMT+0521 (India Standard Time)
+- **Recording number**: 2
+- **Recording duration**: 45sec
+- **Clock time**: Sat Dec 30 1899 23:42:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 23:29:10 GMT+0521 (India Standard Time)
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 12V
+- **Threshold Voltage (V)**: 12V
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:33:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 23:33:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 23:33:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 23:34:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 23:51:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:51:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:53:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:55:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_BO
+- **Sample collected at AO/PA**: BO
+- **pH**: 7.45
+- **pCO2 (mmHg)**: 39.3
+- **pO2 (mmHg)**: 56.3
+- **K+ (mmol/L)**: 3.3
+- **Ca2+ (mmol/L)**: 1.17
+- **Lac (mmol/L)**: 1.37
+- **Cre (mg/dL)**: 0.59
+- **HCO3- (mmol/L)**: 27.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:26:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:19:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_EIH2_AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.57
+- **pCO2 (mmHg)**: 23.3
+- **pO2 (mmHg)**: 107.8
+- **K+ (mmol/L)**: 2.9
+- **Ca2+ (mmol/L)**: 0.95
+- **Glu (mg/dL)**: 187
+- **Lac (mmol/L)**: 1.54
+- **Urea (mmol/L)**: 3
+- **Cre (mg/dL)**: 0.55
+- **HCO3- (mmol/L)**: 21.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:32:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_EIH2_afterdefib
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.48
+- **pCO2 (mmHg)**: 25.7
+- **pO2 (mmHg)**: 88.9
+- **K+ (mmol/L)**: 3
+- **Ca2+ (mmol/L)**: 0.92
+- **Glu (mg/dL)**: 168
+- **Lac (mmol/L)**: 2.32
+- **Urea (mmol/L)**: 2.9
+- **Cre (mg/dL)**: 0.61
+- **HCO3- (mmol/L)**: 19.4
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:46:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB047_EIH2_S1_AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.56
+- **pCO2 (mmHg)**: 28.5
+- **pO2 (mmHg)**: 99.6
+- **K+ (mmol/L)**: 3.2
+- **Ca2+ (mmol/L)**: 1.01
+- **Glu (mg/dL)**: 160
+- **Lac (mmol/L)**: 3.39
+- **Urea (mmol/L)**: 2.4
+- **Cre (mg/dL)**: 0.7
+- **HCO3- (mmol/L)**: 25.9
+- **Chemical**: Blood
+- **Time**: Sat Dec 30 1899 23:15:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ml
+- **Chemical**: HCo3
+- **Time**: Sat Dec 30 1899 23:39:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 7ml
+- **Chemical**: Cacl2
+- **Time**: Sat Dec 30 1899 23:40:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5ml
+- **Chemical**: Dobutamine
+- **Time**: Sat Dec 30 1899 23:41:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10ul
+- **Chemical**: Nitroglycerine
+- **Time**: Sat Dec 30 1899 23:41:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10ul
+- **Chemical**: Cacl2
+- **Time**: Sat Dec 30 1899 23:55:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5ml
+
+## Entry 9
+
+- **pH**: 7.64
+- **Flow Rate (mL/min)**: 80
+- **Start Time **: Sat Dec 30 1899 22:52:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 23.3
+- **Mode (LM/WM)**: 0
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 22:56:10 GMT+0521 (India Standard Time)
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 12V
+- **Threshold Voltage (V)**: 12V
+- **Remarks**: AFter half an hour 5V for the rest of experiment
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:55:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 22:55:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sat Dec 30 1899 22:56:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10J
+- **Time **: Sat Dec 30 1899 22:57:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 22:57:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 22:58:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 22:58:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 00:42:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Time **: Sun Dec 31 1899 00:42:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5J
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:56:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB046_E1H2_BO
+- **Sample collected at AO/PA**: BO
+- **pH**: 7.24
+- **pCO2 (mmHg)**: 49.8
+- **pO2 (mmHg)**: 45.8
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.3
+- **Glu (mg/dL)**: 349
+- **Lac (mmol/L)**: 1.58
+- **Urea (mmol/L)**: >1.1
+- **Cre (mg/dL)**: 0.36
+- **HCO3- (mmol/L)**: 21.1
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:26:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB046_E1H2_AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.58
+- **pCO2 (mmHg)**: 29.5
+- **pO2 (mmHg)**: 141.8
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.06
+- **Glu (mg/dL)**: 286
+- **Lac (mmol/L)**: 1.65
+- **Urea (mmol/L)**: >1.1
+- **Cre (mg/dL)**: >0.3
+- **HCO3- (mmol/L)**: 28
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:31:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:57:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB046_E1H2_afterdefib
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.64
+- **pCO2 (mmHg)**: 24.5
+- **pO2 (mmHg)**: 106.1
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.04
+- **Glu (mg/dL)**: 297
+- **Lac (mmol/L)**: 2.1
+- **Urea (mmol/L)**: >1.1
+- **Cre (mg/dL)**: 0.35
+- **HCO3- (mmol/L)**: 26.7
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:04:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB046_E1H2_PA_S1
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.39
+- **pCO2 (mmHg)**: 39.4
+- **pO2 (mmHg)**: 42
+- **K+ (mmol/L)**: 3.3
+- **Ca2+ (mmol/L)**: 0.96
+- **Glu (mg/dL)**: 260
+- **Lac (mmol/L)**: 6.01
+- **Urea (mmol/L)**: >1.1
+- **Cre (mg/dL)**: 0.79
+- **HCO3- (mmol/L)**: 23.9
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB046_E1H2_AO_afterdia
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.59
+- **pCO2 (mmHg)**: 22.8
+- **pO2 (mmHg)**: 144.4
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 0.88
+- **Glu (mg/dL)**: 229
+- **Lac (mmol/L)**: 2.25
+- **Urea (mmol/L)**: >1.1
+- **Cre (mg/dL)**: 0.34
+- **HCO3- (mmol/L)**: 22.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:36:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB046_E1H2_PA_Afterdia
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.57
+- **pCO2 (mmHg)**: 23.3
+- **pO2 (mmHg)**: 58.5
+- **K+ (mmol/L)**: 4.2
+- **Ca2+ (mmol/L)**: 0.7
+- **Glu (mg/dL)**: 191
+- **Lac (mmol/L)**: 3.21
+- **Urea (mmol/L)**: >1.1
+- **Cre (mg/dL)**: 0.59
+- **HCO3- (mmol/L)**: 21.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB046_E1H2_AP_S3
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.65
+- **pCO2 (mmHg)**: 15
+- **pO2 (mmHg)**: 94.4
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 0.69
+- **Glu (mg/dL)**: 185
+- **Lac (mmol/L)**: 3.49
+- **Urea (mmol/L)**: >1.1
+- **Cre (mg/dL)**: 0.58
+- **HCO3- (mmol/L)**: 68.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:50:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB046_E1H2_AO_S4
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.67
+- **pCO2 (mmHg)**: 15.9
+- **pO2 (mmHg)**: 67.4
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 0.76
+- **Glu (mg/dL)**: 182
+- **Lac (mmol/L)**: 3.52
+- **Urea (mmol/L)**: >1.1
+- **Cre (mg/dL)**: 0.7
+- **HCO3- (mmol/L)**: 18.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:25:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB046_E1H2_AO_S5
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.44
+- **pCO2 (mmHg)**: 31.9
+- **pO2 (mmHg)**: 108.4
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 0.95
+- **Glu (mg/dL)**: 171
+- **Lac (mmol/L)**: 3.87
+- **Urea (mmol/L)**: >1.1
+- **Cre (mg/dL)**: 0.56
+- **HCO3- (mmol/L)**: 22.1
+- **Chemical**: Dobutamine,Nitroglycerin
+- **Time**: Sat Dec 30 1899 23:31:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 50microliters *2
+- **Chemical**: Anti-inflammatory agent
+- **Time**: Sun Dec 31 1899 00:21:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+- **Chemical**: Insulin
+- **Time**: Sun Dec 31 1899 00:22:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5units
+- **Chemical**: Cacl2
+- **Time**: Sun Dec 31 1899 00:42:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+- **Chemical**: Cacl2
+- **Time**: Sun Dec 31 1899 00:59:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400ul
+- **Chemical**: Anti-inflammatory agent
+- **Time**: Sun Dec 31 1899 01:30:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+- **Chemical**: Cacl2
+- **Time**: Sun Dec 31 1899 01:40:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400UL
+- **Start Time**: Sat Dec 30 1899 23:07:10 GMT+0521 (India Standard Time)
+- **pH**: 7.4
+- **Initial Temp**: 30
+- **Dialysate Replacement Time**: Sat Dec 30 1899 23:07:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+- **Temperature**: 30
+- **Dialysate Replacement Time**: Sun Dec 31 1899 00:23:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+- **Temperature**: 30
+- **Dialysate Replacement Time**: Sun Dec 31 1899 01:44:10 GMT+0521 (India Standard Time)
+- **Volume(ml)**: 500
+- **Temperature**: 30
+
+## Entry 12
+
+- **pH**: 7.34
+- **Flow Rate (mL/min)**: 60
+- **Start Time **: Sat Dec 30 1899 22:06:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 31
+- **Mode (LM/WM)**: 0
+- **Pacing (Yes/No)**: 0
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 22:09:10 GMT+0521 (India Standard Time)
+- **Heart Rate (BPM)**: 60
+- **Initial Output Voltage (V)**: 0.5v
+- **Cardioversion (Yes/No)**: 0
+- **Time **: Sat Dec 30 1899 22:14:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:14:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:14:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:18:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 21:58:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:20:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBE1H2B044
+- **Sample collected at AO/PA**: BO
+- **pH**: 7.39
+- **pCO2 (mmHg)**: 42.5
+- **pO2 (mmHg)**: 39.8
+- **K+ (mmol/L)**: 4.5
+- **Ca2+ (mmol/L)**: 1.39
+- **Glu (mg/dL)**: 74
+- **Lac (mmol/L)**: 1.61
+- **Urea (mmol/L)**: 2
+- **Cre (mg/dL)**: 0.49
+- **HCO3- (mmol/L)**: <10
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:44:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB44E1H2AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.52
+- **pCO2 (mmHg)**: 24.5
+- **pO2 (mmHg)**: 138
+- **K+ (mmol/L)**: 4.7
+- **Ca2+ (mmol/L)**: 0.9
+- **Glu (mg/dL)**: 45
+- **Lac (mmol/L)**: 1.41
+- **Urea (mmol/L)**: 1.2
+- **Cre (mg/dL)**: 0.38
+- **HCO3- (mmol/L)**: <10
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:20:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB44E1H2AOS1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.55
+- **pCO2 (mmHg)**: 25.6
+- **pO2 (mmHg)**: 92.1
+- **K+ (mmol/L)**: 5.1
+- **Ca2+ (mmol/L)**: 0.8
+- **Glu (mg/dL)**: 66
+- **Lac (mmol/L)**: 2.7
+- **Urea (mmol/L)**: 1.2
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: <10
+- **Time **: Sat Dec 30 1899 22:43:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB44E1H2S2
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.58
+- **pCO2 (mmHg)**: 23.2
+- **pO2 (mmHg)**: 100.7
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 0.76
+- **Glu (mg/dL)**: 54
+- **Lac (mmol/L)**: 3.23
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 11
+- **Time **: Sat Dec 30 1899 23:25:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBO44E1H2S3
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.67
+- **pCO2 (mmHg)**: 21.1
+- **pO2 (mmHg)**: 119.4
+- **K+ (mmol/L)**: 6.1
+- **Ca2+ (mmol/L)**: 0.72
+- **Glu (mg/dL)**: 48
+- **Lac (mmol/L)**: 2.68
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.59
+- **HCO3- (mmol/L)**: <10
+- **Time **: Sun Dec 31 1899 00:18:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB044E1H2S4
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.84
+- **pCO2 (mmHg)**: 9.8
+- **pO2 (mmHg)**: 132
+- **K+ (mmol/L)**: 5.8
+- **Ca2+ (mmol/L)**: 0.5
+- **Glu (mg/dL)**: 40
+- **Lac (mmol/L)**: 2.14
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.38
+- **HCO3- (mmol/L)**: 12
+- **Chemical**: HCO3-
+- **Time**: Sat Dec 30 1899 20:26:10 GMT+0521 (India Standard Time)
+- **Chemical**: Lignucaine 
+- **Time**: Sat Dec 30 1899 22:21:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 100ul
+- **Chemical**: Nitroglyc
+- **Time**: Sat Dec 30 1899 22:29:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 50ul
+- **Chemical**: Dobutamine 
+- **Time**: Sat Dec 30 1899 22:29:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 9ul
+- **Chemical**: Methyl Per..
+- **Time**: Sun Dec 31 1899 00:41:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200ul
+
+## Entry 13
+
+- **pH**: 7.46
+- **Flow Rate (mL/min)**: 100 to 150
+- **AO Pressure (mmHg)**: 100
+- **Start Time **: Sat Dec 30 1899 23:48:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 33.8
+- **LA Pressure (mmHg)**: 22.6
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 0
+- **Onset Time of Evident and Discontinuous Beat**: Sat Dec 30 1899 23:49:10 GMT+0521 (India Standard Time)
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 23:50:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 0
+- **Lead (RA/RV)**: LV
+- **Initiation Time **: Sat Dec 30 1899 23:48:10 GMT+0521 (India Standard Time)
+- **Impedance**: 561
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 60
+- **Initial Output Voltage (V)**: 7V
+- **Cardioversion (Yes/No)**: 0
+- **Time **: Sat Dec 30 1899 23:51:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 23:55:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 23:55:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 23:55:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB043-E1H2-SIIAO
+- **Sample collected at AO/PA**: AO
+- **pH**: 7.46
+- **pCO2 (mmHg)**: 37.6
+- **pO2 (mmHg)**: 153.5
+- **K+ (mmol/L)**: 4.5
+- **Ca2+ (mmol/L)**: 0.81
+- **Glu (mg/dL)**: 131
+- **Lac (mmol/L)**: 2.49
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.54
+- **HCO3- (mmol/L)**: <10
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:05:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB043-E2H1-S1AO
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.499
+- **pCO2 (mmHg)**: 27.1
+- **pO2 (mmHg)**: 129.1
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 0.68
+- **Glu (mg/dL)**: 118
+- **Lac (mmol/L)**: 6.86
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.71
+- **HCO3- (mmol/L)**: <10
+- **Chemical**: Nitroglycerine 
+- **Time**: Sat Dec 30 1899 23:53:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 2 ul
+- **pH**: 7.46
+- **Chemical**: Dobutamine
+- **Time**: Sat Dec 30 1899 23:53:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 2ul
+- **pH**: 7.46
+- **Chemical**: Adrenaline
+- **Time**: Sat Dec 30 1899 23:53:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 2ul
+- **pH**: 7.46
+- **Chemical**: Noradrenaline
+- **Time**: Sat Dec 30 1899 23:53:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1ul
+- **pH**: 7.46
+- **Chemical**: RBC
+- **Time**: Sat Dec 30 1899 23:53:10 GMT+0521 (India Standard Time)
+- **pH**: 7.46
+- **Chemical**: Insulin
+- **Time**: Sat Dec 30 1899 23:53:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10U
+- **pH**: 7.46
+- **Chemical**: cacl2
+- **Time**: Sat Dec 30 1899 23:53:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 100ul
+- **pH**: 7.46
+- **Chemical**: Dobutamine 
+- **Time**: Sat Dec 30 1899 23:58:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 100ul
+- **pH**: 7.46
+
+## Entry 14
+
+- **pH**: 7.24
+- **Flow Rate (mL/min)**: 130
+- **AO Pressure (mmHg)**: 40
+- **Start Time **: Sat Dec 30 1899 20:17:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 33.8
+- **LA Pressure (mmHg)**: 14
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 1
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 20:21:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 20:16:10 GMT+0521 (India Standard Time)
+- **Impedance**: 352
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 84
+- **Initial Output Voltage (V)**: 1.6V-7V
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 20:31:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 20:23:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 20:24:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 20:26:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5*2
+
+## Entry 15
+
+- **pH**: 7.35
+- **Flow Rate (mL/min)**: 100
+- **Start Time **: Sat Dec 30 1899 21:32:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 33
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:34:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 5
+- **Heart Rate (BPM)**: 84
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:37:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 21:37:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20
+- **Time **: Sat Dec 30 1899 21:38:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:34:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 21:09:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.02
+- **Glucose (mg/dL)**: 117
+- **pH**: 7.22
+- **Time **: Sat Dec 30 1899 21:21:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.52
+- **Glucose (mg/dL)**: 172
+- **pH**: 7.49
+- **Time **: Sat Dec 30 1899 21:21:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.78
+- **Glucose (mg/dL)**: 5.39
+- **pH**: 7.18
+- **Time **: Sat Dec 30 1899 21:38:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: 0.15
+- **Lactate (mmol/L)**: 2.93
+- **pH**: 7.43
+- **Time **: Sat Dec 30 1899 21:48:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.08
+- **Glucose (mg/dL)**: 236
+- **pH**: 7.47
+- **Time **: Sat Dec 30 1899 22:08:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: 0.45
+- **Lactate (mmol/L)**: 3.12
+- **Glucose (mg/dL)**: 227
+- **pH**: 7.49
+- **Time **: Sat Dec 30 1899 22:18:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.36
+- **Glucose (mg/dL)**: 213
+- **pH**: 7.48
+- **Time **: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.37
+- **Glucose (mg/dL)**: 206
+- **pH**: 7.49
+- **Time **: Sat Dec 30 1899 23:38:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.07
+- **Glucose (mg/dL)**: 186
+- **pH**: 6.93
+- **Time **: Sun Dec 31 1899 00:07:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:21:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.38
+- **Glucose (mg/dL)**: 197
+- **pH**: 7.58
+- **Time **: Sun Dec 31 1899 01:09:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.36
+- **Glucose (mg/dL)**: 195
+- **pH**: 7.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:09:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-PMS
+- **Sample collected at AO/PA**: PMS
+- **pH**: 7.22
+- **pCO2 (mmHg)**: 48.9
+- **pO2 (mmHg)**: 53.9
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 2.07
+- **Glu (mg/dL)**: 117
+- **Lac (mmol/L)**: 1.02
+- **Urea (mmol/L)**: 2.2
+- **Cre (mg/dL)**: 0.6
+- **HCO3- (mmol/L)**: 20
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-AP
+- **Sample collected at AO/PA/Buffer**: AP
+- **pH**: 7.49
+- **pCO2 (mmHg)**: 39.6
+- **pO2 (mmHg)**: 146
+- **K+ (mmol/L)**: 5.2
+- **Ca2+ (mmol/L)**: 1.11
+- **Glu (mg/dL)**: 172
+- **Lac (mmol/L)**: 1.52
+- **Urea (mmol/L)**: 2.4
+- **Cre (mg/dL)**: 0.71
+- **HCO3- (mmol/L)**: 30.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-01
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.18
+- **pCO2 (mmHg)**: 36.5
+- **pO2 (mmHg)**: 50.3
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: <4
+- **Glu (mg/dL)**: 539
+- **Lac (mmol/L)**: 1.78
+- **Urea (mmol/L)**: 3.1
+- **Cre (mg/dL)**: 0.53
+- **HCO3- (mmol/L)**: 13.8
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:38:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-02
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.43
+- **pCO2 (mmHg)**: 50.4
+- **pO2 (mmHg)**: 128.7
+- **K+ (mmol/L)**: 5.1
+- **Ca2+ (mmol/L)**: 1.32
+- **Glu (mg/dL)**: -
+- **Lac (mmol/L)**: 2.93
+- **Urea (mmol/L)**: -
+- **Cre (mg/dL)**: 0.77
+- **HCO3- (mmol/L)**: 34.1
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:48:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-03
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.47
+- **pCO2 (mmHg)**: 37.6
+- **pO2 (mmHg)**: 60
+- **K+ (mmol/L)**: 5.7
+- **Ca2+ (mmol/L)**: 1.24
+- **Glu (mg/dL)**: 236
+- **Lac (mmol/L)**: 3.08
+- **Urea (mmol/L)**: 2.9
+- **Cre (mg/dL)**: 0.97
+- **HCO3- (mmol/L)**: 27.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:08:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-04
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.49
+- **pCO2 (mmHg)**: 35.5
+- **pO2 (mmHg)**: 137
+- **K+ (mmol/L)**: 5.4
+- **Ca2+ (mmol/L)**: 1.22
+- **Glu (mg/dL)**: 227
+- **Lac (mmol/L)**: 3.12
+- **Urea (mmol/L)**: 1.4
+- **Cre (mg/dL)**: 0.8
+- **HCO3- (mmol/L)**: 27.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:18:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-05
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.48
+- **pCO2 (mmHg)**: 36.7
+- **pO2 (mmHg)**: 134.4
+- **K+ (mmol/L)**: 5.7
+- **Ca2+ (mmol/L)**: 2.21
+- **Glu (mg/dL)**: 213
+- **Lac (mmol/L)**: 3.36
+- **Urea (mmol/L)**: 1.5
+- **Cre (mg/dL)**: 0.75
+- **HCO3- (mmol/L)**: 27.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-06
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.491
+- **pCO2 (mmHg)**: 37.7
+- **pO2 (mmHg)**: 92.3
+- **K+ (mmol/L)**: 5.8
+- **Ca2+ (mmol/L)**: 1.23
+- **Glu (mg/dL)**: 206
+- **Lac (mmol/L)**: 3.37
+- **Urea (mmol/L)**: 1.4
+- **Cre (mg/dL)**: 0.79
+- **HCO3- (mmol/L)**: 28.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:07:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-07
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 6.93
+- **pCO2 (mmHg)**: 47.4
+- **pO2 (mmHg)**: 143.9
+- **K+ (mmol/L)**: 6.2
+- **Ca2+ (mmol/L)**: 1.09
+- **Glu (mg/dL)**: 186
+- **Lac (mmol/L)**: 3.07
+- **Urea (mmol/L)**: 2
+- **Cre (mg/dL)**: 0.55
+- **HCO3- (mmol/L)**: 10.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:09:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-END
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.58
+- **pCO2 (mmHg)**: 33.6
+- **pO2 (mmHg)**: 171.1
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 1.16
+- **Glu (mg/dL)**: 197
+- **Lac (mmol/L)**: 3.38
+- **Urea (mmol/L)**: 1.4
+- **Cre (mg/dL)**: 0.74
+- **HCO3- (mmol/L)**: 31.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:06:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:16:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-ABG-E2H2-END
+- **Sample collected at AO/PA/Buffer**: PA
+- **pH**: 7.7
+- **pCO2 (mmHg)**: 20.6
+- **pO2 (mmHg)**: 164.6
+- **K+ (mmol/L)**: 5.7
+- **Ca2+ (mmol/L)**: 1.11
+- **Glu (mg/dL)**: 195
+- **Lac (mmol/L)**: 3.36
+- **HCO3- (mmol/L)**: 25.7
+- **Chemical**: RBC
+- **Time**: Sat Dec 30 1899 21:58:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200
+- **Chemical**: Anti-arrythmetic drug
+- **Time**: Sat Dec 30 1899 22:16:10 GMT+0521 (India Standard Time)
+- **Chemical**: insulin
+- **Time**: Sat Dec 30 1899 22:37:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5units
+- **Chemical**: nitroglycerlin
+- **Time**: Sat Dec 30 1899 22:37:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1microlitre
+
+## Entry 16
+
+- **pH**: 7.35
+- **Flow Rate (mL/min)**: 100
+- **Start Time **: Sat Dec 30 1899 20:22:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 31.3
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 20:23:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Pacing Mode**: 3
+- **Heart Rate (BPM)**: 84
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 20:25:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 20:26:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 20:26:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20
+- **Time **: Sat Dec 30 1899 20:27:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20
+- **Time **: Sat Dec 30 1899 20:27:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 20:31:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 19:41:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.28
+- **Glucose (mg/dL)**: 385
+- **pH**: 7.33
+- **Time **: Sat Dec 30 1899 20:01:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.43
+- **Glucose (mg/dL)**: 371
+- **pH**: 7.43
+- **Time **: Sat Dec 30 1899 20:21:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: 0.15
+- **Lactate (mmol/L)**: 2.63
+- **Glucose (mg/dL)**: 306
+- **pH**: 7.31
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 19:41:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-PMS
+- **pH**: 7.33
+- **pCO2 (mmHg)**: 50.2
+- **pO2 (mmHg)**: 66.9
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 1.65
+- **Glu (mg/dL)**: 385
+- **Lac (mmol/L)**: 1.28
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.51
+- **HCO3- (mmol/L)**: 26.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 20:01:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-AP
+- **pH**: 7.43
+- **pCO2 (mmHg)**: 37.9
+- **pO2 (mmHg)**: 177.8
+- **K+ (mmol/L)**: 4.5
+- **Ca2+ (mmol/L)**: 1.23
+- **Glu (mg/dL)**: 371
+- **Lac (mmol/L)**: 1.43
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.42
+- **HCO3- (mmol/L)**: 25.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 20:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB042-E1H1-S1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.31
+- **pCO2 (mmHg)**: 38.9
+- **pO2 (mmHg)**: 167.2
+- **K+ (mmol/L)**: 4.7
+- **Ca2+ (mmol/L)**: 1.09
+- **Glu (mg/dL)**: 306
+- **Lac (mmol/L)**: 2.63
+- **Urea (mmol/L)**: 1.8
+- **Cre (mg/dL)**: 0.55
+- **HCO3- (mmol/L)**: 20
+- **Chemical**: Bicarbonate
+- **Time**: Sat Dec 30 1899 20:31:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10
+- **Chemical**: RBC
+- **Time**: Sat Dec 30 1899 20:31:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 100
+- **Chemical**: Dobutamine
+- **Time**: Sat Dec 30 1899 20:54:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 20
+
+## Entry 18
+
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0,2
+- **Impedance**: 648
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 12
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 19:33:10 GMT+0521 (India Standard Time)
+- **Sample collected at AO/PA**: WB
+- **pH**: 7.2
+- **pCO2 (mmHg)**: 33.4
+- **pO2 (mmHg)**: 32.9
+- **K+ (mmol/L)**: 5.5
+- **Ca2+ (mmol/L)**: 1.19
+- **Glu (mg/dL)**: 48
+- **Lac (mmol/L)**: 4.26
+- **Urea (mmol/L)**: 3.5
+- **Cre (mg/dL)**: 0.77
+- **HCO3- (mmol/L)**: 15.9
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:41:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:59:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB040-E1H1
+- **Sample collected at AO/PA/Buffer**: Bo2
+- **pH**: 7.26
+- **pCO2 (mmHg)**: 34.4
+- **pO2 (mmHg)**: 53.6
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 1.44
+- **Glu (mg/dL)**: 119
+- **Lac (mmol/L)**: 1.65
+- **Urea (mmol/L)**: 1.2
+- **Cre (mg/dL)**: 0.42
+- **HCO3- (mmol/L)**: 15.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:07:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:15:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB040-E1H1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.41
+- **pCO2 (mmHg)**: 26.4
+- **pO2 (mmHg)**: 154.4
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.36
+- **Glu (mg/dL)**: 85
+- **Lac (mmol/L)**: 1.32
+- **Urea (mmol/L)**: <1.11
+- **Cre (mg/dL)**: 0.43
+- **HCO3- (mmol/L)**: 16.8
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 16:17:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:27:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB040_E1H1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.44
+- **pCO2 (mmHg)**: 29.1
+- **pO2 (mmHg)**: 177.3
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 1.3
+- **Glu (mg/dL)**: 85
+- **Lac (mmol/L)**: 1.26
+- **Urea (mmol/L)**: 1.2
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 20
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:41:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB040-E1H1
+- **Sample collected at AO/PA/Buffer**: S1
+- **pH**: 7.54
+- **pCO2 (mmHg)**: 16.6
+- **pO2 (mmHg)**: 136.2
+- **K+ (mmol/L)**: 4.2
+- **Ca2+ (mmol/L)**: 1.19
+- **Glu (mg/dL)**: 71
+- **Lac (mmol/L)**: 3.88
+- **Urea (mmol/L)**: <1.11
+- **Cre (mg/dL)**: 0.48
+- **HCO3- (mmol/L)**: 14.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:55:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:05:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB040-E1H1
+- **Sample collected at AO/PA/Buffer**: S2
+- **pH**: 7.6
+- **pCO2 (mmHg)**: 14.5
+- **pO2 (mmHg)**: 152.7
+- **K+ (mmol/L)**: 4.5
+- **Ca2+ (mmol/L)**: 1.09
+- **Glu (mg/dL)**: 70
+- **Lac (mmol/L)**: 4.5
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.6-
+- **HCO3- (mmol/L)**: 15.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 17:13:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:24:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB040-E1H1
+- **Sample collected at AO/PA/Buffer**: PA1
+- **pH**: 7.56
+- **pCO2 (mmHg)**: 23.9
+- **pO2 (mmHg)**: 70.2
+- **K+ (mmol/L)**: 5.4
+- **Ca2+ (mmol/L)**: 1.03
+- **Glu (mg/dL)**: iqc
+- **Lac (mmol/L)**: 4.25
+- **Urea (mmol/L)**: iqc
+- **Cre (mg/dL)**: 0.44
+- **HCO3- (mmol/L)**: 21.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 17:25:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:34:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB040-E1H1
+- **Sample collected at AO/PA/Buffer**: S3
+- **pH**: 7.52
+- **pCO2 (mmHg)**: 29.4
+- **pO2 (mmHg)**: 141.1
+- **K+ (mmol/L)**: 4.8
+- **Ca2+ (mmol/L)**: 1.08
+- **Glu (mg/dL)**: iqc
+- **Lac (mmol/L)**: 4.83
+- **Urea (mmol/L)**: iqc
+- **Cre (mg/dL)**: 0.6
+- **HCO3- (mmol/L)**: 24.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 17:55:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:07:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB040-E1H1
+- **Sample collected at AO/PA/Buffer**: S4
+- **pH**: 7.57
+- **pCO2 (mmHg)**: 20.4
+- **pO2 (mmHg)**: 158.2
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 1.23
+- **Glu (mg/dL)**: 89
+- **Lac (mmol/L)**: 4.32
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.6
+- **HCO3- (mmol/L)**: 18.8
+
+## Entry 19
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.29
+- **Flow Rate (mL/min)**: 100-12-140
+- **AO Pressure (mmHg)**: 33.2
+- **Start Time **: Sat Dec 30 1899 22:14:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 34.6
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 2,4
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 22:14:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0,2
+- **Initiation Time **: Sat Dec 30 1899 22:15:10 GMT+0521 (India Standard Time)
+- **Impedance**: 471
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 7
+- **Defibrillation (Yes/No)**: 0
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:19:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:31:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:32:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:44:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 20:06:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-ABG-WB
+- **Sample collected at AO/PA**: WB
+- **pH**: 7.52
+- **pCO2 (mmHg)**: 44
+- **pO2 (mmHg)**: 18.8
+- **K+ (mmol/L)**: 6.6
+- **Ca2+ (mmol/L)**: 1.2
+- **Glu (mg/dL)**: 6.2
+- **Lac (mmol/L)**: 7.6
+- **Urea (mmol/L)**: -
+- **Cre (mg/dL)**: 10
+- **HCO3- (mmol/L)**: 19.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:20:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:05:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-ABG-PMS
+- **Sample collected at AO/PA/Buffer**: PMS
+- **pH**: 7.18
+- **pCO2 (mmHg)**: 40.1
+- **pO2 (mmHg)**: 39.4
+- **K+ (mmol/L)**: 4.8
+- **Ca2+ (mmol/L)**: 1.72
+- **Glu (mg/dL)**: 123
+- **Lac (mmol/L)**: 2.41
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.39
+- **HCO3- (mmol/L)**: 14.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:35:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:33:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H2-AO2
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.2
+- **pCO2 (mmHg)**: 39.6
+- **pO2 (mmHg)**: 56
+- **K+ (mmol/L)**: 4.5
+- **Ca2+ (mmol/L)**: 1.13
+- **Glu (mg/dL)**: 86
+- **Lac (mmol/L)**: 1.79
+- **Urea (mmol/L)**: 1.2
+- **Cre (mg/dL)**: <0.30
+- **HCO3- (mmol/L)**: 15.8
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 14:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:46:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H2-AO2
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.21
+- **pCO2 (mmHg)**: 42.4
+- **pO2 (mmHg)**: 53
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 1.27
+- **Glu (mg/dL)**: 83
+- **Lac (mmol/L)**: 1.85
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: 0.31
+- **HCO3- (mmol/L)**: 17.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:09:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:59:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H2-AO3
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.29
+- **pCO2 (mmHg)**: 41
+- **pO2 (mmHg)**: 54.7
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 1.22
+- **Glu (mg/dL)**: 82
+- **Lac (mmol/L)**: 1.88
+- **Urea (mmol/L)**: <1.11
+- **Cre (mg/dL)**: 0.32
+- **HCO3- (mmol/L)**: 19.9
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:41:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:33:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H1-S1AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.254
+- **pCO2 (mmHg)**: 42.5
+- **pO2 (mmHg)**: 64.9
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 1.15
+- **Glu (mg/dL)**: 84
+- **Lac (mmol/L)**: 2.88
+- **Urea (mmol/L)**: -
+- **Cre (mg/dL)**: -
+- **HCO3- (mmol/L)**: 18.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:59:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:49:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H2-S2AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.24
+- **pCO2 (mmHg)**: 44.4
+- **pO2 (mmHg)**: 48.9
+- **K+ (mmol/L)**: 4.8
+- **Ca2+ (mmol/L)**: 1.36
+- **Glu (mg/dL)**: 89
+- **Lac (mmol/L)**: 3.5
+- **Urea (mmol/L)**: 1.4
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 19.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:24:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:15:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H1-S3AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.27
+- **pCO2 (mmHg)**: 41.4
+- **pO2 (mmHg)**: 44.4
+- **K+ (mmol/L)**: 4.9
+- **Ca2+ (mmol/L)**: 1.29
+- **Glu (mg/dL)**: 86
+- **Lac (mmol/L)**: 4.09
+- **Urea (mmol/L)**: 1.6
+- **Cre (mg/dL)**: 0.63
+- **HCO3- (mmol/L)**: 19
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:46:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:49:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H2-S4AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.137
+- **pCO2 (mmHg)**: 13.2
+- **pO2 (mmHg)**: 47.2
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 1.34
+- **Glu (mg/dL)**: 95
+- **Lac (mmol/L)**: 4.28
+- **Urea (mmol/L)**: 1.3
+- **Cre (mg/dL)**: 0.53
+- **HCO3- (mmol/L)**: 24.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 17:16:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:14:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H2-S5Ao
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.429
+- **pCO2 (mmHg)**: 21.1
+- **pO2 (mmHg)**: 90
+- **K+ (mmol/L)**: 5.5
+- **Ca2+ (mmol/L)**: 1.3
+- **Glu (mg/dL)**: 85
+- **Lac (mmol/L)**: 4.21
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.65
+- **HCO3- (mmol/L)**: 40
+- **Duration (hr:mm)**: Sat Dec 30 1899 17:46:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:44:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H2-S6AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.41
+- **pCO2 (mmHg)**: 21
+- **pO2 (mmHg)**: 69.1
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 1.34
+- **Glu (mg/dL)**: 80
+- **Lac (mmol/L)**: 4.15
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.51
+- **HCO3- (mmol/L)**: 13.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 18:16:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:14:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H2-S7
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.38
+- **pCO2 (mmHg)**: 65.9
+- **pO2 (mmHg)**: 27.2
+- **K+ (mmol/L)**: 6
+- **Ca2+ (mmol/L)**: 1.29
+- **Glu (mg/dL)**: 87
+- **Lac (mmol/L)**: 4.4
+- **Urea (mmol/L)**: 2
+- **Cre (mg/dL)**: 0.62
+- **HCO3- (mmol/L)**: 16.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 18:16:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:14:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB039-E1H2-E8
+- **Sample collected at AO/PA/Buffer**: 1
+- **pH**: 7.402
+- **pCO2 (mmHg)**: 22.3
+- **pO2 (mmHg)**: 42.1
+- **K+ (mmol/L)**: 6
+- **Ca2+ (mmol/L)**: 1.27
+- **Glu (mg/dL)**: 86
+- **Lac (mmol/L)**: 4.48
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: -
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 22:39:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.25
+- **Chemical**: HCO3
+- **Time**: Sat Dec 30 1899 22:39:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 2
+- **Chemical**: Multivitamin
+- **Time**: Sat Dec 30 1899 22:50:10 GMT+0521 (India Standard Time)
+- **Chemical**: Dobutamine
+- **Time**: Sat Dec 30 1899 22:50:10 GMT+0521 (India Standard Time)
+- **Chemical**: Insulin
+- **Time**: Sat Dec 30 1899 22:50:10 GMT+0521 (India Standard Time)
+- **Chemical**: HCO3
+- **Time**: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1
+- **Chemical**: HCO3
+- **Time**: Sat Dec 30 1899 23:22:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 23:22:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.25
+
+## Entry 20
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.382
+- **Flow Rate (mL/min)**: 150 mL/min
+- **AO Pressure (mmHg)**: 101
+- **Start Time **: Sun Dec 31 1899 02:03:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 34.6
+- **Mode (LM/WM)**: 0
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sun Dec 31 1899 02:08:10 GMT+0521 (India Standard Time)
+- **Impedance**: 32
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 100
+- **Initial Output Voltage (V)**: 12
+- **Defibrillation (Yes/No)**: 0
+
+## Entry 23
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.318
+- **Flow Rate (mL/min)**: 80-90
+- **Start Time **: Sat Dec 30 1899 22:10:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36.2
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 1
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 22:11:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 22:13:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1800
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 100
+- **Initial Output Voltage (V)**: 12
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT036-E1-BR
+- **pH**: 7.321
+- **pCO2 (mmHg)**: 41.8
+- **pO2 (mmHg)**: 41
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 2.28
+- **Glu (mg/dL)**: 149
+- **Lac (mmol/L)**: 1.27
+- **Urea (mmol/L)**: 2.2
+- **Cre (mg/dL)**: 0.32
+- **HCO3- (mmol/L)**: 21.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:10:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT036-E1-AO2
+- **pH**: 7.184
+- **pCO2 (mmHg)**: 56.5
+- **pO2 (mmHg)**: 207.4
+- **K+ (mmol/L)**: 7.7
+- **Ca2+ (mmol/L)**: 1.39
+- **Glu (mg/dL)**: 112
+- **Lac (mmol/L)**: 1.07
+- **Urea (mmol/L)**: 2.8
+- **Cre (mg/dL)**: 0.36
+- **HCO3- (mmol/L)**: 21.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:13:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT036-E1-BR2
+- **pH**: 7.381
+- **pCO2 (mmHg)**: 44.1
+- **pO2 (mmHg)**: 48.9
+- **K+ (mmol/L)**: 6.3
+- **Ca2+ (mmol/L)**: 1.86
+- **Glu (mg/dL)**: 130
+- **Lac (mmol/L)**: 1.25
+- **Urea (mmol/L)**: 2.9
+- **Cre (mg/dL)**: 0.58
+- **HCO3- (mmol/L)**: 26.2
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 13:31:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:20:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT036-E1H1-S1
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.241
+- **pCO2 (mmHg)**: 62.8
+- **pO2 (mmHg)**: 40
+- **K+ (mmol/L)**: 10.4
+- **Ca2+ (mmol/L)**: 1.47
+- **Glu (mg/dL)**: 120
+- **Lac (mmol/L)**: 1.6
+- **Urea (mmol/L)**: 2.8
+- **Cre (mg/dL)**: 1.26
+- **HCO3- (mmol/L)**: 27
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:37:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:27:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT036-E1H1-S2
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.22
+- **pCO2 (mmHg)**: 62.1
+- **pO2 (mmHg)**: 29.6
+- **K+ (mmol/L)**: 10.1
+- **Ca2+ (mmol/L)**: 1.38
+- **Glu (mg/dL)**: 118
+- **Lac (mmol/L)**: 3.1
+- **Urea (mmol/L)**: 2.8
+- **Cre (mg/dL)**: 2.08
+- **HCO3- (mmol/L)**: 25.9
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:50:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:39:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT036-E1H1-S3
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: IQC
+- **pCO2 (mmHg)**: 60.4
+- **pO2 (mmHg)**: 24.1
+- **K+ (mmol/L)**: >12
+- **Ca2+ (mmol/L)**: 1.25
+- **Glu (mg/dL)**: 116
+- **Lac (mmol/L)**: 2.78
+- **Urea (mmol/L)**: 3
+- **Cre (mg/dL)**: CNC
+- **HCO3- (mmol/L)**: CNC
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:02:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT036-E1H1-S4
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.062
+- **pCO2 (mmHg)**: 89.5
+- **pO2 (mmHg)**: 16.1
+- **K+ (mmol/L)**: >12
+- **Ca2+ (mmol/L)**: 1.27
+- **Glu (mg/dL)**: 122
+- **Lac (mmol/L)**: 1.57
+- **Urea (mmol/L)**: 3.2
+- **Cre (mg/dL)**: 1.18
+- **HCO3- (mmol/L)**: 25.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:41:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTBT036-E1H1-S5
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.294
+- **pCO2 (mmHg)**: 47.2
+- **pO2 (mmHg)**: 33.1
+- **K+ (mmol/L)**: >12
+- **Ca2+ (mmol/L)**: 1.07
+- **Glu (mg/dL)**: 114
+- **Lac (mmol/L)**: 2.62
+- **Urea (mmol/L)**: 3
+- **Cre (mg/dL)**: 1.74
+- **HCO3- (mmol/L)**: 22.9
+- **Chemical**: Bicarbonate
+- **Time**: Sat Dec 30 1899 21:29:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 8
+- **Chemical**: Buffer replacement (full)
+- **Time**: Sat Dec 30 1899 21:48:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 700
+- **Chemical**: Streptokinase
+- **Time**: Sat Dec 30 1899 21:55:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1
+- **Chemical**: Buffer
+- **Time**: Sat Dec 30 1899 22:24:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 300
+- **Chemical**: Adrenaline, nitroglycerin, MgSO4
+- **Time**: Sat Dec 30 1899 22:40:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10ul,10ul,50ul
+- **Chemical**: Buffer- 300 ml drain 400 ml replaced 
+- **Time**: Sat Dec 30 1899 22:40:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400
+- **Chemical**: Buffer replacement
+- **Time**: Sat Dec 30 1899 22:54:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400
+- **Chemical**: Buffer Replacement
+- **Time**: Sat Dec 30 1899 23:12:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400
+
+## Entry 24
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.34
+- **Flow Rate (mL/min)**: 110
+- **Start Time **: Sat Dec 30 1899 23:36:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36.2
+- **Mode (LM/WM)**: 0
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 23:37:10 GMT+0521 (India Standard Time)
+- **Impedance**: 821
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 100
+- **Initial Output Voltage (V)**: 12
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:40:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Duration (hr:mm)**: 0
+- **Sample ID**: BTB035-BR2 
+- **pH**: 7.347
+- **pCO2 (mmHg)**: 40.8
+- **pO2 (mmHg)**: 49.4
+- **K+ (mmol/L)**: 4.8
+- **Ca2+ (mmol/L)**: 1.86
+- **Glu (mg/dL)**: 87
+- **Lac (mmol/L)**: 1.65
+- **Urea (mmol/L)**: 2.9
+- **Cre (mg/dL)**: 0.57
+- **HCO3- (mmol/L)**: 22.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **pH**: 7.2
+- **pCO2 (mmHg)**: 63.2
+- **pO2 (mmHg)**: 51.1
+- **K+ (mmol/L)**: 6.9
+- **Ca2+ (mmol/L)**: 1.47
+- **Glu (mg/dL)**: 105
+- **Lac (mmol/L)**: 1.44
+- **Urea (mmol/L)**: 2.8
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 24.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB035 E2H1-AO2-S2
+- **pH**: 7.652
+- **pCO2 (mmHg)**: 13.4
+- **pO2 (mmHg)**: 138.9
+- **K+ (mmol/L)**: 7.3
+- **Ca2+ (mmol/L)**: 1.37
+- **Glu (mg/dL)**: 99
+- **Lac (mmol/L)**: 1.59
+- **Urea (mmol/L)**: 2.3
+- **Cre (mg/dL)**: 0.52
+- **HCO3- (mmol/L)**: 14.8
+
+## Entry 25
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.54
+- **Flow Rate (mL/min)**: 110
+- **AO Pressure (mmHg)**: 23.07
+- **Start Time **: Sat Dec 30 1899 22:44:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36.5
+- **Mode (LM/WM)**: 0
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 22:53:10 GMT+0521 (India Standard Time)
+- **Impedance**: 482
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 100
+- **Initial Output Voltage (V)**: 12
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:49:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:49:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:50:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:41:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB035 E1-BO2
+- **Sample collected at AO/PA**: BO
+- **pH**: 7.281
+- **pCO2 (mmHg)**: 46.7
+- **pO2 (mmHg)**: 29.8
+- **K+ (mmol/L)**: 4.5
+- **Ca2+ (mmol/L)**: 1.51
+- **Glu (mg/dL)**: 135
+- **Lac (mmol/L)**: 1.15
+- **Urea (mmol/L)**: 2
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 22
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB035 E1-AO2
+- **Sample collected at AO/PA/Buffer**: AO
+- **pH**: 7.277
+- **pCO2 (mmHg)**: 65.2
+- **pO2 (mmHg)**: 40.2
+- **K+ (mmol/L)**: 6.5
+- **Ca2+ (mmol/L)**: 1.46
+- **Glu (mg/dL)**: 109
+- **Lac (mmol/L)**: 1.03
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.41
+- **HCO3- (mmol/L)**: 30.4
+- **Sample ID**: BTB035 E1-AO2-2
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.07
+- **pCO2 (mmHg)**: 86.4
+- **pO2 (mmHg)**: 46.7
+- **K+ (mmol/L)**: 6.5
+- **Ca2+ (mmol/L)**: 1.33
+- **Glu (mg/dL)**: 131
+- **Lac (mmol/L)**: 1.12
+- **Urea (mmol/L)**: 1.6
+- **Cre (mg/dL)**: 0.44
+- **HCO3- (mmol/L)**: 25.4
+- **Sample ID**: BTB035 E1-AO2-3
+- **pH**: 7.34
+- **pCO2 (mmHg)**: 40
+- **pO2 (mmHg)**: 50.4
+- **K+ (mmol/L)**: 7
+- **Ca2+ (mmol/L)**: 1.23
+- **Glu (mg/dL)**: 123
+- **Lac (mmol/L)**: 1.19
+- **Urea (mmol/L)**: 1.9
+- **Cre (mg/dL)**: 0.41
+- **HCO3- (mmol/L)**: 21.9
+- **Sample ID**: BTB035 E1-AO2-4
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.473
+- **pCO2 (mmHg)**: 29.7
+- **pO2 (mmHg)**: 47.4
+- **K+ (mmol/L)**: 6.5
+- **Ca2+ (mmol/L)**: 1.39
+- **Glu (mg/dL)**: 110
+- **Lac (mmol/L)**: 1.25
+- **Urea (mmol/L)**: 1.6
+- **Cre (mg/dL)**: 0.36
+- **HCO3- (mmol/L)**: 21.8
+- **Sample ID**: BTB035 E1-AO2-5
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.531
+- **pCO2 (mmHg)**: 26.2
+- **pO2 (mmHg)**: 51.3
+- **K+ (mmol/L)**: 7.2
+- **Ca2+ (mmol/L)**: 1.39
+- **Glu (mg/dL)**: 116
+- **Lac (mmol/L)**: 1.47
+- **Urea (mmol/L)**: 1.9
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 22
+- **Sample ID**: BTB035 E1-AO2-6
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.54
+- **pCO2 (mmHg)**: 21.2
+- **pO2 (mmHg)**: 53.5
+- **K+ (mmol/L)**: 7.2
+- **Ca2+ (mmol/L)**: 1.25
+- **Glu (mg/dL)**: 156
+- **Lac (mmol/L)**: 1.24
+- **Urea (mmol/L)**: 1.6
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 18.2
+- **Sample ID**: BTB035 E1-AO 
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.567
+- **pCO2 (mmHg)**: 23.8
+- **pO2 (mmHg)**: 57.9
+- **K+ (mmol/L)**: 7.5
+- **Ca2+ (mmol/L)**: 1.1
+- **Glu (mg/dL)**: 140
+- **Lac (mmol/L)**: 2.03
+- **Urea (mmol/L)**: 1.8
+- **Cre (mg/dL)**: 0.41
+- **HCO3- (mmol/L)**: 21.6
+- **Chemical**: Buffer Replacement
+- **Time**: Sat Dec 30 1899 21:25:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400
+- **Chemical**: MgSO4
+- **Time**: Sat Dec 30 1899 22:09:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+- **Chemical**: Bicarbonate
+- **Time**: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5
+
+## Entry 26
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.24
+- **Flow Rate (mL/min)**: 40
+- **AO Pressure (mmHg)**: 30.21
+- **Start Time **: Sat Dec 30 1899 21:26:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 32.8
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: Tue Feb 04 2025 13:30:00 GMT+0530 (India Standard Time)
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:36:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 21:33:10 GMT+0521 (India Standard Time)
+- **Impedance**: >1500
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 5
+- **Defibrillation (Yes/No)**: 0
+- **Cardioversion (Yes/No)**: 0
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 20:33:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1
+- **Sample collected at AO/PA**: BR
+- **pH**: 7.24
+- **pCO2 (mmHg)**: 41.9
+- **pO2 (mmHg)**: 38.4
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 2.64
+- **Glu (mg/dL)**: 163
+- **Lac (mmol/L)**: 0.97
+- **Urea (mmol/L)**: 2.5
+- **Cre (mg/dL)**: 0.34
+- **HCO3- (mmol/L)**: 18
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 20:36:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1
+- **Sample collected at AO/PA/Buffer**: WB
+- **pH**: 7.35
+- **pCO2 (mmHg)**: 51.9
+- **pO2 (mmHg)**: 40.2
+- **K+ (mmol/L)**: 3.7
+- **Ca2+ (mmol/L)**: 1.93
+- **Glu (mg/dL)**: 152
+- **Lac (mmol/L)**: 0.97
+- **Urea (mmol/L)**: 2.2
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 29.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H2-S1 AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.76
+- **pCO2 (mmHg)**: 9.1
+- **pO2 (mmHg)**: 144.4
+- **K+ (mmol/L)**: 4.8
+- **Ca2+ (mmol/L)**: 1.14
+- **Glu (mg/dL)**: 99
+- **Lac (mmol/L)**: 2.08
+- **Urea (mmol/L)**: 1.4
+- **Cre (mg/dL)**: 0.31
+- **HCO3- (mmol/L)**: 12.9
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:41:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H2-S2 PA
+- **Sample collected at AO/PA/Buffer**: 1
+- **pH**: 7.071
+- **pCO2 (mmHg)**: 65.2
+- **pO2 (mmHg)**: 34.7
+- **K+ (mmol/L)**: 6.5
+- **Ca2+ (mmol/L)**: 1.1
+- **Glu (mg/dL)**: 92
+- **Lac (mmol/L)**: 10.3
+- **Urea (mmol/L)**: 2
+- **Cre (mg/dL)**: 0.79
+- **HCO3- (mmol/L)**: 18.9
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:56:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S3 AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.663
+- **pCO2 (mmHg)**: 22.6
+- **pO2 (mmHg)**: 133.2
+- **K+ (mmol/L)**: 5
+- **Ca2+ (mmol/L)**: 1.06
+- **Glu (mg/dL)**: 195
+- **Lac (mmol/L)**: 3.75
+- **Urea (mmol/L)**: 1.5
+- **Cre (mg/dL)**: 0.56
+- **HCO3- (mmol/L)**: 25.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:46:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S4 AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.52
+- **pCO2 (mmHg)**: 28.3
+- **pO2 (mmHg)**: 113.6
+- **K+ (mmol/L)**: 5.2
+- **Ca2+ (mmol/L)**: 1.29
+- **Glu (mg/dL)**: 169
+- **Lac (mmol/L)**: 2.82
+- **Urea (mmol/L)**: 1.8
+- **Cre (mg/dL)**: 0.52
+- **HCO3- (mmol/L)**: 23.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S5 AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.52
+- **pCO2 (mmHg)**: 28.3
+- **pO2 (mmHg)**: 113.6
+- **K+ (mmol/L)**: 5.2
+- **Ca2+ (mmol/L)**: 1.29
+- **Glu (mg/dL)**: 169
+- **Lac (mmol/L)**: 2.82
+- **Urea (mmol/L)**: 1.8
+- **Cre (mg/dL)**: 0.52
+- **HCO3- (mmol/L)**: 23.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S5 AO
+- **Sample collected at AO/PA/Buffer**: 1
+- **pH**: 7.574
+- **pCO2 (mmHg)**: 30.2
+- **pO2 (mmHg)**: 112.2
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 1.21
+- **Glu (mg/dL)**: 165
+- **Lac (mmol/L)**: 3.28
+- **Urea (mmol/L)**: 1.8
+- **Cre (mg/dL)**: 0.69
+- **HCO3- (mmol/L)**: 28
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S6 PA
+- **Sample collected at AO/PA/Buffer**: 1
+- **pH**: 7.801
+- **pCO2 (mmHg)**: 10.5
+- **pO2 (mmHg)**: 134.5
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 1.22
+- **Glu (mg/dL)**: 110
+- **Lac (mmol/L)**: 1.12
+- **Urea (mmol/L)**: 1.5
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 16.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S7 AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.636
+- **pCO2 (mmHg)**: 31.4
+- **pO2 (mmHg)**: 126.5
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 1.28
+- **Glu (mg/dL)**: 152
+- **Lac (mmol/L)**: 2.81
+- **Urea (mmol/L)**: 1.9
+- **Cre (mg/dL)**: 0.64
+- **HCO3- (mmol/L)**: 33.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S8 PA
+- **Sample collected at AO/PA/Buffer**: 1
+- **pH**: 7.653
+- **pCO2 (mmHg)**: 28.4
+- **pO2 (mmHg)**: 41.4
+- **K+ (mmol/L)**: 5.4
+- **Ca2+ (mmol/L)**: 1.21
+- **Glu (mg/dL)**: 152
+- **Lac (mmol/L)**: 3.28
+- **Urea (mmol/L)**: 1.9
+- **Cre (mg/dL)**: 0.71
+- **HCO3- (mmol/L)**: 31.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S9 AO
+- **Sample collected at AO/PA/Buffer**: 1
+- **pH**: 7.43
+- **pCO2 (mmHg)**: 45
+- **pO2 (mmHg)**: 104.9
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 1.49
+- **Glu (mg/dL)**: 154
+- **Lac (mmol/L)**: 2.51
+- **Urea (mmol/L)**: 2.1
+- **Cre (mg/dL)**: 0.61
+- **HCO3- (mmol/L)**: 30.1
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S10 AO
+- **Sample collected at AO/PA/Buffer**: 1
+- **pH**: 7.398
+- **pCO2 (mmHg)**: 45.9
+- **pO2 (mmHg)**: 96.4
+- **K+ (mmol/L)**: 5.2
+- **Ca2+ (mmol/L)**: 1.53
+- **Glu (mg/dL)**: 166
+- **Lac (mmol/L)**: 2.53
+- **Urea (mmol/L)**: 2.2
+- **Cre (mg/dL)**: 0.52
+- **HCO3- (mmol/L)**: 28.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB034-E1H1-S11 AO
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.401
+- **pCO2 (mmHg)**: 46
+- **pO2 (mmHg)**: 98.2
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 1.53
+- **Glu (mg/dL)**: 161
+- **Lac (mmol/L)**: 2.54
+- **Urea (mmol/L)**: 2.2
+- **Cre (mg/dL)**: 0.59
+- **HCO3- (mmol/L)**: 28.6
+- **Chemical**: Buffer Replacement
+- **Time**: Sat Dec 30 1899 21:53:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 600
+- **Chemical**: Buffer Replacement
+- **Time**: Sat Dec 30 1899 22:48:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400
+- **Chemical**: Bicarbonate
+- **Time**: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 9
+- **Chemical**: Buffer Replacement
+- **Time**: Sat Dec 30 1899 23:16:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400
+- **Chemical**: Buffer Replacement
+- **Time**: Sat Dec 30 1899 23:51:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400
+
+## Entry 27
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.42
+- **Flow Rate (mL/min)**: 85
+- **AO Pressure (mmHg)**: -3.84
+- **Start Time **: Sun Dec 31 1899 00:46:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 33.6
+- **Mode (LM/WM)**: 0
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 5
+- **Initiation Time **: Sun Dec 31 1899 00:56:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1500
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 7.5
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sun Dec 31 1899 00:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sun Dec 31 1899 00:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sun Dec 31 1899 00:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sun Dec 31 1899 00:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sun Dec 31 1899 01:01:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30
+- **Time **: Sun Dec 31 1899 01:06:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 50
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:41:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB033-BR2
+- **pH**: 7.422
+- **pCO2 (mmHg)**: 36.4
+- **pO2 (mmHg)**: 44
+- **K+ (mmol/L)**: 4.1
+- **Ca2+ (mmol/L)**: 1.64
+- **Glu (mg/dL)**: 197
+- **Lac (mmol/L)**: 1.57
+- **Urea (mmol/L)**: 2.5
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 23.7
+
+## Entry 28
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.37
+- **Flow Rate (mL/min)**: 85
+- **AO Pressure (mmHg)**: 32
+- **Start Time **: Sat Dec 30 1899 22:35:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 35.5
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 5
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 22:53:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 4
+- **Initiation Time **: Sat Dec 30 1899 22:55:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1500
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 5
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:58:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:45:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2BR
+- **Sample collected at AO/PA**: 2
+- **pH**: 7.35
+- **pCO2 (mmHg)**: 24.1
+- **pO2 (mmHg)**: 45.8
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 1.47
+- **Glu (mg/dL)**: 187
+- **Lac (mmol/L)**: 1.29
+- **Urea (mmol/L)**: 1.9
+- **Cre (mg/dL)**: 0.36
+- **HCO3- (mmol/L)**: 13.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-E1H2-MODIFY
+- **Sample collected at AO/PA/Buffer**: 2
+- **pH**: 7.364
+- **pCO2 (mmHg)**: 32.4
+- **pO2 (mmHg)**: 46.3
+- **K+ (mmol/L)**: 4.1
+- **Ca2+ (mmol/L)**: 1.43
+- **Glu (mg/dL)**: 179
+- **Lac (mmol/L)**: 1.53
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.33
+- **HCO3- (mmol/L)**: 18.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:01:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-MODIFY2
+- **Sample collected at AO/PA/Buffer**: 2
+- **pH**: 7.359
+- **pCO2 (mmHg)**: 33.7
+- **pO2 (mmHg)**: 44.1
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.4
+- **Glu (mg/dL)**: 195
+- **Lac (mmol/L)**: 1.36
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.45
+- **HCO3- (mmol/L)**: 19
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:11:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-MODIFY3
+- **Sample collected at AO/PA/Buffer**: 2
+- **pH**: 7.418
+- **pCO2 (mmHg)**: 39.4
+- **pO2 (mmHg)**: 47.8
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 1.37
+- **Glu (mg/dL)**: 193
+- **Lac (mmol/L)**: 1.58
+- **Urea (mmol/L)**: 1.6
+- **Cre (mg/dL)**: 0.41
+- **HCO3- (mmol/L)**: 25.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-S5
+- **Sample collected at AO/PA/Buffer**: 2
+- **pH**: 7.697
+- **pCO2 (mmHg)**: 12.9
+- **pO2 (mmHg)**: 186.4
+- **K+ (mmol/L)**: 5.1
+- **Ca2+ (mmol/L)**: 1.09
+- **Glu (mg/dL)**: 146
+- **Lac (mmol/L)**: 1.33
+- **Urea (mmol/L)**: 1.5
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 15.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:36:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-S6
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.573
+- **pCO2 (mmHg)**: 25.9
+- **pO2 (mmHg)**: 106.6
+- **K+ (mmol/L)**: 5.2
+- **Ca2+ (mmol/L)**: 0.95
+- **Glu (mg/dL)**: 146
+- **Lac (mmol/L)**: 3.93
+- **Urea (mmol/L)**: 1.6
+- **Cre (mg/dL)**: 0.58
+- **HCO3- (mmol/L)**: 23.9
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-S7
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.493
+- **pCO2 (mmHg)**: 31.6
+- **pO2 (mmHg)**: 93.6
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 1.11
+- **Glu (mg/dL)**: 145
+- **Lac (mmol/L)**: 4.62
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.51
+- **HCO3- (mmol/L)**: 24.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:26:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-S8
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.53
+- **pCO2 (mmHg)**: 28
+- **pO2 (mmHg)**: 104.8
+- **K+ (mmol/L)**: 5.8
+- **Ca2+ (mmol/L)**: 1.01
+- **Glu (mg/dL)**: 140
+- **Lac (mmol/L)**: 4.58
+- **Cre (mg/dL)**: 0.57
+- **HCO3- (mmol/L)**: 23.9
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:43:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:43:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-S9
+- **Sample collected at AO/PA/Buffer**: 1
+- **pH**: 7.494
+- **pCO2 (mmHg)**: 30.3
+- **pO2 (mmHg)**: 37.9
+- **K+ (mmol/L)**: 5.8
+- **Ca2+ (mmol/L)**: 1.04
+- **Glu (mg/dL)**: 134
+- **Lac (mmol/L)**: 4.98
+- **Urea (mmol/L)**: 1.5
+- **Cre (mg/dL)**: 0.52
+- **HCO3- (mmol/L)**: 23.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:14:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:59:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-S10
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.54
+- **pCO2 (mmHg)**: 30.9
+- **pO2 (mmHg)**: 96.1
+- **K+ (mmol/L)**: 6
+- **Ca2+ (mmol/L)**: 1.17
+- **Glu (mg/dL)**: 133
+- **Lac (mmol/L)**: 4.58
+- **Urea (mmol/L)**: 1.8
+- **Cre (mg/dL)**: 0.59
+- **HCO3- (mmol/L)**: 26.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:32:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-S11
+- **Sample collected at AO/PA/Buffer**: 0
+- **pH**: 7.537
+- **pCO2 (mmHg)**: 29.8
+- **pO2 (mmHg)**: 100.5
+- **K+ (mmol/L)**: 6
+- **Ca2+ (mmol/L)**: 1.19
+- **Glu (mg/dL)**: 134
+- **Lac (mmol/L)**: 4.98
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.56
+- **HCO3- (mmol/L)**: 25.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:32:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB032-ABG-E1H2-S12
+- **Sample collected at AO/PA/Buffer**: 1
+- **pH**: 7.509
+- **pCO2 (mmHg)**: 31.1
+- **pO2 (mmHg)**: 37.9
+- **K+ (mmol/L)**: 5.9
+- **Ca2+ (mmol/L)**: 1.18
+- **Glu (mg/dL)**: 123
+- **Lac (mmol/L)**: 5.03
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.54
+- **HCO3- (mmol/L)**: 24.7
+- **Chemical**: 0
+- **Time**: Sat Dec 30 1899 23:17:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10
+- **Remarks**: 7.5% stock
+- **Chemical**: 1
+- **Time**: Sat Dec 30 1899 23:35:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+- **Remarks**: Stock 100mg/ml
+- **Chemical**: 2
+- **Time**: Sat Dec 30 1899 23:37:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.002
+- **Chemical**: 0
+- **Time**: Sat Dec 30 1899 23:39:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 2
+- **Chemical**: 0
+- **Time**: Sun Dec 31 1899 00:22:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 2
+- **Chemical**: 0
+- **Time**: Sun Dec 31 1899 00:30:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1
+- **Chemical**: 1
+- **Time**: Sun Dec 31 1899 00:52:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+- **Chemical**: 3
+- **Time**: Sun Dec 31 1899 00:52:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.01
+
+## Entry 30
+
+- **Solution Code **: BTBPMS010
+- **pH**: 737
+- **Flow Rate (mL/min)**: 85
+- **AO Pressure (mmHg)**: 39.9
+- **Start Time **: Sat Dec 30 1899 21:30:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 35.2
+- **LA Pressure (mmHg)**: 11.01
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: Thu Jan 02 2025 13:30:00 GMT+0530 (India Standard Time)
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:31:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 21:42:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1500
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 5
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:56:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:45:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 21:47:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Time **: Sat Dec 30 1899 22:16:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 2.7
+- **Glucose (mg/dL)**: 101
+- **pH**: 7.52
+- **Temperature  (?C) **: 37.1
+- **Time **: -
+- **Duration (hr:mm)**: -
+- **Lactate (mmol/L)**: -
+- **Glucose (mg/dL)**: -
+- **pH**: -
+- **Temperature  (?C) **: -
+- **Time **: Sat Dec 30 1899 22:46:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 2.8
+- **Glucose (mg/dL)**: 113
+- **pH**: 7.64
+- **Temperature  (?C) **: 35.4
+- **Time **: Sat Dec 30 1899 23:16:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 2.8
+- **Glucose (mg/dL)**: 102
+- **pH**: 7.9
+- **Temperature  (?C) **: 35.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 20:39:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_BO2
+- **pH**: 7.3
+- **pCO2 (mmHg)**: 30.6
+- **pO2 (mmHg)**: 49.8
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 1.5
+- **Glu (mg/dL)**: 227
+- **Lac (mmol/L)**: 1.18
+- **Urea (mmol/L)**: 1.4
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 15
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:31:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:15:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_S1
+- **pH**: 7.598
+- **pCO2 (mmHg)**: 8.5
+- **pO2 (mmHg)**: 153
+- **K+ (mmol/L)**: 5.5
+- **Ca2+ (mmol/L)**: 1.05
+- **Glu (mg/dL)**: 153
+- **Lac (mmol/L)**: 1.19
+- **Urea (mmol/L)**: 1.9
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 8.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:33:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_S2_AO
+- **pH**: 7.529
+- **pCO2 (mmHg)**: 10.8
+- **pO2 (mmHg)**: 157.5
+- **K+ (mmol/L)**: 5.5
+- **Ca2+ (mmol/L)**: 1.01
+- **Glu (mg/dL)**: 157
+- **Lac (mmol/L)**: 2.03
+- **Urea (mmol/L)**: 2
+- **Cre (mg/dL)**: <0.3
+- **HCO3- (mmol/L)**: 9
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:41:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_S3_PA
+- **pH**: 7.213
+- **pCO2 (mmHg)**: 21.3
+- **pO2 (mmHg)**: 55.7
+- **K+ (mmol/L)**: 6
+- **Ca2+ (mmol/L)**: 1.03
+- **Glu (mg/dL)**: 95
+- **Lac (mmol/L)**: 2.96
+- **Urea (mmol/L)**: 4
+- **Cre (mg/dL)**: <0.3
+- **HCO3- (mmol/L)**: 8.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:06:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_S4_AO
+- **pH**: 7.57
+- **pCO2 (mmHg)**: 10.2
+- **pO2 (mmHg)**: 133.1
+- **K+ (mmol/L)**: 5.2
+- **Ca2+ (mmol/L)**: 0.8
+- **Glu (mg/dL)**: 95
+- **Lac (mmol/L)**: 2.49
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: <0.3
+- **HCO3- (mmol/L)**: 9.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:16:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-ABG-E1H2_S5_PA
+- **pH**: 7.536
+- **pCO2 (mmHg)**: 11.1
+- **pO2 (mmHg)**: 46.8
+- **K+ (mmol/L)**: 5.4
+- **Ca2+ (mmol/L)**: 0.7
+- **Glu (mg/dL)**: 96
+- **Lac (mmol/L)**: 3.1
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 9.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:25:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_S6_AO
+- **pH**: 7.65
+- **pCO2 (mmHg)**: 8.9
+- **pO2 (mmHg)**: 168
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 0.8
+- **Lac (mmol/L)**: 3.03
+- **HCO3- (mmol/L)**: 9.9
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:37:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_S7_PA
+- **pH**: 7.59
+- **pCO2 (mmHg)**: 9.3
+- **pO2 (mmHg)**: 72.8
+- **K+ (mmol/L)**: 5.5
+- **Ca2+ (mmol/L)**: 0.84
+- **Glu (mg/dL)**: 112
+- **Lac (mmol/L)**: 3.13
+- **Urea (mmol/L)**: 1.2
+- **Cre (mg/dL)**: <0.3
+- **HCO3- (mmol/L)**: 8.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:11:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:55:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_S8_AO
+- **pH**: 7.731
+- **pCO2 (mmHg)**: 6.3
+- **pO2 (mmHg)**: 161.9
+- **K+ (mmol/L)**: 5.5
+- **Ca2+ (mmol/L)**: 0.7
+- **Glu (mg/dL)**: 109
+- **Lac (mmol/L)**: 2.84
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: <0.3
+- **HCO3- (mmol/L)**: 8.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:20:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_S9_AO
+- **pH**: 7.619
+- **pCO2 (mmHg)**: 13.4
+- **pO2 (mmHg)**: 164
+- **K+ (mmol/L)**: 5.4
+- **Ca2+ (mmol/L)**: 0.64
+- **Glu (mg/dL)**: 92
+- **Lac (mmol/L)**: 2.63
+- **Urea (mmol/L)**: <1.1
+- **Cre (mg/dL)**: <0.3
+- **HCO3- (mmol/L)**: 13.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:48:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB031-E1H2_S10_PA
+- **pH**: 7.638
+- **pCO2 (mmHg)**: 11.8
+- **pO2 (mmHg)**: 144.4
+- **K+ (mmol/L)**: 5.5
+- **Ca2+ (mmol/L)**: 0.72
+- **Glu (mg/dL)**: 99
+- **Lac (mmol/L)**: 3.01
+- **Urea (mmol/L)**: <1.1
+- **HCO3- (mmol/L)**: 12.6
+- **Chemical**: Lignocaine
+- **Time**: Sat Dec 30 1899 21:46:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.25
+- **Chemical**: Bicarbonate
+- **Time**: Sat Dec 30 1899 22:00:10 GMT+0521 (India Standard Time)
+- **Chemical**: Mitochondria
+- **Time**: Sat Dec 30 1899 22:09:10 GMT+0521 (India Standard Time)
+- **Chemical**: Calcium
+- **Time**: Sat Dec 30 1899 22:24:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 22:24:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5
+- **Chemical**: Insulin
+- **Time**: Sat Dec 30 1899 22:31:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10 IU
+- **Chemical**: Multivitamin
+- **Time**: Sat Dec 30 1899 22:34:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 2
+- **Chemical**: Anti-inflammatory 
+- **Time**: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 2.5
+- **Chemical**: 12N Hcl
+- **Time**: Sat Dec 30 1899 22:46:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.2
+
+## Entry 31
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.32
+- **Flow Rate (mL/min)**: 80
+- **AO Pressure (mmHg)**: 37.91
+- **Start Time **: Sat Dec 30 1899 22:21:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 34.6
+- **LA Pressure (mmHg)**: 9.71
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: Thu Jan 02 2025 13:30:00 GMT+0530 (India Standard Time)
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 22:23:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 22:28:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1500
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 1
+- **Defibrillation (Yes/No)**: 0
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:28:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 2
+- **Time **: Sat Dec 30 1899 22:21:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.6
+- **Glucose (mg/dL)**: 178
+- **pH**: 7.6
+- **Temperature  (?C) **: 35.1
+- **Time **: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:06:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.1
+- **Glucose (mg/dL)**: 132
+- **pH**: 7.5
+- **Temperature  (?C) **: 35.5
+- **Time **: Sat Dec 30 1899 23:21:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:36:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.7
+- **Glucose (mg/dL)**: 141
+- **pH**: 7.6
+- **Temperature  (?C) **: 36.1
+- **Time **: Sun Dec 31 1899 00:06:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.6
+- **Glucose (mg/dL)**: 105
+- **pH**: 7.52
+- **Temperature  (?C) **: 36.4
+- **Time **: Sun Dec 31 1899 00:21:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:36:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.8
+- **Glucose (mg/dL)**: 196
+- **pH**: 7.62
+- **Temperature  (?C) **: 35
+- **Time **: Sun Dec 31 1899 01:06:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.5
+- **Glucose (mg/dL)**: 151
+- **pH**: 7.7
+- **Temperature  (?C) **: 35
+- **Time **: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB030-ABG-E1H2-AO2
+- **pH**: 7.323
+- **pCO2 (mmHg)**: 25.6
+- **pO2 (mmHg)**: 149.2
+- **K+ (mmol/L)**: 4.8
+- **Ca2+ (mmol/L)**: 1.48
+- **Glu (mg/dL)**: 66
+- **Lac (mmol/L)**: 0.68
+- **Urea (mmol/L)**: 1.6
+- **HCO3- (mmol/L)**: 0.37
+- **Time **: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB030-ABG-E1H2S2-AO
+- **pH**: 7.323
+- **pCO2 (mmHg)**: 23.5
+- **pO2 (mmHg)**: 155
+- **K+ (mmol/L)**: 4.9
+- **Ca2+ (mmol/L)**: 3.26
+- **Glu (mg/dL)**: 151
+- **Lac (mmol/L)**: 1.8
+- **Urea (mmol/L)**: 1.3
+- **HCO3- (mmol/L)**: 0.3
+- **Time **: Sat Dec 30 1899 23:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB030-ABG-E1H2S3-PA
+- **pH**: 7.171
+- **pCO2 (mmHg)**: 32.8
+- **pO2 (mmHg)**: 49.2
+- **K+ (mmol/L)**: 4.9
+- **Ca2+ (mmol/L)**: 1.63
+- **Glu (mg/dL)**: 169
+- **Lac (mmol/L)**: 2.69
+- **Urea (mmol/L)**: 1.2
+- **HCO3- (mmol/L)**: <0.3
+- **Sample ID**: BTB030-ABG-E1H2S4-AO
+- **pH**: 7.251
+- **pCO2 (mmHg)**: 33
+- **pO2 (mmHg)**: 147.7
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 2.55
+- **Glu (mg/dL)**: 184
+- **Lac (mmol/L)**: 1.93
+- **Urea (mmol/L)**: 1.4
+- **HCO3- (mmol/L)**: <0.3
+- **Sample ID**: BTB030-ABG-E1H2S5-PA
+- **pH**: 7.28
+- **pCO2 (mmHg)**: 26.7
+- **pO2 (mmHg)**: 87.2
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 2.8
+- **Glu (mg/dL)**: 153
+- **Lac (mmol/L)**: 2.47
+- **Urea (mmol/L)**: 1.5
+- **Cre (mg/dL)**: 0.4
+- **Time **: Sun Dec 31 1899 01:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB030-ABG-E1H2S6-AO
+- **pH**: 7.292
+- **pCO2 (mmHg)**: 31
+- **pO2 (mmHg)**: 181.5
+- **K+ (mmol/L)**: 5.3
+- **Ca2+ (mmol/L)**: 2.25
+- **Glu (mg/dL)**: 157
+- **Lac (mmol/L)**: 1.98
+- **Urea (mmol/L)**: 1.2
+- **HCO3- (mmol/L)**: 0.53
+- **Time **: Sun Dec 31 1899 01:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB030-ABG-E1H2S7-PA
+- **pH**: 7.215
+- **pCO2 (mmHg)**: 38.5
+- **pO2 (mmHg)**: 95.3
+- **K+ (mmol/L)**: 5.5
+- **Ca2+ (mmol/L)**: 2.13
+- **Glu (mg/dL)**: 146
+- **Lac (mmol/L)**: 2.19
+- **Urea (mmol/L)**: 1.3
+- **HCO3- (mmol/L)**: 0.37
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 22:13:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 20
+- **Temperature  (?C) **: 0
+- **pH**: 0
+- **Remarks**: 0
+- **Chemical**: CaCl2
+- **Time**: Sat Dec 30 1899 22:42:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0
+- **Temperature  (?C) **: 0
+- **pH**: 0
+- **Remarks**: 0
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 23:21:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10
+- **Temperature  (?C) **: 0
+- **pH**: 0
+- **Remarks**: 0
+- **Chemical**: NaHCO3
+- **Time**: Sun Dec 31 1899 00:46:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5
+- **Temperature  (?C) **: 0
+- **pH**: 0
+- **Remarks**: 0
+- **Chemical**: Glucose
+- **Time**: Sun Dec 31 1899 00:46:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10
+- **Temperature  (?C) **: 0
+- **pH**: 0
+- **Remarks**: 0
+
+## Entry 32
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.38
+- **Flow Rate (mL/min)**: 85
+- **Start Time **: Sat Dec 30 1899 20:53:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 37.1
+- **LA Pressure (mmHg)**: 42.11
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 2
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 20:59:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 20:57:10 GMT+0521 (India Standard Time)
+- **Impedance**: 765
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 6.5
+- **Defibrillation (Yes/No)**: 0
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:07:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Time **: Sat Dec 30 1899 20:56:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:11:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.4
+- **Glucose (mg/dL)**: 147
+- **pH**: 7.72
+- **Temperature  (?C) **: 37.5
+- **Time **: Sat Dec 30 1899 21:26:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 20:22:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB029-ABG-E1H1S1-BO2
+- **pH**: 7.27
+- **pCO2 (mmHg)**: 33.9
+- **pO2 (mmHg)**: 54
+- **K+ (mmol/L)**: 3.9
+- **Ca2+ (mmol/L)**: 2.06
+- **Glu (mg/dL)**: 248
+- **Lac (mmol/L)**: 0.96
+- **Urea (mmol/L)**: 2.6
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 15.8
+- **Time **: Sat Dec 30 1899 21:13:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB029-ABG-E1H1S2-AO2-A
+- **pH**: 7.39
+- **pCO2 (mmHg)**: 20.7
+- **pO2 (mmHg)**: 113.2
+- **K+ (mmol/L)**: 5
+- **Ca2+ (mmol/L)**: 1.45
+- **Glu (mg/dL)**: 189
+- **Lac (mmol/L)**: 3.58
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.45
+- **HCO3- (mmol/L)**: 12.5
+- **Time **: Sat Dec 30 1899 21:25:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB029-ABG-E1H1S3-AO2-PA
+- **pH**: 7.139
+- **pCO2 (mmHg)**: 36.8
+- **pO2 (mmHg)**: 46.1
+- **K+ (mmol/L)**: 6.1
+- **Ca2+ (mmol/L)**: 1.26
+- **Glu (mg/dL)**: 184
+- **Lac (mmol/L)**: 5.13
+- **Urea (mmol/L)**: 1.9
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 12.5
+- **Time **: Sat Dec 30 1899 22:45:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB029-ABG-E1H1S3-Drain
+- **pH**: 7.436
+- **pCO2 (mmHg)**: 17.7
+- **pO2 (mmHg)**: 130.7
+- **K+ (mmol/L)**: 5
+- **Ca2+ (mmol/L)**: 1.44
+- **Glu (mg/dL)**: 171
+- **Lac (mmol/L)**: 3.26
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.37
+- **HCO3- (mmol/L)**: 11.9
+- **Chemical**: Metaprolol
+- **Time**: Sat Dec 30 1899 21:08:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.2 in 6 mL PMS
+
+## Entry 33
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.38
+- **Flow Rate (mL/min)**: 85
+- **Start Time **: Sat Dec 30 1899 22:01:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 37.5
+- **LA Pressure (mmHg)**: 36.42
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 2
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:58:10 GMT+0521 (India Standard Time)
+- **Remarks**: -
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 22:01:10 GMT+0521 (India Standard Time)
+- **Impedance**: 861
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 82
+- **Initial Output Voltage (V)**: 6.5
+- **Defibrillation (Yes/No)**: 0
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:08:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:09:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30
+- **Time **: Sat Dec 30 1899 22:10:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30
+- **Time **: Sat Dec 30 1899 22:01:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:16:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.4
+- **Glucose (mg/dL)**: 239
+- **pH**: 7.3
+- **Temperature  (?C) **: 38.4
+- **Time **: Sat Dec 30 1899 22:31:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:16:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB029-ABG-E2H2S1-AO
+- **pH**: 7.543
+- **pCO2 (mmHg)**: 12.7
+- **pO2 (mmHg)**: 144.5
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 1.84
+- **Glu (mg/dL)**: 222
+- **Lac (mmol/L)**: 2.29
+- **Urea (mmol/L)**: 2
+- **Cre (mg/dL)**: 0.48
+- **HCO3- (mmol/L)**: 11
+- **Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB029-ABG-E2H2S2-PA
+- **pH**: 7.341
+- **pCO2 (mmHg)**: 19.7
+- **pO2 (mmHg)**: 137.9
+- **K+ (mmol/L)**: 6.2
+- **Ca2+ (mmol/L)**: 1.29
+- **Glu (mg/dL)**: 184
+- **Lac (mmol/L)**: 5.94
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.59
+- **HCO3- (mmol/L)**: 10.6
+- **Chemical**: Adrenaline
+- **Time**: Sat Dec 30 1899 22:13:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.7
+- **Temperature  (?C) **: 38.6
+- **Chemical**: Adrenaline shower
+- **Time**: Sat Dec 30 1899 22:19:10 GMT+0521 (India Standard Time)
+
+## Entry 34
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.38
+- **Flow Rate (mL/min)**: 85
+- **Start Time **: Sat Dec 30 1899 22:56:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 35.7
+- **LA Pressure (mmHg)**: 55.79
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 2
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 22:58:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 23:00:10 GMT+0521 (India Standard Time)
+- **Impedance**: 541
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 82
+- **Initial Output Voltage (V)**: 6.5
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:00:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 23:15:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:26:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 4.7
+- **Glucose (mg/dL)**: 231
+- **pH**: 7.47
+- **Temperature  (?C) **: 36.2
+- **Time **: Sat Dec 30 1899 23:29:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB029-ABG-E3H1S1-AO
+- **pH**: 7.331
+- **pCO2 (mmHg)**: 29
+- **pO2 (mmHg)**: 126.3
+- **K+ (mmol/L)**: 5.2
+- **Ca2+ (mmol/L)**: 1.28
+- **Glu (mg/dL)**: 191
+- **Lac (mmol/L)**: 3.14
+- **Urea (mmol/L)**: 1.3
+- **Cre (mg/dL)**: 0.45
+- **HCO3- (mmol/L)**: 15.3
+- **Time **: Sat Dec 30 1899 23:44:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB029-ABG-E3H1S2-PA
+- **pH**: 7.333
+- **pCO2 (mmHg)**: 25.7
+- **pO2 (mmHg)**: 41.3
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 1.44
+- **Glu (mg/dL)**: 217
+- **Lac (mmol/L)**: 4.35
+- **Urea (mmol/L)**: 1.7
+- **Cre (mg/dL)**: 0.65
+- **HCO3- (mmol/L)**: 13.7
+
+## Entry 35
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.32
+- **Flow Rate (mL/min)**: 85
+- **AO Pressure (mmHg)**: 14.8
+- **Start Time **: Sat Dec 30 1899 22:11:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 31.8
+- **LA Pressure (mmHg)**: 15.17
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 0
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 22:12:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1121
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 90
+- **Initial Output Voltage (V)**: 7.5
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:15:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 5
+- **Time **: Sat Dec 30 1899 22:16:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Cardioversion (Yes/No)**: 0
+- **Time **: Sat Dec 30 1899 22:11:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB028-E1H2-S1
+- **pH**: 7.34
+- **pCO2 (mmHg)**: 25.3
+- **pO2 (mmHg)**: 113.6
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 1.57
+- **Glu (mg/dL)**: 197
+- **Lac (mmol/L)**: 0.55
+- **Urea (mmol/L)**: 2.7
+- **Cre (mg/dL)**: 0.32
+- **HCO3- (mmol/L)**: 13.1
+
+## Entry 36
+
+- **Solution Code **: BTBPMS010
+- **pH**: Sat Jan 06 1900 21:01:58 GMT+0521 (India Standard Time)
+- **Flow Rate (mL/min)**: 85
+- **AO Pressure (mmHg)**: 31.22
+- **Start Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 33.1
+- **LA Pressure (mmHg)**: 24.71
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 0
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 22:31:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1500
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 7.5
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:42:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:41:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 2.4
+- **Glucose (mg/dL)**: 131
+- **pH**: 7.41
+- **Temperature  (?C) **: 33.7
+- **Time **: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 2.5
+- **Glucose (mg/dL)**: 170
+- **pH**: 7.75
+- **Temperature  (?C) **: 33.1
+- **Time **: Sat Dec 30 1899 22:44:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB028-E2H1-S1
+- **pH**: 7.581
+- **pCO2 (mmHg)**: 18.2
+- **pO2 (mmHg)**: 155.7
+- **K+ (mmol/L)**: 5.7
+- **Ca2+ (mmol/L)**: 0.81
+- **Glu (mg/dL)**: 80
+- **Lac (mmol/L)**: 1.21
+- **Urea (mmol/L)**: 1.2
+- **Cre (mg/dL)**: 0.33
+- **HCO3- (mmol/L)**: 17.2
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 23:05:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 3
+- **Temperature  (?C) **: 34.9
+
+## Entry 37
+
+- **Solution Code **: BTBPMS009
+- **pH**: 7.2
+- **Flow Rate (mL/min)**: 85
+- **AO Pressure (mmHg)**: 40.24
+- **Start Time **: Sun Jan 07 1900 16:57:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 33.1
+- **LA Pressure (mmHg)**: 12.1
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 3
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:37:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 0
+- **Time **: Sat Dec 30 1899 21:51:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.9
+- **Glucose (mg/dL)**: 206
+- **pH**: 7.37
+- **Temperature  (?C) **: 33.6
+
+## Entry 38
+
+- **Solution Code **: BTBPMS010
+- **pH**: 7.43
+- **Flow Rate (mL/min)**: 85
+- **AO Pressure (mmHg)**: 42.7
+- **Start Time **: Sat Dec 30 1899 22:18:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 33.1
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 2
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 22:21:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 22:31:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1512
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 100
+- **Initial Output Voltage (V)**: 7.5
+- **Time **: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 1.6
+- **Glucose (mg/dL)**: 216
+- **pH**: 7.04
+- **Temperature  (?C) **: 33.9
+- **Time **: Sat Dec 30 1899 23:06:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 2.9
+- **Glucose (mg/dL)**: 243
+- **pH**: 7.42
+- **Temperature  (?C) **: 34.8
+- **Time **: Sat Dec 30 1899 23:36:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 2.2
+- **Glucose (mg/dL)**: 161
+- **pH**: 7.75
+- **Temperature  (?C) **: 34.8
+- **Time **: Sun Dec 31 1899 00:06:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.4
+- **Glucose (mg/dL)**: 157
+- **pH**: 7.69
+- **Temperature  (?C) **: 34.7
+- **Time **: Sun Dec 31 1899 00:36:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.2
+- **Glucose (mg/dL)**: 136
+- **pH**: 7.97
+- **Temperature  (?C) **: 34.3
+- **Time **: Sun Dec 31 1899 01:06:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 7.2
+- **Glucose (mg/dL)**: 147
+- **pH**: 8.13
+- **Temperature  (?C) **: 35.3
+- **Time **: Sun Dec 31 1899 01:36:10 GMT+0521 (India Standard Time)
+- **Sat Dec 30 1899 16:21:10 GMT+0521 (India Standard Time)**: Sat Dec 30 1899 16:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 3.7
+- **Glucose (mg/dL)**: 131
+- **pH**: 7.42
+- **Temperature  (?C) **: 35.1
+- **Time **: Sun Dec 31 1899 02:06:10 GMT+0521 (India Standard Time)
+- **Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)**: Sat Dec 30 1899 17:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 4.1
+- **Glucose (mg/dL)**: 122
+- **pH**: 7.71
+- **Temperature  (?C) **: 35.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S1
+- **pH**: 6.71
+- **pCO2 (mmHg)**: 130.5
+- **pO2 (mmHg)**: 298.2
+- **K+ (mmol/L)**: 5.4
+- **Ca2+ (mmol/L)**: 1.73
+- **Glu (mg/dL)**: 205
+- **Lac (mmol/L)**: 2.28
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 16.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S2
+- **pH**: 6.935
+- **pCO2 (mmHg)**: 78.5
+- **pO2 (mmHg)**: 241.7
+- **K+ (mmol/L)**: 5.8
+- **Ca2+ (mmol/L)**: 1.6
+- **Glu (mg/dL)**: 184
+- **Lac (mmol/L)**: 1.48
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 16.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:11:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S3-PA
+- **pH**: 7.17
+- **pCO2 (mmHg)**: 64.6
+- **pO2 (mmHg)**: 45
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 1.5
+- **Glu (mg/dL)**: 208
+- **Lac (mmol/L)**: 2.95
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 23.8
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 14:11:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S4-AO
+- **pH**: 7.313
+- **pCO2 (mmHg)**: 28.5
+- **pO2 (mmHg)**: 196.3
+- **K+ (mmol/L)**: 5.7
+- **Ca2+ (mmol/L)**: 1.35
+- **Glu (mg/dL)**: 176
+- **Lac (mmol/L)**: 2.16
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.48
+- **HCO3- (mmol/L)**: 14.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S5-AO
+- **pH**: 7.838
+- **pCO2 (mmHg)**: 5
+- **pO2 (mmHg)**: 186.4
+- **K+ (mmol/L)**: 5.4
+- **Ca2+ (mmol/L)**: 0.86
+- **Glu (mg/dL)**: 100
+- **Lac (mmol/L)**: 2.14
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.44
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S6-PA
+- **pH**: 7.679
+- **pCO2 (mmHg)**: 11.7
+- **pO2 (mmHg)**: 22.9
+- **K+ (mmol/L)**: 5.7
+- **Ca2+ (mmol/L)**: 0.91
+- **Glu (mg/dL)**: 106
+- **Lac (mmol/L)**: 3.04
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.33
+- **HCO3- (mmol/L)**: 13.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S7-AO
+- **pH**: 7.828
+- **pCO2 (mmHg)**: 9.7
+- **pO2 (mmHg)**: 170.6
+- **K+ (mmol/L)**: 5.4
+- **Ca2+ (mmol/L)**: 0.87
+- **Glu (mg/dL)**: 100
+- **Lac (mmol/L)**: 2.52
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 16.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 16:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S8-AO
+- **pH**: 8
+- **pCO2 (mmHg)**: 5
+- **pO2 (mmHg)**: 189.4
+- **K+ (mmol/L)**: 5.4
+- **Ca2+ (mmol/L)**: 0.74
+- **Glu (mg/dL)**: 106
+- **Lac (mmol/L)**: 2.22
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.42
+- **Duration (hr:mm)**: Sat Dec 30 1899 17:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S9-AO
+- **pH**: 7.298
+- **pCO2 (mmHg)**: 35.8
+- **pO2 (mmHg)**: 72.6
+- **K+ (mmol/L)**: 6.1
+- **Ca2+ (mmol/L)**: 0.76
+- **Glu (mg/dL)**: 111
+- **Lac (mmol/L)**: 3.2
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.46
+- **HCO3- (mmol/L)**: 17.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 17:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 14:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB027-E2H1S10-PA
+- **pH**: 7.148
+- **pCO2 (mmHg)**: 66.5
+- **pO2 (mmHg)**: 218.4
+- **K+ (mmol/L)**: 6.1
+- **Ca2+ (mmol/L)**: 0.93
+- **Glu (mg/dL)**: 122
+- **Lac (mmol/L)**: 2.67
+- **HCO3- (mmol/L)**: 23
+- **Chemical**: Dobutamine and streptokinase
+- **Time**: Sat Dec 30 1899 22:48:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 50
+- **Chemical**: bicarbonate
+- **Time**: Sat Dec 30 1899 22:51:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5 in 20ml
+- **Chemical**: Dobutamine and adrenaline
+- **Time**: Sat Dec 30 1899 23:23:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 25
+- **Chemical**: ph adjust
+- **Time**: Sun Dec 31 1899 02:16:10 GMT+0521 (India Standard Time)
+
+## Entry 39
+
+- **Solution Code **: BTBPMS008
+- **pH**: 7.4
+- **Flow Rate (mL/min)**: 330
+- **AO Pressure (mmHg)**: 19.17
+- **Start Time **: Sat Dec 30 1899 21:25:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 34.3
+- **LA Pressure (mmHg)**: 71.1
+- **Mode (LM/WM)**: 0
+- **Evident Beat (LA/LV/RA/RV)**: 2
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:26:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 21:31:10 GMT+0521 (India Standard Time)
+- **Impedance**: 921
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 7
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:52:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Time **: Sat Dec 30 1899 21:41:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 5.6
+- **Glucose (mg/dL)**: 300
+- **pH**: 7.41
+- **Temperature  (?C) **: 35.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Jan 07 1900 14:33:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB026-E1H1S1=-BO2
+- **pH**: 7.4
+- **pCO2 (mmHg)**: 34.7
+- **pO2 (mmHg)**: 162.7
+- **K+ (mmol/L)**: 3.8
+- **Ca2+ (mmol/L)**: 0.25
+- **Glu (mg/dL)**: 360
+- **Lac (mmol/L)**: 1.23
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 24.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:56:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB026-E1H1S2-BW
+- **pH**: 7.302
+- **pCO2 (mmHg)**: 37.8
+- **pO2 (mmHg)**: 83.1
+- **K+ (mmol/L)**: 3.5
+- **Glu (mg/dL)**: 299
+- **Lac (mmol/L)**: 4.59
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.4
+- **HCO3- (mmol/L)**: 18.7
+
+## Entry 41
+
+- **Solution Code **: BTBPMS007
+- **pH**: 7.35
+- **Flow Rate (mL/min)**: 80.9
+- **AO Pressure (mmHg)**: 29.35
+- **Start Time **: Sat Dec 30 1899 21:30:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 35.3
+- **Mode (LM/WM)**: 1
+- **Evident Beat (LA/LV/RA/RV)**: 3
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:30:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 21:41:10 GMT+0521 (India Standard Time)
+- **Impedance**: 765
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 4
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:25:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:25:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20
+- **Time **: Sat Dec 30 1899 21:45:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 5.4
+- **Glucose (mg/dL)**: 467
+- **pH**: 7.4
+- **Temperature  (?C) **: 35.4
+- **Time **: Sat Dec 30 1899 22:15:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 4.7
+- **Glucose (mg/dL)**: 401
+- **pH**: 7.31
+- **Temperature  (?C) **: 34.3
+- **Time **: Sat Dec 30 1899 22:45:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 4.4
+- **Glucose (mg/dL)**: 391
+- **pH**: 7.24
+- **Temperature  (?C) **: 35.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:30:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB025-E2H1S1-BO2
+- **pH**: 7.4
+- **pCO2 (mmHg)**: 19.6
+- **pO2 (mmHg)**: 142.9
+- **K+ (mmol/L)**: 2
+- **Glu (mg/dL)**: 700
+- **Lac (mmol/L)**: 2.03
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 12.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:00:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB025-E2H1S2-AO2
+- **pH**: 7.38
+- **pCO2 (mmHg)**: 31.5
+- **pO2 (mmHg)**: 119.6
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 0.25
+- **Glu (mg/dL)**: 465
+- **Lac (mmol/L)**: 3.95
+- **Cre (mg/dL)**: 0.48
+- **HCO3- (mmol/L)**: 14.9
+- **Time**: Sat Dec 30 1899 22:22:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 250
+- **Temperature  (?C) **: 34.1
+- **Remarks**: Added in PMS
+
+## Entry 42
+
+- **Solution Code **: BTBPMS007
+- **pH**: 7.35
+- **Flow Rate (mL/min)**: 90
+- **AO Pressure (mmHg)**: 20
+- **Start Time **: Sat Dec 30 1899 23:13:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 35.3
+- **Mode (LM/WM)**: 1
+- **Evident Beat (LA/LV/RA/RV)**: 3
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 23:03:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 0
+- **Initiation Time **: Sat Dec 30 1899 22:57:10 GMT+0521 (India Standard Time)
+- **Impedance**: 360
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 4
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:08:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 23:09:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sun Dec 31 1899 01:33:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20
+- **Time **: Sun Dec 31 1899 01:33:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20
+- **Time **: Sat Dec 30 1899 23:36:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 4.9
+- **Glucose (mg/dL)**: 415
+- **pH**: 7.34
+- **Temperature  (?C) **: 34.4
+- **Time **: Sun Dec 31 1899 00:06:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:06:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 6.7
+- **Glucose (mg/dL)**: 382
+- **pH**: 7.17
+- **Temperature  (?C) **: 35.3
+- **Time **: Sun Dec 31 1899 00:36:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 5.4
+- **Glucose (mg/dL)**: 317
+- **pH**: 7.13
+- **Temperature  (?C) **: 34.1
+- **Time **: Sun Dec 31 1899 00:51:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:51:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 6.1
+- **Glucose (mg/dL)**: 297
+- **pH**: 7.19
+- **Temperature  (?C) **: 33.5
+- **Time **: Sun Dec 31 1899 01:21:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:21:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 4.6
+- **Glucose (mg/dL)**: 302
+- **pH**: 7.1
+- **Temperature  (?C) **: 33.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB025-E3H2S1-BW
+- **pH**: 7.2
+- **pCO2 (mmHg)**: 33.6
+- **pO2 (mmHg)**: 50.5
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 0.25
+- **Glu (mg/dL)**: 465
+- **Lac (mmol/L)**: 4.8
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.41
+- **HCO3- (mmol/L)**: 13.1
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:51:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB025-E3H2S2-BW
+- **pH**: 7.31
+- **pCO2 (mmHg)**: 28.7
+- **pO2 (mmHg)**: 151.7
+- **K+ (mmol/L)**: 4.7
+- **Ca2+ (mmol/L)**: 0.25
+- **Glu (mg/dL)**: IQC
+- **Lac (mmol/L)**: 5.29
+- **Urea (mmol/L)**: IQC
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 14.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:36:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 00:35:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB025-E3H2S3-BW
+- **pH**: 7.24
+- **pCO2 (mmHg)**: 35.2
+- **pO2 (mmHg)**: 103.2
+- **K+ (mmol/L)**: 4.7
+- **Ca2+ (mmol/L)**: 0.25
+- **Glu (mg/dL)**: 370
+- **Lac (mmol/L)**: 5.02
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.65
+- **HCO3- (mmol/L)**: 15.1
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 14:26:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:06:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB025-E3H2S4-BW
+- **pH**: 7.23
+- **pCO2 (mmHg)**: 37.5
+- **pO2 (mmHg)**: 65.4
+- **K+ (mmol/L)**: 4.5
+- **Ca2+ (mmol/L)**: 0.25
+- **Glu (mg/dL)**: 338
+- **Lac (mmol/L)**: 4.91
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.5
+- **HCO3- (mmol/L)**: 15.8
+- **Chemical**: FRESH PMS
+- **Time**: Sun Dec 31 1899 00:04:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 300
+- **Temperature  (?C) **: 34.3
+- **Chemical**: FRESH PMS
+- **Time**: Sun Dec 31 1899 00:36:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 250
+- **Temperature  (?C) **: 33.5
+- **Chemical**: FRESH PMS
+- **Time**: Sun Dec 31 1899 01:19:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 250
+- **Temperature  (?C) **: 33.8
+- **Chemical**: Adrenaline
+- **Time**: Sun Dec 31 1899 01:32:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5U
+
+## Entry 43
+
+- **Solution Code **: BTBPMS006
+- **Flow Rate (mL/min)**: 80
+- **AO Pressure (mmHg)**: 12.17
+- **Start Time **: Sat Dec 30 1899 21:56:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 35.6
+- **Mode (LM/WM)**: 1
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:55:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 22:08:10 GMT+0521 (India Standard Time)
+- **Impedance**: 667
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 80
+- **Initial Output Voltage (V)**: 5
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:26:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Time **: Sat Dec 30 1899 22:27:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Time **: Sat Dec 30 1899 22:36:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Time **: Sat Dec 30 1899 22:37:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:21:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Time **: Sat Dec 30 1899 22:11:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:36:10 GMT+0521 (India Standard Time)
+- **Lactate (mmol/L)**: 0.8
+- **Glucose (mg/dL)**: 250
+- **pH**: 7.19
+- **Temperature  (?C) **: 36.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:54:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB024-E1H2S1-BO2
+- **pH**: 7.2
+- **pCO2 (mmHg)**: 48.7
+- **pO2 (mmHg)**: 21.9
+- **K+ (mmol/L)**: 3.3
+- **Ca2+ (mmol/L)**: 0.76
+- **Glu (mg/dL)**: 390
+- **Lac (mmol/L)**: 0.3
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 19.1
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:24:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB024-E1H2S2-BW
+- **pH**: 7.15
+- **pCO2 (mmHg)**: 52.8
+- **pO2 (mmHg)**: 50.9
+- **K+ (mmol/L)**: 3.7
+- **Ca2+ (mmol/L)**: 0.73
+- **Glu (mg/dL)**: 232
+- **Lac (mmol/L)**: 1.73
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 18.4
+- **Remarks**: Terminal cardioplegia followed by thrombolytic pre-perfusion solution perfused to the heart. Terminal cardioplegia given as POC. After TPS, perfusate maintenance solutions were given.
+
+## Entry 44
+
+- **Solution Code **: BTBPMS006
+- **Flow Rate (mL/min)**: 80
+- **AO Pressure (mmHg)**: 17
+- **Start Time **: Sat Dec 30 1899 23:25:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36.7
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 23:27:10 GMT+0521 (India Standard Time)
+- **Impedance**: 541
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 100
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:32:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Time **: Sat Dec 30 1899 23:32:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Time **: Sat Dec 30 1899 23:38:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:30:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 10
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:30:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB024-E1H2S1-AO2
+- **pH**: 7.15
+- **pCO2 (mmHg)**: 53.8
+- **pO2 (mmHg)**: 50.9
+- **K+ (mmol/L)**: 3.7
+- **Ca2+ (mmol/L)**: 0.73
+- **Glu (mg/dL)**: 232
+- **Lac (mmol/L)**: 1.73
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 18.4
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:38:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB024-E2H1S2-AO2
+- **pH**: 6.946
+- **pCO2 (mmHg)**: 89
+- **pO2 (mmHg)**: 169
+- **K+ (mmol/L)**: 3.7
+- **Ca2+ (mmol/L)**: 0.75
+- **Glu (mg/dL)**: 206
+- **Lac (mmol/L)**: 2.93
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.36
+- **HCO3- (mmol/L)**: 19.4
+
+## Entry 45
+
+- **pH**: 7.4
+- **AO Pressure (mmHg)**: 34
+- **Start Time **: Sat Dec 30 1899 22:29:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 31
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 22:38:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 22:46:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1072
+- **Pacing Mode**: 4
+- **Heart Rate (BPM)**: 104
+- **Initial Output Voltage (V)**: 9
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:43:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 22:44:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 22:53:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:53:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:18:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E1H1S1-BP
+- **pH**: 7.256
+- **pCO2 (mmHg)**: 33
+- **pO2 (mmHg)**: 111.2
+- **K+ (mmol/L)**: 2.4
+- **Ca2+ (mmol/L)**: 0.85
+- **Glu (mg/dL)**: 401
+- **Lac (mmol/L)**: 0.47
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 14.7
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:47:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E1H1S2
+- **pH**: 6.794
+- **pCO2 (mmHg)**: 121.7
+- **pO2 (mmHg)**: 65.3
+- **K+ (mmol/L)**: 4.3
+- **Ca2+ (mmol/L)**: 1.71
+- **Glu (mg/dL)**: 234
+- **Lac (mmol/L)**: 1.83
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 18.7
+
+## Entry 46
+
+- **Flow Rate (mL/min)**: 80
+- **AO Pressure (mmHg)**: 40
+- **Start Time **: Sat Dec 30 1899 23:46:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 32.9
+- **Onset Time of Evident and Discontinuous Beat**: Sat Dec 30 1899 23:47:10 GMT+0521 (India Standard Time)
+- **Onset Time of Evident and Continuous Beat**: Sun Dec 31 1899 00:01:10 GMT+0521 (India Standard Time)
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 23:46:10 GMT+0521 (India Standard Time)
+- **Impedance**: 836
+- **Pacing Mode**: 1
+- **Heart Rate (BPM)**: 100
+- **Initial Output Voltage (V)**: 9
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:41:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E2H2S1-AP
+- **pH**: 7.16
+- **pCO2 (mmHg)**: 43
+- **pO2 (mmHg)**: 226.5
+- **K+ (mmol/L)**: 3.6
+- **Ca2+ (mmol/L)**: 1.2
+- **Glu (mg/dL)**: 318
+- **Lac (mmol/L)**: 0.3
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 15.6
+- **Duration (hr:mm)**: Sat Dec 30 1899 14:41:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 01:01:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E2H2S2-BP
+- **pH**: 7.25
+- **pCO2 (mmHg)**: 38.5
+- **pO2 (mmHg)**: 188.1
+- **K+ (mmol/L)**: 4.1
+- **Ca2+ (mmol/L)**: 1.11
+- **Glu (mg/dL)**: 318
+- **Lac (mmol/L)**: 2.97
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 16.9
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:41:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 02:01:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E2H2S3-BW
+- **pH**: 7.414
+- **pCO2 (mmHg)**: 26.7
+- **pO2 (mmHg)**: 147.2
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 1.09
+- **Glu (mg/dL)**: 288
+- **Lac (mmol/L)**: 3.23
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 17
+- **Duration (hr:mm) (Hr:mm)**: Sat Dec 30 1899 16:41:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 03:01:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E2H2S4
+- **pH**: 7.325
+- **pCO2 (mmHg)**: 36.2
+- **pO2 (mmHg)**: 109.1
+- **K+ (mmol/L)**: 4.1
+- **Ca2+ (mmol/L)**: 1.17
+- **Glu (mg/dL)**: 215
+- **Lac (mmol/L)**: 2.23
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.42
+- **HCO3- (mmol/L)**: 18.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 18:01:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 04:18:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E2H2S5
+- **pH**: 7.28
+- **pCO2 (mmHg)**: 36.8
+- **pO2 (mmHg)**: 289.5
+- **K+ (mmol/L)**: 4
+- **Ca2+ (mmol/L)**: 1.17
+- **Glu (mg/dL)**: 236
+- **Lac (mmol/L)**: 2.43
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.36
+- **HCO3- (mmol/L)**: 17.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 19:11:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 05:31:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E2H2S6
+- **pH**: 7.3
+- **pCO2 (mmHg)**: 39.1
+- **pO2 (mmHg)**: 168.7
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 1.16
+- **Glu (mg/dL)**: 217
+- **Lac (mmol/L)**: 2.4
+- **Urea (mmol/L)**: 1.4
+- **Cre (mg/dL)**: 0.35
+- **HCO3- (mmol/L)**: 19.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 21:01:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 07:07:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E2H2S7
+- **pH**: 7.144
+- **pCO2 (mmHg)**: 50.9
+- **pO2 (mmHg)**: 260.1
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 1.12
+- **Glu (mg/dL)**: 208
+- **Lac (mmol/L)**: 2.13
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.59
+- **HCO3- (mmol/L)**: 17.5
+- **Duration (hr:mm)**: Sat Dec 30 1899 22:01:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 07:57:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB-E2H2S8-END-A
+- **pH**: 7.284
+- **pCO2 (mmHg)**: 41.8
+- **pO2 (mmHg)**: 179.3
+- **K+ (mmol/L)**: 4.5
+- **Ca2+ (mmol/L)**: 1.16
+- **Glu (mg/dL)**: 196
+- **Lac (mmol/L)**: 2.78
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.32
+- **HCO3- (mmol/L)**: 19.8
+- **Duration (hr:mm)**: Sat Dec 30 1899 22:09:10 GMT+0521 (India Standard Time)
+- **Time **: Sun Dec 31 1899 08:04:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB023-E2H2S9-END-V
+- **pH**: 7.267
+- **pCO2 (mmHg)**: 39.7
+- **pO2 (mmHg)**: 89.6
+- **K+ (mmol/L)**: 4.6
+- **Ca2+ (mmol/L)**: 1.12
+- **Glu (mg/dL)**: 174
+- **Lac (mmol/L)**: 2.74
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.36
+- **Chemical**: Insulin, Adrenaline, noradrenalline
+- **Time**: Sun Dec 31 1899 01:18:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 100
+- **Chemical**: Dextran
+- **Time**: Sun Dec 31 1899 01:36:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1
+- **Remarks**: Added to reservoir
+- **Chemical**: Buffer replaced + RBC + injectables added
+- **Time**: Sun Dec 31 1899 03:01:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 500
+- **Chemical**: Dextran, insulin, adrenaline, noradrenaline
+- **Time**: Sun Dec 31 1899 05:25:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 35
+- **Chemical**: Multivitamin
+- **Time**: Sun Dec 31 1899 05:26:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 5
+- **Quantity (mL)**: 5
+
+## Entry 47
+
+- **Solution Code **: PMS
+- **pH**: 7.37
+- **Flow Rate (mL/min)**: 47
+- **AO Pressure (mmHg)**: 16
+- **Start Time **: Sat Dec 30 1899 21:46:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36
+- **Mode (LM/WM)**: 0
+- **Onset Time of Evident and Discontinuous Beat**: Sat Dec 30 1899 21:53:10 GMT+0521 (India Standard Time)
+- **Remarks**: WM shifted at 9:09 AM
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 21:57:10 GMT+0521 (India Standard Time)
+- **Impedance**: 1500
+- **Pacing Mode**: 4
+- **Heart Rate (BPM)**: 100
+- **Initial Output Voltage (V)**: 5
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:16:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:53:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 22:03:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 22:03:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:46:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB022-E1H2S1-BP
+- **pH**: 7.37
+- **pCO2 (mmHg)**: 29.8
+- **pO2 (mmHg)**: 96.3
+- **K+ (mmol/L)**: 5.7
+- **Ca2+ (mmol/L)**: 1.06
+- **Glu (mg/dL)**: 373
+- **Lac (mmol/L)**: 0.8
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:51:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 22:16:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB022-E1H2S2-BW
+- **pH**: 7.34
+- **pCO2 (mmHg)**: 28.2
+- **pO2 (mmHg)**: 48.5
+- **K+ (mmol/L)**: 6.1
+- **Ca2+ (mmol/L)**: 0.88
+- **Glu (mg/dL)**: 336
+- **Lac (mmol/L)**: 2.25
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **Chemical**: PMS
+- **Time**: Sat Dec 30 1899 22:29:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 400
+- **Temperature  (?C) **: 35.9
+- **pH**: 7.3
+- **Chemical**: Adrenaline
+- **Time**: Sat Dec 30 1899 22:10:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.2
+- **Chemical**: tPA
+- **Time**: Sat Dec 30 1899 22:11:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+
+## Entry 48
+
+- **Solution Code **: PMS
+- **Flow Rate (mL/min)**: 50
+- **AO Pressure (mmHg)**: 32
+- **Start Time **: Sat Dec 30 1899 23:22:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 33.6
+- **Mode (LM/WM)**: 0
+- **Remarks**: Not beating
+- **Pacing (Yes/No)**: 1
+- **Lead (RA/RV)**: 1
+- **Initiation Time **: Sat Dec 30 1899 23:40:10 GMT+0521 (India Standard Time)
+- **Impedance**: 860
+- **Pacing Mode**: 4
+- **Heart Rate (BPM)**: 100
+- **Initial Output Voltage (V)**: 9
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:34:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 23:35:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Sample ID**: BTB022-E2H1S1-AP
+- **pH**: 7.23
+- **pCO2 (mmHg)**: 42.5
+- **pO2 (mmHg)**: 90.2
+- **K+ (mmol/L)**: 4.4
+- **Ca2+ (mmol/L)**: 0.89
+- **Glu (mg/dL)**: 329
+- **Lac (mmol/L)**: 0.86
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **Sample ID**: BTB022-E2H1S2-EHD
+- **pH**: 6.7
+- **pCO2 (mmHg)**: 139.4
+- **pO2 (mmHg)**: 52.3
+- **K+ (mmol/L)**: 7.1
+- **Ca2+ (mmol/L)**: 1.97
+- **Glu (mg/dL)**: 345
+- **Lac (mmol/L)**: 2.64
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.76
+- **Chemical**: PMS
+- **Time**: Sat Dec 30 1899 23:11:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 600
+- **Chemical**: Adrenaline
+- **Time**: Sat Dec 30 1899 23:15:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.1
+
+## Entry 49
+
+- **Solution Code **: PMS
+- **Flow Rate (mL/min)**: 79
+- **Initial Temperature  (?C) **: 33.8
+- **Mode (LM/WM)**: 0
+- **Defibrillation (Yes/No)**: 1
+- **Voltage (J)**: 10
+- **Voltage (J)**: 10
+- **Voltage (J)**: 20
+- **Chemical**: Adrenaline
+- **Time**: Sun Dec 31 1899 01:22:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+- **Chemical**: Adrenaline
+- **Time**: Sun Dec 31 1899 01:32:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+
+## Entry 50
+
+- **Cardioversion (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 22:06:10 GMT+0521 (India Standard Time)
+- **Duration (hr:mm)**: Sat Dec 30 1899 13:21:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 21:41:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB022-E1H2S1
+- **pH**: 7.427
+- **pCO2 (mmHg)**: 26
+- **pO2 (mmHg)**: 236.5
+- **K+ (mmol/L)**: 1.5
+- **Ca2+ (mmol/L)**: 0.25
+- **Glu (mg/dL)**: 128
+- **Lac (mmol/L)**: 0.3
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 17.2
+- **Duration (hr:mm)**: Sat Dec 30 1899 15:16:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 23:36:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB021-E1H2S2-BW
+- **pH**: 7.089
+- **pCO2 (mmHg)**: 51.6
+- **pO2 (mmHg)**: 40.1
+- **K+ (mmol/L)**: 5.6
+- **Ca2+ (mmol/L)**: 0.28
+- **Glu (mg/dL)**: 100
+- **Lac (mmol/L)**: 3.32
+- **Urea (mmol/L)**: 1.1
+- **Cre (mg/dL)**: 0.3
+- **HCO3- (mmol/L)**: 15.6
+- **Chemical**: PMS
+- **Time**: Sat Dec 30 1899 22:15:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 250
+- **Remarks**: KcL added
+- **Chemical**: Adrenaline
+- **Time**: Sat Dec 30 1899 22:40:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1
+- **Chemical**: Nor-adrenaline
+- **Time**: Sat Dec 30 1899 22:52:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+- **Chemical**: Nor-adrenaline
+- **Time**: Sat Dec 30 1899 22:56:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.7
+- **Chemical**: Adrenaline
+- **Time**: Sat Dec 30 1899 23:57:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.5
+
+## Entry 53
+
+- **Time**: Sat Dec 30 1899 22:56:10 GMT+0521 (India Standard Time)
+- **Time**: Sat Dec 30 1899 23:09:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200 mL
+
+## Entry 54
+
+- **Sample ID**: BTB018-E1H1S1-AP @7:24 AM
+- **pH**: 7
+- **pCO2 (mmHg)**: 60
+- **pO2 (mmHg)**: 317
+- **K+ (mmol/L)**: 3.1
+- **Ca2+ (mmol/L)**: 1.29
+- **Glu (mg/dL)**: 174
+- **Lac (mmol/L)**: <0.3
+- **HCO3- (mmol/L)**: 0.33
+- **Time**: Sat Dec 30 1899 21:03:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 200
+- **Temperature  (?C) **: 30.5
+- **Remarks**: 125 mL removed
+
+## Entry 55
+
+- **Sample ID**: BTB018-E2H2S1-BW 
+- **pH**: 6.95
+- **pCO2 (mmHg)**: 76.4
+- **pO2 (mmHg)**: 174.4
+- **Glu (mg/dL)**: 136
+- **Lac (mmol/L)**: 3.53
+- **Urea (mmol/L)**: <1.1
+- **HCO3- (mmol/L)**: 0.35
+- **Chemical**: Sodium Bicarbonate (NaHCO3)
+- **Time**: Sat Dec 30 1899 22:29:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.6
+- **Temperature  (?C) **: 31
+- **pH**: 7
+
+## Entry 56
+
+- **Sample ID**: BTB017-E1H3S1-BW
+- **pH**: 7.3
+- **pCO2 (mmHg)**: 27
+- **pO2 (mmHg)**: 320
+- **K+ (mmol/L)**: 3.5
+- **Glu (mg/dL)**: 149
+- **Lac (mmol/L)**: 2.44
+- **Urea (mmol/L)**: <1.1
+- **HCO3- (mmol/L)**: < 0.3
+
+## Entry 58
+
+- **Evident Beat (LA/LV/RA/RV)**: 2
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:11:10 GMT+0521 (India Standard Time)
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:15:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 21:19:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30
+- **Time **: Sat Dec 30 1899 21:19:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30
+- **Time **: Sat Dec 30 1899 19:46:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB016_Whole Blood
+- **pH**: 7.432
+- **pCO2 (mmHg)**: 30.9
+- **pO2 (mmHg)**: 45.1
+- **K+ (mmol/L)**: 5.5
+- **Ca2+ (mmol/L)**: 1.06
+- **Glu (mg/dL)**: 42
+- **Lac (mmol/L)**: 2.8
+- **Urea (mmol/L)**: 4.4
+- **HCO3- (mmol/L)**: 0.75
+- **Time **: Sat Dec 30 1899 20:59:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB016-E1H2S1-AP
+- **pH**: 7.45
+- **pCO2 (mmHg)**: 23.6
+- **pO2 (mmHg)**: 133.2
+- **K+ (mmol/L)**: 3.4
+- **Ca2+ (mmol/L)**: 1.15
+- **Glu (mg/dL)**: 201
+- **Lac (mmol/L)**: 1.09
+- **Urea (mmol/L)**: 1.6
+- **HCO3- (mmol/L)**: < 0.3
+- **Time **: Sat Dec 30 1899 21:38:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB016-E1H2S1-BW
+- **pH**: 7.095
+- **pCO2 (mmHg)**: 42.7
+- **pO2 (mmHg)**: 30.3
+- **K+ (mmol/L)**: 3.4
+- **Ca2+ (mmol/L)**: 1.11
+- **Glu (mg/dL)**: 209
+- **Lac (mmol/L)**: 8.25
+- **Urea (mmol/L)**: 1.2
+- **HCO3- (mmol/L)**: 0.58
+- **Chemical**: Glucose
+- **Time**: Sat Dec 30 1899 21:11:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 20 mL/L of buffer
+- **Chemical**: Insulin
+- **Time**: Sat Dec 30 1899 21:11:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 0.25/10 units
+
+## Entry 59
+
+- **Chemical**: Goat blood
+- **Time**: Sat Dec 30 1899 21:38:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 500
+
+## Entry 60
+
+- **Flow Rate (mL/min)**: 550
+- **Start Time **: Sat Dec 30 1899 21:19:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: ~36
+- **Onset Time of Evident and Discontinuous Beat**: Sat Dec 30 1899 21:21:10 GMT+0521 (India Standard Time)
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:26:10 GMT+0521 (India Standard Time)
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:34:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 21:34:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 21:35:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+- **Time **: Sat Dec 30 1899 19:21:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB015_Whole Blood
+- **pH**: 7.431
+- **pCO2 (mmHg)**: 24.7
+- **pO2 (mmHg)**: 26
+- **K+ (mmol/L)**: 6
+- **Ca2+ (mmol/L)**: 1.01
+- **Glu (mg/dL)**: 47
+- **Lac (mmol/L)**: 3.16
+- **Urea (mmol/L)**: 5.8
+- **HCO3- (mmol/L)**: 0.68
+- **Time **: Sat Dec 30 1899 20:35:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB015-E1H4S1-BP
+- **pH**: 7.416
+- **pCO2 (mmHg)**: 25
+- **pO2 (mmHg)**: 141.2
+- **K+ (mmol/L)**: 2.3
+- **Ca2+ (mmol/L)**: 0.46
+- **Glu (mg/dL)**: 109
+- **Lac (mmol/L)**: 0.9
+- **Urea (mmol/L)**: 1.3
+- **HCO3- (mmol/L)**: <0.3
+- **Chemical**: Glucose
+- **Quantity (mL)**: 15
+
+## Entry 64
+
+- **Flow Rate (mL/min)**: 500 rpm
+- **Start Time **: Sat Dec 30 1899 20:12:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36.5
+- **Evident Beat (LA/LV/RA/RV)**: Fri Jan 03 2025 13:30:00 GMT+0530 (India Standard Time)
+- **Onset Time of Evident and Discontinuous Beat**: Sat Dec 30 1899 20:14:10 GMT+0521 (India Standard Time)
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 20:15:10 GMT+0521 (India Standard Time)
+- **Time **: Sat Dec 30 1899 18:57:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB014_Whole Blood
+- **pH**: 7.393
+- **pCO2 (mmHg)**: 30.5
+- **pO2 (mmHg)**: 32.3
+- **K+ (mmol/L)**: 5.2
+- **Ca2+ (mmol/L)**: 1.16
+- **Glu (mg/dL)**: 52
+- **Lac (mmol/L)**: 2.16
+- **Urea (mmol/L)**: 5.2
+- **Cre (mg/dL)**: 0.76
+- **HCO3- (mmol/L)**: 18.6
+- **Time **: Sat Dec 30 1899 19:31:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB014_Blood+KHB-KCl
+- **pH**: 7.447
+- **pCO2 (mmHg)**: 26.6
+- **pO2 (mmHg)**: 45.1
+- **K+ (mmol/L)**: 2.8
+- **Ca2+ (mmol/L)**: 1.46
+- **Glu (mg/dL)**: 144
+- **Lac (mmol/L)**: 0.95
+- **Urea (mmol/L)**: 1.9
+- **Cre (mg/dL)**: 0.48
+- **HCO3- (mmol/L)**: 18.4
+- **Time **: Sat Dec 30 1899 19:55:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB014-E1H3S1-AP
+- **pH**: 7.428
+- **pCO2 (mmHg)**: 26.3
+- **pO2 (mmHg)**: 199
+- **K+ (mmol/L)**: 3.4
+- **Ca2+ (mmol/L)**: 1.44
+- **Glu (mg/dL)**: 181
+- **Lac (mmol/L)**: 0.65
+- **Urea (mmol/L)**: iQC
+- **Cre (mg/dL)**: 0.33
+- **HCO3- (mmol/L)**: 17.4
+- **Time **: Sat Dec 30 1899 20:19:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB014-E1H3S2-END
+- **pH**: 7.219
+- **pCO2 (mmHg)**: 40.2
+- **pO2 (mmHg)**: 44.5
+- **K+ (mmol/L)**: 3.5
+- **Ca2+ (mmol/L)**: 1.32
+- **Glu (mg/dL)**: 174
+- **Lac (mmol/L)**: 3.65
+- **Urea (mmol/L)**: 2.6
+- **Cre (mg/dL)**: <0.3
+- **HCO3- (mmol/L)**: 16.4
+
+## Entry 65
+
+- **Flow Rate (mL/min)**: 525 rpm
+- **Start Time **: Sat Dec 30 1899 20:41:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36.3
+- **LA Pressure (mmHg)**: 22
+- **Remarks**: Storage box temp: 5.5 ?C
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 20:48:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6J
+- **Time **: Sat Dec 30 1899 20:48:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6J
+- **Time **: Sat Dec 30 1899 20:52:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 20:52:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 20:53:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 20:55:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30J
+- **Time **: Sat Dec 30 1899 20:55:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30J
+- **Time **: Sat Dec 30 1899 20:56:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 30J
+- **Chemical**: KHB+whole blood
+- **Time**: Sat Dec 30 1899 20:43:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 250 mL
+
+## Entry 66
+
+- **Flow Rate (mL/min)**: 600 rpm
+- **Start Time **: Sat Dec 30 1899 21:28:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36.4
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:37:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6J
+- **Time **: Sat Dec 30 1899 21:37:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6J
+- **Time **: Sat Dec 30 1899 21:37:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6J
+- **Time **: Sat Dec 30 1899 21:15:10 GMT+0521 (India Standard Time)
+- **Sample ID**: BTB014-E3H1S1_AP
+- **pH**: 7.466
+- **pCO2 (mmHg)**: 20.8
+- **pO2 (mmHg)**: 168.2
+- **K+ (mmol/L)**: 3.1
+- **Ca2+ (mmol/L)**: 1.33
+- **Glu (mg/dL)**: 218
+- **Lac (mmol/L)**: 3
+- **Urea (mmol/L)**: 1.9
+- **Cre (mg/dL)**: 0.39
+- **HCO3- (mmol/L)**: 15
+
+## Entry 67
+
+- **Start Time **: Sat Dec 30 1899 21:38:10 GMT+0521 (India Standard Time)
+- **Initial Temperature  (?C) **: 36.2
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:43:10 GMT+0521 (India Standard Time)
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:52:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6J
+- **Time **: Sat Dec 30 1899 21:58:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 21:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 21:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 22:05:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6J
+- **Chemical**: KH buffer
+- **Time**: Sat Dec 30 1899 20:54:10 GMT+0521 (India Standard Time)
+- **Temperature  (?C) **: 8
+
+## Entry 68
+
+- **Start Time **: 9.31 AM
+- **Initial Temperature  (?C) **: 37
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 23:21:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6J
+- **Time **: Sat Dec 30 1899 23:23:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:24:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sat Dec 30 1899 23:26:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 23:28:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 23:28:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 23:28:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 23:29:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Time **: Sat Dec 30 1899 23:29:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Chemical**: Glucose (1g/L)
+- **Time**: Sat Dec 30 1899 22:37:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 1
+- **Chemical**: Insulin
+- **Time**: Sat Dec 30 1899 22:37:10 GMT+0521 (India Standard Time)
+- **Quantity (mL)**: 10 IU/L
+- **Chemical**: KH buffer
+- **Time**: Sat Dec 30 1899 23:18:10 GMT+0521 (India Standard Time)
+
+## Entry 69
+
+- **Start Time **: 11.19 AM
+- **Initial Temperature  (?C) **: 36.8
+- **Onset Time of Evident and Continuous Beat**: Sun Dec 31 1899 00:43:10 GMT+0521 (India Standard Time)
+- **Remarks**: 4 hours in SCS storage, First beat-11.22 AM
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sun Dec 31 1899 00:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6J
+- **Time **: Sun Dec 31 1899 00:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15J
+- **Time **: Sun Dec 31 1899 00:59:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 20J
+- **Chemical**: Glucose (1g/L)
+- **Chemical**: Glucose (1g/L)
+
+## Entry 72
+
+- **pH**: 7.5
+- **Start Time **: 7. 40 AM
+- **Initial Temperature  (?C) **: 34
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:11:10 GMT+0521 (India Standard Time)
+- **Remarks**: Onset of evident beat- 7:50 AM
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:21:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+
+## Entry 73
+
+- **pH**: 7.5
+- **Start Time **: 8.15 AM
+- **Initial Temperature  (?C) **: 34
+- **Onset Time of Evident and Continuous Beat**: Sat Dec 30 1899 21:41:10 GMT+0521 (India Standard Time)
+- **Remarks**: Onset of evident beat- 8:20 AM
+- **Defibrillation (Yes/No)**: 1
+- **Time **: Sat Dec 30 1899 21:47:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 21:48:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 6
+- **Time **: Sat Dec 30 1899 21:51:10 GMT+0521 (India Standard Time)
+- **Voltage (J)**: 15
+
