@@ -5,7 +5,7 @@
 - Study Location: Chennai 
 - Sample Collection Centre: Deen Mutton Stall
 - Perfusion Method During Cardioplegia: 
-- Hardware Remarks: Sampling port taken from aortic line and created a shunt to reservior. Also connected pre and post oxgygentor sampling prots to access oxgyentor efficieny 
+- Hardware Remarks: Sampling porttaken from aortic line and created a shunt to reservior. Also connected pre and post oxgygentor sampling prots to access oxgyentor efficieny 
 - Perfusion/Hardware Details: V03R17
 - Study Objectives: To test the perfusate modifications with sodium pyruvate and STS; Check the viability upto 6 hrs perfusion. 
 
