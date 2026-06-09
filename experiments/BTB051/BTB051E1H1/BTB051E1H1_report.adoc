@@ -75,7 +75,7 @@ This document contains experimental data and intellectual property that is the e
 | Field | Value
 | Study Location                         | Chennai
 | Sample Collection Centre               | Deen Mutton Stall
-| Perfusion Method During Cardioplegia   | ?
+| Perfusion Method During Cardioplegia   | 
 | Hardware Remarks                       | Sampling porttaken from aortic line and created a shunt to reservior. Also connected pre and post oxgygentor sampling prots to access oxgyentor efficieny
 | Perfusion / Hardware Details           | V03R17
 |===
@@ -129,7 +129,7 @@ To test the perfusate modifications with sodium pyruvate and STS; Check the viab
 [cols="1,2", options="header"]
 |===
 | Field | Value
-| Solution Code              | ?
+| Solution Code              | 
 | pH                         | 7.3
 | Solution Temp Before (?C)  | 7.1
 | Solution Temp After (?C)   | 12.9
@@ -152,8 +152,8 @@ To test the perfusate modifications with sodium pyruvate and STS; Check the viab
 [cols="1,1", options="header"]
 |===
 | Chamber | Severity
-| Left Ventricle (LV)  | ?
-| Right Ventricle (RV) | ?
+| Left Ventricle (LV)  | 
+| Right Ventricle (RV) | 
 |===
 
 [TIP]
@@ -170,13 +170,13 @@ Severity scale: *Absent* ? *Mild* ? *Moderate* ? *Severe*
 [cols="1,2", options="header"]
 |===
 | Field | Value
-| Administration Type    | ?
+| Administration Type    | 
 | Solution Code          | 0
-| pH                     | ?
+| pH                     | 
 | Volume (mL)            | 7.37
 | Organ Prep Time        | 1000
 | Flow Rate (mL/min)     | 5
-| Start Time             | ?
+| Start Time             | 
 |===
 
 === Cardioplegia Remarks
