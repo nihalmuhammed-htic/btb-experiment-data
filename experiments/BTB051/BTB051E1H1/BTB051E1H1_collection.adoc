@@ -69,7 +69,7 @@ This document contains experimental data and intellectual property that is the e
 [cols="1,1,1,1", options="header"]
 |===
 | Solution Code | pH | Temp Before (?C) | Temp After (?C)
-| ? | 7.3 | 7.1 | 12.9
+|  | 7.3 | 7.1 | 12.9
 |===
 
 == Organ Assessment at Collection
@@ -77,7 +77,7 @@ This document contains experimental data and intellectual property that is the e
 [cols="1,1,1,1,1,1,1", options="header"]
 |===
 | Heart Weight (g) | Muscles | Beating | Pericardium Intact | Red Patches | LV Severity | RV Severity
-| 74 | Hard | Yes | Yes | Yes | ? | ?
+| 74 | Hard | Yes | Yes | Yes |  | 
 |===
 
 [TIP]
@@ -90,7 +90,7 @@ Severity scale: *Absent* ? *Mild* ? *Moderate* ? *Severe*
 [cols="1,1,1,1,1,1,1,1", options="header"]
 |===
 | Admin. Type | Solution Code | pH | Volume (mL) | Organ Prep Time | Flow Rate (mL/min) | Start Time | Comments
-| ? | 0 | ? | 7.37 | 1000 | 5 | ? | 65
+|  | 0 |  | 7.37 | 1000 | 5 |  | 65
 |===
 
 == Field Observations
