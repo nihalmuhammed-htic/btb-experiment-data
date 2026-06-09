@@ -1,0 +1,159 @@
+// =========================================================
+// CIOET EXPERIMENT SUMMARY
+// Document ID: CIOET-BTB-SUM-BTB050E1H4
+// =========================================================
+
+:project-name: Experiment Summary ? BTB050E1H4
+:doc-id: CIOET-BTB-SUM-BTB050E1H4
+:revnumber: v1.0
+:revdate: 04/07/2026
+:author-name: Dr Priyanka N
+:reviewer-name: Shankar M
+:doctype: article
+:toc: !
+:sectnums:
+:icons: font
+:pagenums:
+:orgname: CIOET
+:footer-left: [CONFIDENTIAL] CIOET PROPRIETARY
+:footer-center: {doc-id}
+:footer-right: Page {page-number} of {page-count}
+
+= Experiment Summary: BTB050E1H4
+{orgname} | Doc ID: {doc-id}
+
+<<<
+
+== Document Control
+
+=== Revision History
+[cols="1,2,2,2,2,3", options="header"]
+|===
+| Revision | Date | Author | Tech Reviewer | Internal Reviewer | Description
+| {revnumber} | {revdate} | {author-name} | {reviewer-name} | ? | Auto-generated from BTB Master File.
+|===
+
+=== Proprietary & Confidentiality Notice
+[IMPORTANT]
+====
+*CONFIDENTIAL & PROPRIETARY INFORMATION OF CIOET*
+
+This document contains experimental data that is the exclusive property of *CIOET*. Access is restricted to authorized personnel only. Maintained as part of the Design History File (DHF) in accordance with ISO 13485.
+====
+
+<<<
+
+== Identification
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Organ ID | *BTB050E1H4*
+| BTB Session | BTB050
+| Date | 04/07/2026
+|===
+
+'''
+
+== Participants
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Study Lead | Dr Priyanka N
+| Study Overseer | Shankar M
+| Participant 1 | Dr Nabeel P
+| Participant 2 | Shanid
+| Participant 3 | Jayavinisha
+| Participant 4 | Sri Keerthana
+| Participant 5 | vengad
+| Participant 6 | Nandhini
+|===
+
+'''
+
+== Study Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Study Location | Chennai
+| Sample Collection Centre | Deen Mutton Stall
+| Perfusion Method During Cardioplegia | 
+| Hardware Remarks | 
+| Perfusion / Hardware Details | 
+| Study Objectives | To verify the ideal cgas composition for maintaining the pH at normal vialble range.
+|===
+
+'''
+
+== Donor Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Date | 04/07/2026 12:30
+| Experiment Number | E1
+| Sample Number | H4
+| Organ ID | BTB050E1H4
+| Species | Goat
+| Gender | Male
+| Age (Months) | 6
+| Weight (kg) | 7.7
+| Death Time | 30/12/1899 20:25
+| Retrieval Time | 30/12/1899 20:34
+| Harvest Duration (hr:mm) | 9
+|===
+
+'''
+
+== Post Perfusion Assessment
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Criteria for Terminating Experiment | Three hours time point reached
+| Time of Last Beat / Termination | 30/12/1899 14:28
+| Weight (g) | 112g
+| Solution Temperature (?C) | not noted
+| pH | 7.39
+| Time of Histology Sample Collection | 30/12/1899 14:35
+| H1 | RA
+| H2 | RV
+| H3 | LA
+| H4 | LV
+| Observable Edema | No
+| RBC Aggregation | Yes
+| Evan's Blue Staining | 
+| TTC Staining | 
+|===
+
+'''
+
+== Wet/Dry Weight Analysis
+
+_No data recorded._
+
+'''
+
+== Post-Perfusion Comments
+
+_No data recorded._
+
+'''
+
+== Final Approval & Sign-off
+
+[cols="2,2,2,2,3", options="header"]
+|===
+| Role | Name | Signature | Date | Remarks
+| Study Lead | Dr Priyanka N | | {revdate} |
+| Study Overseer | Shankar M | | {revdate} |
+| Lead Biologist | Dr. Priyanka | | {revdate} |
+| *QA/RA* | | | {revdate} |
+|===
+
+[NOTE]
+====
+Document ID: *{doc-id}* | Version: *{revnumber}* | Auto-generated from BTB Master File.
+====
