@@ -1,0 +1,168 @@
+// =========================================================
+// CIOET EXPERIMENT SUMMARY
+// Document ID: CIOET-BTB-SUM-BTB049E1H2
+// =========================================================
+
+:project-name: Experiment Summary ? BTB049E1H2
+:doc-id: CIOET-BTB-SUM-BTB049E1H2
+:revnumber: v1.0
+:revdate: 31/03/26
+:author-name: Dr Priyanka N
+:reviewer-name: Shankar M
+:doctype: article
+:toc: !
+:sectnums:
+:icons: font
+:pagenums:
+:orgname: CIOET
+:footer-left: [CONFIDENTIAL] CIOET PROPRIETARY
+:footer-center: {doc-id}
+:footer-right: Page {page-number} of {page-count}
+
+= Experiment Summary: BTB049E1H2
+{orgname} | Doc ID: {doc-id}
+
+<<<
+
+== Document Control
+
+=== Revision History
+[cols="1,2,2,2,2,3", options="header"]
+|===
+| Revision | Date | Author | Tech Reviewer | Internal Reviewer | Description
+| {revnumber} | {revdate} | {author-name} | {reviewer-name} | ? | Auto-generated from BTB Master File.
+|===
+
+=== Proprietary & Confidentiality Notice
+[IMPORTANT]
+====
+*CONFIDENTIAL & PROPRIETARY INFORMATION OF CIOET*
+
+This document contains experimental data that is the exclusive property of *CIOET*. Access is restricted to authorized personnel only. Maintained as part of the Design History File (DHF) in accordance with ISO 13485.
+====
+
+<<<
+
+== Identification
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Organ ID | *BTB049E1H2*
+| BTB Session | BTB049
+| Date | 31/03/26
+|===
+
+'''
+
+== Participants
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Study Lead | Dr Priyanka N
+| Study Overseer | Shankar M
+| Participant 1 | Dr Nabeel P
+| Participant 2 | Sri Keerthana
+| Participant 3 | Jayavinisha
+| Participant 4 | Shanid
+| Participant 5 | Shri Ram
+| Participant 6 | Nandhini
+|===
+
+'''
+
+== Study Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Study Location | Chennai
+| Sample Collection Centre | Deen Mutton Stall
+| Perfusion Method During Cardioplegia | 
+| Hardware Remarks | 1 time used oxygentor(previously used for 3 hrs)
+| Perfusion / Hardware Details | V03R17
+| Study Objectives | Ischemic Preconditioning along with Dialysis
+|===
+
+'''
+
+== Donor Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Date | 31/03/26
+| Experiment Number | E1
+| Sample Number | H2
+| Organ ID | BTB049E1H2
+| Species | Goat
+| Gender | Male
+| Age (Months) | 8
+| Weight (kg) | 11
+| Death Time | 30/12/1899 20:11
+| Retrieval Time | 30/12/1899 20:31
+| Harvest Duration (hr:mm) | 11
+|===
+
+'''
+
+== Post Perfusion Assessment
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Criteria for Terminating Experiment | Heart became hard (stoned) edematous hence noty continued for mounting in the system.
+| Time of Last Beat / Termination | 
+| Weight (g) | 
+| Solution Temperature (?C) | 
+| pH | 
+| Time of Histology Sample Collection | Sample not collected
+| H1 | 
+| H2 | 
+| H3 | 
+| H4 | 
+| Observable Edema | 
+| RBC Aggregation | 
+| Evan's Blue Staining | 
+| TTC Staining | 
+|===
+
+'''
+
+== Wet/Dry Weight Analysis
+
+_No data recorded._
+
+'''
+
+== Post-Perfusion Comments
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Visual Inspection Notes & Organ Condition | 
+| Detailed Observations ? Hemodynamics | 1200ml of PMS loaded after filling and circulation 380ml remained
+| Detailed Observations ? ECG | 
+| Detailed Observations ? ABG | 
+| Detailed Observations & Inferences | 
+| Deviations / Additional Comments / Notes | 
+|===
+
+'''
+
+== Final Approval & Sign-off
+
+[cols="2,2,2,2,3", options="header"]
+|===
+| Role | Name | Signature | Date | Remarks
+| Study Lead | Dr Priyanka N | | {revdate} |
+| Study Overseer | Shankar M | | {revdate} |
+| Lead Biologist | Dr. Priyanka | | {revdate} |
+| *QA/RA* | | | {revdate} |
+|===
+
+[NOTE]
+====
+Document ID: *{doc-id}* | Version: *{revnumber}* | Auto-generated from BTB Master File.
+====
