@@ -1,6 +1,6 @@
 # Study Information
 
-| Study Location | Sample Collection Centre | Perfusion method during cardioplegia | Hardware Remarks | Perfusion/Hardware Details | Study Objectives |  |
+| Study Location | Sample Collection Centre | Perfusion method during cardioplegia | Hardware Remarks | Perfusion/Hardware Details | Study Objectives | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | Chennai  | Deen Mutton Stall |  | Sampling porttaken from aortic line and created a shunt to reservior. Also connected pre and post oxgygentor sampling prots to access oxgyentor efficieny  | V03R17 | To test the perfusate modifications with sodium pyruvate and STS; Check the viability upto 6 hrs perfusion.  |  |
 | Chennai  | Deen Mutton Stall |  |  |  | To verify the ideal cgas composition for maintaining the pH at normal vialble range. |  |
