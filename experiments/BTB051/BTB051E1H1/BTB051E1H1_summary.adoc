@@ -1,25 +1,20 @@
 // =========================================================
-// CIOET EXPERIMENT SHORT SUMMARY
+// CIOET EXPERIMENT SUMMARY
 // Document ID: CIOET-BTB-SUM-BTB051E1H1
 // =========================================================
 
-// --- 1. MASTER CONTROL SECTION ---
 :project-name: Experiment Summary ? BTB051E1H1
 :doc-id: CIOET-BTB-SUM-BTB051E1H1
 :revnumber: v1.0
 :revdate: 15/4/26
 :author-name: Dr Priyanka N
 :reviewer-name: Aakash
-
-// --- 2. DOCUMENT ATTRIBUTES ---
 :doctype: article
-:toc!:
+:toc: !
 :sectnums:
-:sectnumlevels: 1
 :icons: font
 :pagenums:
 :orgname: CIOET
-
 :footer-left: [CONFIDENTIAL] CIOET PROPRIETARY
 :footer-center: {doc-id}
 :footer-right: Page {page-number} of {page-count}
@@ -43,84 +38,128 @@
 ====
 *CONFIDENTIAL & PROPRIETARY INFORMATION OF CIOET*
 
-This document contains experimental data and intellectual property that is the exclusive property of *CIOET*. Access is restricted to authorized personnel only. Maintained as part of the Design History File (DHF) in accordance with ISO 13485.
+This document contains experimental data that is the exclusive property of *CIOET*. Access is restricted to authorized personnel only. Maintained as part of the Design History File (DHF) in accordance with ISO 13485.
 ====
 
 <<<
 
-== Experiment Identification
+== Identification
 
 [cols="1,2", options="header"]
 |===
 | Field | Value
-| Organ ID           | *BTB051E1H1*
-| BTB Session        | BTB051
-| Date               | 15/4/26
-| Experiment No.     | E1
-| Sample No.         | H1
-| Study Location     | Chennai
-| Collection Centre  | Deen Mutton Stall
+| Organ ID | *BTB051E1H1*
+| BTB Session | BTB051
+| Date | 15/4/26
 |===
 
-== Study Objectives
+'''
 
-[NOTE]
-====
-To test the perfusate modifications with sodium pyruvate and STS; Check the viability upto 6 hrs perfusion.
-====
-
-== Donor at a Glance
-
-[cols="1,1,1,1,1,1", options="header"]
-|===
-| Species | Gender | Age (mo.) | Weight (kg) | Heart Weight (g) | Beating at Collection
-| Goat | Female | 6 | 9.8 | 74 | Yes
-|===
-
-== Key Organ Condition
-
-[cols="1,1,1,1,1", options="header"]
-|===
-| Muscles | Pericardium Intact | Red Patches | LV Severity | RV Severity
-| Hard | Yes | Yes | ? | ?
-|===
-
-== Perfusion Method
+== Participants
 
 [cols="1,2", options="header"]
 |===
 | Field | Value
-| Perfusion Method    | ?
-| Hardware Details    | V03R17
-| Hardware Remarks    | Sampling porttaken from aortic line and created a shunt to reservior. Also connected pre and post oxgygentor sampling prots to access oxgyentor efficieny
-| Admin. Type         | ?
-| Flow Rate (mL/min)  | 5
-| Start Time          | ?
+| Study Lead | Dr Priyanka N
+| Study Overseer | Aakash
+| Participant 1 | Dr Nabeel P
+| Participant 2 | Sri Keerthana
+| Participant 3 | Jayavinisha
+| Participant 4 | Shanid
+| Participant 5 | nandhini
+| Participant 6 | vengad
 |===
 
-== Team
+'''
+
+== Study Information
 
 [cols="1,2", options="header"]
 |===
-| Role | Name
-| Study Lead      | Dr Priyanka N
-| Study Overseer  | Aakash
-| Participant 1   | Dr Nabeel P
-| Participant 2   | Sri Keerthana
-| Participant 3   | Jayavinisha
-| Participant 4   | Shanid
-| Participant 5   | nandhini
-| Participant 6   | vengad
+| Field | Value
+| Study Location | Chennai
+| Sample Collection Centre | Deen Mutton Stall
+| Perfusion Method During Cardioplegia | 
+| Hardware Remarks | Sampling porttaken from aortic line and created a shunt to reservior. Also connected pre and post oxgygentor sampling prots to access oxgyentor efficieny
+| Perfusion / Hardware Details | V03R17
+| Study Objectives | To test the perfusate modifications with sodium pyruvate and STS; Check the viability upto 6 hrs perfusion.
 |===
 
-== Sign-off
+'''
+
+== Donor Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Date | 15/4/26
+| Experiment Number | E1
+| Sample Number | H1
+| Organ ID | BTB051E1H1
+| Species | Goat
+| Gender | Female
+| Age (Months) | 6
+| Weight (kg) | 9.8
+| Death Time | 30/12/1899 19:27
+| Retrieval Time | 30/12/1899 19:36
+| Harvest Duration (hr:mm) | 9
+|===
+
+'''
+
+== Post Perfusion Assessment
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Criteria for Terminating Experiment | 6 HOURS TIME POIT REACHED
+| Time of Last Beat / Termination | 30/12/1899 15:31
+| Weight (g) | 83
+| Solution Temperature (?C) | 7.7
+| pH | 7.445
+| Time of Histology Sample Collection | 30/12/1899 15:36
+| H1 | RA
+| H2 | RV
+| H3 | LA
+| H4 | LV
+| Observable Edema | No
+| RBC Aggregation | Yes
+| Evan's Blue Staining | 
+| TTC Staining | 
+|===
+
+'''
+
+== Wet/Dry Weight Analysis
+
+_No data recorded._
+
+'''
+
+== Post-Perfusion Comments
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Visual Inspection Notes & Organ Condition | 
+| Detailed Observations ? Hemodynamics | Pressure while ,ounting the organ Ao:73.34mmhg & Pa:6.52mmhg; Ao and PA pressure maintained.Pressure at the end:Ao:46.51mmhg,PA=6.71; During Sa,ple Aspiration there were pressure drops noted
+| Detailed Observations ? ECG | 
+| Detailed Observations ? ABG | 
+| Detailed Observations & Inferences | 
+| Deviations / Additional Comments / Notes | 
+|===
+
+'''
+
+== Final Approval & Sign-off
 
 [cols="2,2,2,2,3", options="header"]
 |===
 | Role | Name | Signature | Date | Remarks
-| Study Lead      | Dr Priyanka N      | | {revdate} |
-| Study Overseer  | Aakash  | | {revdate} |
-| *QA/RA*         |                     | | {revdate} |
+| Study Lead | Dr Priyanka N | | {revdate} |
+| Study Overseer | Aakash | | {revdate} |
+| Lead Biologist | Dr. Priyanka | | {revdate} |
+| *QA/RA* | | | {revdate} |
 |===
 
 [NOTE]
