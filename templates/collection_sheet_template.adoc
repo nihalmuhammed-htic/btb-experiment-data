@@ -1,0 +1,121 @@
+// =========================================================
+// CIOET ORGAN COLLECTION SHEET
+// Document ID: CIOET-BTB-OCS-{{ORGAN_ID}}
+// =========================================================
+
+// --- 1. MASTER CONTROL SECTION ---
+:project-name: Organ Collection Sheet — {{ORGAN_ID}}
+:doc-id: CIOET-BTB-OCS-{{ORGAN_ID}}
+:revnumber: v1.0
+:revdate: {{DATE}}
+:author-name: {{STUDY_LEAD}}
+:reviewer-name: {{STUDY_OVERSEER}}
+
+// --- 2. DOCUMENT ATTRIBUTES ---
+:doctype: article
+:toc!:
+:sectnums:
+:sectnumlevels: 1
+:icons: font
+:pagenums:
+:orgname: CIOET
+
+:footer-left: [CONFIDENTIAL] CIOET PROPRIETARY
+:footer-center: {doc-id}
+:footer-right: Page {page-number} of {page-count}
+
+= Organ Collection Sheet: {{ORGAN_ID}}
+{orgname} | Doc ID: {doc-id}
+
+<<<
+
+== Document Control
+
+=== Revision History
+[cols="1,2,2,2,2,3", options="header"]
+|===
+| Revision | Date | Author | Tech Reviewer | Internal Reviewer | Description
+| {revnumber} | {revdate} | {author-name} | {reviewer-name} | — | Auto-generated from BTB Master File.
+|===
+
+=== Proprietary & Confidentiality Notice
+[IMPORTANT]
+====
+*CONFIDENTIAL & PROPRIETARY INFORMATION OF CIOET*
+
+This document contains experimental data and intellectual property that is the exclusive property of *CIOET*. Access is restricted to authorized personnel only. Maintained as part of the Design History File (DHF) in accordance with ISO 13485.
+====
+
+<<<
+
+== Organ Identification
+
+[cols="1,1,1,1,1", options="header"]
+|===
+| Organ ID | BTB Session | Date | Experiment No. | Sample No.
+| *{{ORGAN_ID}}* | {{BTB_ID}} | {{DATE}} | {{EXPERIMENT_NO}} | {{SAMPLE_NO}}
+|===
+
+== Donor Details
+
+[cols="1,1,1,1,1,1,1", options="header"]
+|===
+| Species | Gender | Age (mo.) | Weight (kg) | Death Time | Retrieval Time | Harvest Duration
+| {{SPECIES}} | {{GENDER}} | {{AGE_MONTHS}} | {{WEIGHT_KG}} | {{DEATH_TIME}} | {{RETRIEVAL_TIME}} | {{HARVEST_DURATION}}
+|===
+
+== Collection Solution
+
+[cols="1,1,1,1", options="header"]
+|===
+| Solution Code | pH | Temp Before (°C) | Temp After (°C)
+| {{SOLUTION_CODE}} | {{PH}} | {{SOLUTION_TEMP_BEFORE}} | {{SOLUTION_TEMP_AFTER}}
+|===
+
+== Organ Assessment at Collection
+
+[cols="1,1,1,1,1,1,1", options="header"]
+|===
+| Heart Weight (g) | Muscles | Beating | Pericardium Intact | Red Patches | LV Severity | RV Severity
+| {{HEART_WEIGHT}} | {{MUSCLES}} | {{BEATING}} | {{PERICARDIUM_INTACT}} | {{RED_PATCHES}} | {{LV_SEVERITY}} | {{RV_SEVERITY}}
+|===
+
+[TIP]
+====
+Severity scale: *Absent* → *Mild* → *Moderate* → *Severe*
+====
+
+== Cold Cardioplegia Perfusion
+
+[cols="1,1,1,1,1,1,1,1", options="header"]
+|===
+| Admin. Type | Solution Code | pH | Volume (mL) | Organ Prep Time | Flow Rate (mL/min) | Start Time | Comments
+| {{ADMIN_TYPE}} | {{CP_SOLUTION_CODE}} | {{CP_PH}} | {{CP_VOLUME}} | {{CP_ORGAN_PREP_TIME}} | {{CP_FLOW_RATE}} | {{CP_START_TIME}} | {{CP_COMMENTS}}
+|===
+
+== Field Observations
+
+// For use by the field team during or immediately after collection.
+
+[cols="1,3", options="header"]
+|===
+| Timestamp | Observation
+| |
+| |
+| |
+|===
+
+== Collection Team Sign-off
+
+[cols="2,2,2,2,3", options="header"]
+|===
+| Role | Name | Signature | Date | Remarks
+| Study Lead      | {{STUDY_LEAD}}      | | {revdate} |
+| Study Overseer  | {{STUDY_OVERSEER}}  | | {revdate} |
+| *QA/RA*         |                     | | {revdate} |
+|===
+
+[NOTE]
+====
+Document ID: *{doc-id}* | Version: *{revnumber}* | Auto-generated from BTB Master File.
+====
