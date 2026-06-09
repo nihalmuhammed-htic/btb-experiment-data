@@ -1,0 +1,156 @@
+// =========================================================
+// CIOET ORGAN COLLECTION SHEET
+// Document ID: CIOET-BTB-OCS-BTB050E1H4
+// =========================================================
+
+:project-name: Organ Collection Sheet ? BTB050E1H4
+:doc-id: CIOET-BTB-OCS-BTB050E1H4
+:revnumber: v1.0
+:revdate: 04/07/2026
+:author-name: Dr Priyanka N
+:reviewer-name: Shankar M
+:doctype: article
+:toc: !
+:sectnums:
+:icons: font
+:pagenums:
+:orgname: CIOET
+:footer-left: [CONFIDENTIAL] CIOET PROPRIETARY
+:footer-center: {doc-id}
+:footer-right: Page {page-number} of {page-count}
+
+= Organ Collection Sheet: BTB050E1H4
+{orgname} | Doc ID: {doc-id}
+
+<<<
+
+== Document Control
+
+=== Revision History
+[cols="1,2,2,2,2,3", options="header"]
+|===
+| Revision | Date | Author | Tech Reviewer | Internal Reviewer | Description
+| {revnumber} | {revdate} | {author-name} | {reviewer-name} | ? | Auto-generated from BTB Master File.
+|===
+
+=== Proprietary & Confidentiality Notice
+[IMPORTANT]
+====
+*CONFIDENTIAL & PROPRIETARY INFORMATION OF CIOET*
+
+This document contains experimental data that is the exclusive property of *CIOET*. Access is restricted to authorized personnel only. Maintained as part of the Design History File (DHF) in accordance with ISO 13485.
+====
+
+<<<
+
+== Identification
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Organ ID | *BTB050E1H4*
+| BTB Session | BTB050
+| Date | 04/07/2026
+|===
+
+'''
+
+== Organ Collection Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Solution Code | 
+| pH | 7.38
+| Solution Temperature Before Collection (?C) | 6.3
+| Solution Temperature After Collection (?C) | 15
+| Heart Weight (g) | 89
+| Muscles | Soft
+| Beating | Yes
+| Pericardium Intact | Yes
+| Red Patches | No
+| LV Severity | 
+| RV Severity | 
+| Comments | 
+|===
+
+'''
+
+== Cold Cardioplegia Perfusion Parameters
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Type of Administration | Continuous
+| Solution Code | 
+| pH | 7.3
+| Volume (mL) | 1000
+| Organ Preparation Time | 5
+| Flow Rate (mL/min) | 90
+| Comments | 
+|===
+
+'''
+
+== Continuous Cold Cardioplegia Perfusion
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Start Time | 30/12/1899 20:39
+| Temperature of Cardioplegia (?C) | 6.8
+| Weight (g) | 89
+| Lactate Estimation | 
+| Method of Estimation | 
+| End Time | 30/12/1899 20:44
+| End Temperature of Cardioplegia (?C) | 7.8
+| End Weight (g) | 96
+|===
+
+'''
+
+== Continuous Cold Cardioplegia ? Lactate Timepoints
+
+_No data recorded._
+
+'''
+
+== Mechanical Pre-conditioning Cold Cardioplegia
+
+_No data recorded._
+
+'''
+
+== Mechanical Pre-conditioning ? Cycles
+
+_No data recorded._
+
+'''
+
+== Pharmacological Pre-conditioning Cold Cardioplegia
+
+_No data recorded._
+
+'''
+
+== Pharmacological Pre-conditioning ? Lactate Timepoints
+
+_No data recorded._
+
+'''
+
+== Final Approval & Sign-off
+
+[cols="2,2,2,2,3", options="header"]
+|===
+| Role | Name | Signature | Date | Remarks
+| Study Lead | Dr Priyanka N | | {revdate} |
+| Study Overseer | Shankar M | | {revdate} |
+| Lead Biologist | Dr. Priyanka | | {revdate} |
+| *QA/RA* | | | {revdate} |
+|===
+
+[NOTE]
+====
+Document ID: *{doc-id}* | Version: *{revnumber}* | Auto-generated from BTB Master File.
+====
