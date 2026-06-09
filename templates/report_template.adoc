@@ -1,0 +1,220 @@
+// =========================================================
+// CIOET FULL EXPERIMENT REPORT
+// Document ID: CIOET-BTB-RPT-{{ORGAN_ID}}
+// =========================================================
+
+// --- 1. MASTER CONTROL SECTION ---
+:project-name: Full Experiment Report — {{ORGAN_ID}}
+:doc-id: CIOET-BTB-RPT-{{ORGAN_ID}}
+:revnumber: v1.0
+:revdate: {{DATE}}
+:author-name: {{STUDY_LEAD}}
+:reviewer-name: {{STUDY_OVERSEER}}
+
+// --- 2. DOCUMENT ATTRIBUTES ---
+:doctype: book
+:toc: left
+:toclevels: 2
+:sectnums:
+:sectnumlevels: 2
+:icons: font
+:pagenums:
+:orgname: CIOET
+:req-cnt: 0
+
+:footer-left: [CONFIDENTIAL] CIOET PROPRIETARY
+:footer-center: {doc-id}
+:footer-right: Page {page-number} of {page-count}
+
+= Full Experiment Report: {{ORGAN_ID}}
+{orgname} | Doc ID: {doc-id}
+
+<<<
+
+== Document Control
+
+=== Revision History
+[cols="1,2,2,2,2,3", options="header"]
+|===
+| Revision | Date | Author | Tech Reviewer | Internal Reviewer | Description
+| {revnumber} | {revdate} | {author-name} | {reviewer-name} | — | Auto-generated from BTB Master File.
+|===
+
+=== Proprietary & Confidentiality Notice
+[IMPORTANT]
+====
+*CONFIDENTIAL & PROPRIETARY INFORMATION OF CIOET*
+
+This document contains experimental data and intellectual property that is the exclusive property of *CIOET*.
+
+. *Disclosure:* No part of this document may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of CIOET.
+. *Access:* Access to this document is restricted to authorized personnel only.
+. *Regulatory Status:* This document is a controlled record maintained as part of the Design History File (DHF) in accordance with ISO 13485.
+====
+
+<<<
+
+== Identification & Study Overview
+
+=== Experiment Identification
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Organ ID           | *{{ORGAN_ID}}*
+| BTB Session        | {{BTB_ID}}
+| Date               | {{DATE}}
+| Experiment No.     | {{EXPERIMENT_NO}}
+| Sample No.         | {{SAMPLE_NO}}
+|===
+
+=== Study Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Study Location                         | {{STUDY_LOCATION}}
+| Sample Collection Centre               | {{SAMPLE_CENTRE}}
+| Perfusion Method During Cardioplegia   | {{PERFUSION_METHOD}}
+| Hardware Remarks                       | {{HW_REMARKS}}
+| Perfusion / Hardware Details           | {{HW_DETAILS}}
+|===
+
+=== Study Objectives
+
+[NOTE]
+====
+{{STUDY_OBJECTIVES}}
+====
+
+<<<
+
+== Personnel
+
+[cols="1,2", options="header"]
+|===
+| Role | Name
+| Study Lead      | {{STUDY_LEAD}}
+| Study Overseer  | {{STUDY_OVERSEER}}
+| Participant 1   | {{PARTICIPANT_1}}
+| Participant 2   | {{PARTICIPANT_2}}
+| Participant 3   | {{PARTICIPANT_3}}
+| Participant 4   | {{PARTICIPANT_4}}
+| Participant 5   | {{PARTICIPANT_5}}
+| Participant 6   | {{PARTICIPANT_6}}
+|===
+
+<<<
+
+== Donor Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Species          | {{SPECIES}}
+| Gender           | {{GENDER}}
+| Age (Months)     | {{AGE_MONTHS}}
+| Weight (kg)      | {{WEIGHT_KG}}
+| Death Time       | {{DEATH_TIME}}
+| Retrieval Time   | {{RETRIEVAL_TIME}}
+| Harvest Duration | {{HARVEST_DURATION}}
+|===
+
+<<<
+
+== Organ Collection
+
+=== Collection Solution
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Solution Code              | {{SOLUTION_CODE}}
+| pH                         | {{PH}}
+| Solution Temp Before (°C)  | {{SOLUTION_TEMP_BEFORE}}
+| Solution Temp After (°C)   | {{SOLUTION_TEMP_AFTER}}
+|===
+
+=== Organ Assessment at Collection
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Heart Weight (g)    | {{HEART_WEIGHT}}
+| Muscles             | {{MUSCLES}}
+| Beating             | {{BEATING}}
+| Pericardium Intact  | {{PERICARDIUM_INTACT}}
+| Red Patches         | {{RED_PATCHES}}
+|===
+
+=== Severity Assessment
+
+[cols="1,1", options="header"]
+|===
+| Chamber | Severity
+| Left Ventricle (LV)  | {{LV_SEVERITY}}
+| Right Ventricle (RV) | {{RV_SEVERITY}}
+|===
+
+[TIP]
+====
+Severity scale: *Absent* → *Mild* → *Moderate* → *Severe*
+====
+
+<<<
+
+== Cold Cardioplegia Perfusion
+
+=== Perfusion Parameters
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Administration Type    | {{ADMIN_TYPE}}
+| Solution Code          | {{CP_SOLUTION_CODE}}
+| pH                     | {{CP_PH}}
+| Volume (mL)            | {{CP_VOLUME}}
+| Organ Prep Time        | {{CP_ORGAN_PREP_TIME}}
+| Flow Rate (mL/min)     | {{CP_FLOW_RATE}}
+| Start Time             | {{CP_START_TIME}}
+|===
+
+=== Cardioplegia Remarks
+
+[NOTE]
+====
+{{CP_COMMENTS}}
+====
+
+<<<
+
+== Observations & Notes
+
+// Add intra-experiment observations, deviations, and annotations below.
+// This section is for manual completion post-experiment.
+
+[cols="1,3", options="header"]
+|===
+| Timestamp | Observation
+| | 
+| | 
+| | 
+|===
+
+<<<
+
+== Final Approval & Sign-off
+
+[cols="2,2,2,2,3", options="header"]
+|===
+| Role | Name | Signature | Date | Remarks
+| Study Lead      | {{STUDY_LEAD}}      | | {revdate} |
+| Study Overseer  | {{STUDY_OVERSEER}}  | | {revdate} |
+| Lead Biologist  | Dr. Priyanka        | | {revdate} |
+| *QA/RA*         |                     | | {revdate} |
+|===
+
+[NOTE]
+====
+Document ID: *{doc-id}* | Version: *{revnumber}* | Auto-generated from BTB Master File.
+====
