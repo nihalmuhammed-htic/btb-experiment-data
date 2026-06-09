@@ -1,0 +1,129 @@
+// =========================================================
+// CIOET EXPERIMENT SHORT SUMMARY
+// Document ID: CIOET-BTB-SUM-BTB051E1H1
+// =========================================================
+
+// --- 1. MASTER CONTROL SECTION ---
+:project-name: Experiment Summary ? BTB051E1H1
+:doc-id: CIOET-BTB-SUM-BTB051E1H1
+:revnumber: v1.0
+:revdate: 15/4/26
+:author-name: Dr Priyanka N
+:reviewer-name: Aakash
+
+// --- 2. DOCUMENT ATTRIBUTES ---
+:doctype: article
+:toc!:
+:sectnums:
+:sectnumlevels: 1
+:icons: font
+:pagenums:
+:orgname: CIOET
+
+:footer-left: [CONFIDENTIAL] CIOET PROPRIETARY
+:footer-center: {doc-id}
+:footer-right: Page {page-number} of {page-count}
+
+= Experiment Summary: BTB051E1H1
+{orgname} | Doc ID: {doc-id}
+
+<<<
+
+== Document Control
+
+=== Revision History
+[cols="1,2,2,2,2,3", options="header"]
+|===
+| Revision | Date | Author | Tech Reviewer | Internal Reviewer | Description
+| {revnumber} | {revdate} | {author-name} | {reviewer-name} | ? | Auto-generated from BTB Master File.
+|===
+
+=== Proprietary & Confidentiality Notice
+[IMPORTANT]
+====
+*CONFIDENTIAL & PROPRIETARY INFORMATION OF CIOET*
+
+This document contains experimental data and intellectual property that is the exclusive property of *CIOET*. Access is restricted to authorized personnel only. Maintained as part of the Design History File (DHF) in accordance with ISO 13485.
+====
+
+<<<
+
+== Experiment Identification
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Organ ID           | *BTB051E1H1*
+| BTB Session        | BTB051
+| Date               | 15/4/26
+| Experiment No.     | E1
+| Sample No.         | H1
+| Study Location     | Chennai
+| Collection Centre  | Deen Mutton Stall
+|===
+
+== Study Objectives
+
+[NOTE]
+====
+To test the perfusate modifications with sodium pyruvate and STS; Check the viability upto 6 hrs perfusion.
+====
+
+== Donor at a Glance
+
+[cols="1,1,1,1,1,1", options="header"]
+|===
+| Species | Gender | Age (mo.) | Weight (kg) | Heart Weight (g) | Beating at Collection
+| Goat | Female | 6 | 9.8 | 74 | Yes
+|===
+
+== Key Organ Condition
+
+[cols="1,1,1,1,1", options="header"]
+|===
+| Muscles | Pericardium Intact | Red Patches | LV Severity | RV Severity
+| Hard | Yes | Yes | ? | ?
+|===
+
+== Perfusion Method
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Perfusion Method    | ?
+| Hardware Details    | V03R17
+| Hardware Remarks    | Sampling porttaken from aortic line and created a shunt to reservior. Also connected pre and post oxgygentor sampling prots to access oxgyentor efficieny
+| Admin. Type         | ?
+| Flow Rate (mL/min)  | 5
+| Start Time          | ?
+|===
+
+== Team
+
+[cols="1,2", options="header"]
+|===
+| Role | Name
+| Study Lead      | Dr Priyanka N
+| Study Overseer  | Aakash
+| Participant 1   | Dr Nabeel P
+| Participant 2   | Sri Keerthana
+| Participant 3   | Jayavinisha
+| Participant 4   | Shanid
+| Participant 5   | nandhini
+| Participant 6   | vengad
+|===
+
+== Sign-off
+
+[cols="2,2,2,2,3", options="header"]
+|===
+| Role | Name | Signature | Date | Remarks
+| Study Lead      | Dr Priyanka N      | | {revdate} |
+| Study Overseer  | Aakash  | | {revdate} |
+| *QA/RA*         |                     | | {revdate} |
+|===
+
+[NOTE]
+====
+Document ID: *{doc-id}* | Version: *{revnumber}* | Auto-generated from BTB Master File.
+====
