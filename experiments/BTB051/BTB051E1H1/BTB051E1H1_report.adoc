@@ -1,0 +1,220 @@
+// =========================================================
+// CIOET FULL EXPERIMENT REPORT
+// Document ID: CIOET-BTB-RPT-BTB051E1H1
+// =========================================================
+
+// --- 1. MASTER CONTROL SECTION ---
+:project-name: Full Experiment Report ? BTB051E1H1
+:doc-id: CIOET-BTB-RPT-BTB051E1H1
+:revnumber: v1.0
+:revdate: 15/4/26
+:author-name: Dr Priyanka N
+:reviewer-name: Aakash
+
+// --- 2. DOCUMENT ATTRIBUTES ---
+:doctype: book
+:toc: left
+:toclevels: 2
+:sectnums:
+:sectnumlevels: 2
+:icons: font
+:pagenums:
+:orgname: CIOET
+:req-cnt: 0
+
+:footer-left: [CONFIDENTIAL] CIOET PROPRIETARY
+:footer-center: {doc-id}
+:footer-right: Page {page-number} of {page-count}
+
+= Full Experiment Report: BTB051E1H1
+{orgname} | Doc ID: {doc-id}
+
+<<<
+
+== Document Control
+
+=== Revision History
+[cols="1,2,2,2,2,3", options="header"]
+|===
+| Revision | Date | Author | Tech Reviewer | Internal Reviewer | Description
+| {revnumber} | {revdate} | {author-name} | {reviewer-name} | ? | Auto-generated from BTB Master File.
+|===
+
+=== Proprietary & Confidentiality Notice
+[IMPORTANT]
+====
+*CONFIDENTIAL & PROPRIETARY INFORMATION OF CIOET*
+
+This document contains experimental data and intellectual property that is the exclusive property of *CIOET*.
+
+. *Disclosure:* No part of this document may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of CIOET.
+. *Access:* Access to this document is restricted to authorized personnel only.
+. *Regulatory Status:* This document is a controlled record maintained as part of the Design History File (DHF) in accordance with ISO 13485.
+====
+
+<<<
+
+== Identification & Study Overview
+
+=== Experiment Identification
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Organ ID           | *BTB051E1H1*
+| BTB Session        | BTB051
+| Date               | 15/4/26
+| Experiment No.     | E1
+| Sample No.         | H1
+|===
+
+=== Study Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Study Location                         | Chennai
+| Sample Collection Centre               | Deen Mutton Stall
+| Perfusion Method During Cardioplegia   | ?
+| Hardware Remarks                       | Sampling porttaken from aortic line and created a shunt to reservior. Also connected pre and post oxgygentor sampling prots to access oxgyentor efficieny
+| Perfusion / Hardware Details           | V03R17
+|===
+
+=== Study Objectives
+
+[NOTE]
+====
+To test the perfusate modifications with sodium pyruvate and STS; Check the viability upto 6 hrs perfusion.
+====
+
+<<<
+
+== Personnel
+
+[cols="1,2", options="header"]
+|===
+| Role | Name
+| Study Lead      | Dr Priyanka N
+| Study Overseer  | Aakash
+| Participant 1   | Dr Nabeel P
+| Participant 2   | Sri Keerthana
+| Participant 3   | Jayavinisha
+| Participant 4   | Shanid
+| Participant 5   | nandhini
+| Participant 6   | vengad
+|===
+
+<<<
+
+== Donor Information
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Species          | Goat
+| Gender           | Female
+| Age (Months)     | 6
+| Weight (kg)      | 9.8
+| Death Time       | 30/12/1899
+| Retrieval Time   | 30/12/1899
+| Harvest Duration | 9
+|===
+
+<<<
+
+== Organ Collection
+
+=== Collection Solution
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Solution Code              | ?
+| pH                         | 7.3
+| Solution Temp Before (?C)  | 7.1
+| Solution Temp After (?C)   | 12.9
+|===
+
+=== Organ Assessment at Collection
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Heart Weight (g)    | 74
+| Muscles             | Hard
+| Beating             | Yes
+| Pericardium Intact  | Yes
+| Red Patches         | Yes
+|===
+
+=== Severity Assessment
+
+[cols="1,1", options="header"]
+|===
+| Chamber | Severity
+| Left Ventricle (LV)  | ?
+| Right Ventricle (RV) | ?
+|===
+
+[TIP]
+====
+Severity scale: *Absent* ? *Mild* ? *Moderate* ? *Severe*
+====
+
+<<<
+
+== Cold Cardioplegia Perfusion
+
+=== Perfusion Parameters
+
+[cols="1,2", options="header"]
+|===
+| Field | Value
+| Administration Type    | ?
+| Solution Code          | 0
+| pH                     | ?
+| Volume (mL)            | 7.37
+| Organ Prep Time        | 1000
+| Flow Rate (mL/min)     | 5
+| Start Time             | ?
+|===
+
+=== Cardioplegia Remarks
+
+[NOTE]
+====
+65
+====
+
+<<<
+
+== Observations & Notes
+
+// Add intra-experiment observations, deviations, and annotations below.
+// This section is for manual completion post-experiment.
+
+[cols="1,3", options="header"]
+|===
+| Timestamp | Observation
+| | 
+| | 
+| | 
+|===
+
+<<<
+
+== Final Approval & Sign-off
+
+[cols="2,2,2,2,3", options="header"]
+|===
+| Role | Name | Signature | Date | Remarks
+| Study Lead      | Dr Priyanka N      | | {revdate} |
+| Study Overseer  | Aakash  | | {revdate} |
+| Lead Biologist  | Dr. Priyanka        | | {revdate} |
+| *QA/RA*         |                     | | {revdate} |
+|===
+
+[NOTE]
+====
+Document ID: *{doc-id}* | Version: *{revnumber}* | Auto-generated from BTB Master File.
+====
